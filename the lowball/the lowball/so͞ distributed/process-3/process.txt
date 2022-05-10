@@ -1,0 +1,34 @@
+**** so͞ distributed
+***** Distributed consensus                                   :forces:fronts:
+***** Sync
+****** STRUCTURE
+******* SPACES
+***** Consistency
+****** STRUCTURE
+******* SPACES
+***** Identity validation
+****** STRUCTURE
+******* SPACES
+***** so͞
+****** so͞
+******* chain of trust
+******* mechanism of control
+******* Logic
+******** embedded information
+******* spoofing
+
+
+*** notes
+**** STRUCTURE
+***** SPACES
+
+**** so͞
+***** so͞
+****** chain of trust
+****** mechanism of control
+****** Logic
+******* embedded information
+****** spoofing
+******* 
+
+

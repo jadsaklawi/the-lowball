@@ -1,0 +1,29 @@
+*** process
+***** A RIGOROUS GEOMETRY                                           :subcard:
+****** STRUCTURE
+******* SPACES
+******** channels
+
+****** Unit Structures
+******* Units
+******* Steps
+******* Whisps
+******** Surveying;
+******** Whisps
+******* Blocks
+********** shrinkage
+
+****** BLOCK
+       shrinkage
+******* prior
+******** shrinkage of space
+********* prior to
+********** shrinkage of space
+********** space, shrinkage of
+
+******* shrinkage of
+******** SPACES
+
+******* shrinkage of space
+
+

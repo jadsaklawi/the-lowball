@@ -1,0 +1,979 @@
+From - Mon Feb 14 17:30:09 2022
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Delivered-To: jad.saklawi@gmail.com
+Received: by 2002:ab0:1d08:0:0:0:0:0 with SMTP id j8csp1453111uak;
+        Sun, 28 Feb 2021 22:48:26 -0800 (PST)
+X-Google-Smtp-Source: ABdhPJwjduiJfMLSSxaP0zV9ocVjavpnAKqcuQjURTSke/fBSy+xGiiuizV+3/p54PDYUz8m3QRi
+X-Received: by 2002:aa7:db01:: with SMTP id t1mr1941857eds.77.1614581306393;
+        Sun, 28 Feb 2021 22:48:26 -0800 (PST)
+ARC-Seal: i=2; a=rsa-sha256; t=1614581306; cv=pass;
+        d=google.com; s=arc-20160816;
+        b=mZ7iOmtT9x7HGlVUUgkzpEi/o7AQFIM8/W8j5dRySkq+WSlpf0eqsoRqJiCniYYhn4
+         RYqv0rRh5/PSds37OV/FE+vEiscpds4dWKuoHi8/LSs4MxLog9atiH5gkEAW++7dD4xa
+         9cI9DbtZfqdigcSR9OHiRzju1W2vHLxRX/3cGqe64al0H0rtpiibXWWpxxUvdkLTTqhu
+         1e5w7owe81UhQm9xy/z3p0TCZ4qEgxhVV9IlIIN8brfaD+QNY9G3MFN2tMopZ9d26X73
+         E8YkckV/f9v+fYxLrYi/Bt1b6gSExGe57z+POyEzEVxXxHPXp3hp81f4BXP8KmOQdrPG
+         yYXQ==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:content-language:accept-language:in-reply-to
+         :references:message-id:date:thread-index:thread-topic:subject:to
+         :from:dkim-signature;
+        bh=cLOBn0ewgyAcY21nca9pToT6ZfJ07fhY3h6pS0cUDF0=;
+        b=HK+jJuwcj+ib3X8U9GM1PaVCgGPyd1Jgr6bmdD7ROwFzJUQl9Esh4kZoSrpcX30slm
+         E7EyiQin3QBD0ZyeiRoMl0bFTM1+LGHhPgUVHQmHmTQUKcEWmO0XzsQzCvS2j4eYEuQJ
+         /YpeicdpfwJafuJz+iMPvZsLyCN2BJzayjLHVC4CjRhxtz7T8Nzm066fT3wTFSlaOO0L
+         e6J3AcyrITacRwqkacuUTkb+Fl6B0Nb4CMCyjJ04aWnLPo7KY+ZW0+DjBygiGcfN2kxu
+         +xBKIjYwnsZnyPltcy5yvM3JBBjBhAxNvFPDdj7ycPaJzHx62Q2uln5q9wDxFkqOjeg3
+         QJOQ==
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@hotmail.com header.s=selector1 header.b=NAU5CRmF;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.75.75 as permitted sender) smtp.mailfrom=michel_soufia@hotmail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=hotmail.com
+Return-Path: <michel_soufia@hotmail.com>
+Received: from EUR04-VI1-obe.outbound.protection.outlook.com (mail-oln040092075075.outbound.protection.outlook.com. [40.92.75.75])
+        by mx.google.com with ESMTPS id g2si7357113eja.442.2021.02.28.22.48.25
+        for <jad.saklawi@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 28 Feb 2021 22:48:26 -0800 (PST)
+Received-SPF: pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.75.75 as permitted sender) client-ip=40.92.75.75;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@hotmail.com header.s=selector1 header.b=NAU5CRmF;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.75.75 as permitted sender) smtp.mailfrom=michel_soufia@hotmail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=hotmail.com
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=nPUC82TP97pXt6DyuSE3/Usm3EmrFAi2sKOnwl0MXEQRpxERAvER6OXisLYGKOf0IwK6ON4BrTi61uFQlWV5OABrBXBC4Ek+3gOrnsw5iBd3K62qL213H1CMRmABRZtDXUocxOwhsVQA2BUOlXKe91uD3lhoU+lDjA+i3rZSJFNY6pqg8Si9XUUK0GHA/t0L6sNQU4CDOJibsd7IvYLcCOoyIa8rqJy6tGFuA+TABVQMYcwQTiWPKHCsWNvbdWxKTOiPNiYhzGccUJM9La52ZibwGdHkNKDFvNm0XtzzubP7zlpSRaiiN2aPilHSjcethu9dZfBsdRYExwx5ikfyuw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=cLOBn0ewgyAcY21nca9pToT6ZfJ07fhY3h6pS0cUDF0=;
+ b=hQySsCvGvkiPnGIOVCkyDMx24zHTZHtjjKXt1h2hCGE227UGUF3bnS+qq7Naqdu1MI+VY2urZrnMdTbK4Y1lmME5W2KRVyYThhV7pITQAuuFRQ4YrL04yPyVaxgvOPX6HrPUPr6s2VTdiKa4NqgRdYWgVdp8hWN2hEXqx76znoxCz2nqispoGNZ1DbecbsBLf+co1pVZuJUs28HIxxLAchBoyfraEDrBeXnhAHHDe1BpiSy5bYA24EaAtHBbkYFzNKt4aw3zMsjkwsK5LmuQGNlq79Gu84nanog3xDdscedenNThYg8vQzvn5gVottUvFU0VXlNI8OiDqYwlNpSq9g==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=cLOBn0ewgyAcY21nca9pToT6ZfJ07fhY3h6pS0cUDF0=;
+ b=NAU5CRmFhOiP9g1lthxzrh7GvqnG/wD+XlOcxD5FUdtABoYvxh4baffwHnSgg6OldEJJ5TMSNBdHQVxO/y6OSIne8cqyAHiVLeNPoCOjSkLR6pc46llsgk+YGXQSbOGzwS/O2LmqxEf3zyXgZbRZZZegRq2RGYgxL3CuJlZUj5vUwwUByRIvIaJRA6uZCicw1kj7n1san6R+ujvy9WebDg8pBf/vFZT5YbUGgp6gS/8O4jn0T8u4pUO/B25gqvQYQbwXI0s3bFuOJV0r7kCec86Ucn4YA2fQxniHXWBqMtnVDkaYJ7P55cZff+2OOg3WDDIPV5xw33bzlDDeGvec0Q==
+Received: from HE1EUR04FT033.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0d::43) by
+ HE1EUR04HT180.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0d::392)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3890.19; Mon, 1 Mar
+ 2021 06:48:25 +0000
+Received: from AM6PR09MB3540.eurprd09.prod.outlook.com
+ (2a01:111:e400:7e0d::4b) by HE1EUR04FT033.mail.protection.outlook.com
+ (2a01:111:e400:7e0d::292) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3890.19 via Frontend
+ Transport; Mon, 1 Mar 2021 06:48:25 +0000
+Received: from AM6PR09MB3540.eurprd09.prod.outlook.com
+ ([fe80::b8a9:92:de68:1fd]) by AM6PR09MB3540.eurprd09.prod.outlook.com
+ ([fe80::b8a9:92:de68:1fd%7]) with mapi id 15.20.3890.028; Mon, 1 Mar 2021
+ 06:48:25 +0000
+From: Michel Soufia <michel_soufia@hotmail.com>
+To: Jad Saklawi <jad.saklawi@gmail.com>
+Subject: Re: Report #10
+Thread-Topic: Report #10
+Thread-Index: AQHXDlNHaJnQXgOeTUWEfDpyv2kIF6pusQv5
+Date: Mon, 1 Mar 2021 06:48:25 +0000
+Message-ID:
+ <AM6PR09MB3540D50450349552D9C6E261919A9@AM6PR09MB3540.eurprd09.prod.outlook.com>
+References:
+ <CAMd7mzUHp6g+YqdeRYbbr1MaH3RrOxuwAFNPQRSeSdZL=nBuuQ@mail.gmail.com>
+In-Reply-To:
+ <CAMd7mzUHp6g+YqdeRYbbr1MaH3RrOxuwAFNPQRSeSdZL=nBuuQ@mail.gmail.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker:
+ OriginalChecksum:DDB4CFA8CCA1357DAA8896D2BAEDB0E0C2638D83D18897BC0601D9ED8168E8D2;UpperCasedChecksum:08738257C95504D9C70F00B3611EBCDAF0F68ABCB15F13173AC160380B6EB602;SizeAsReceived:6795;Count:44
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [DPx/d7NcBAXRLg3ONBluWEsOD04fpLV4]
+x-ms-publictraffictype: Email
+x-incomingheadercount: 44
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: 5f572729-1118-4eec-3540-08d8dc7e0349
+x-ms-traffictypediagnostic: HE1EUR04HT180:
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ msaDmjATE9pu+cDleq3FZefzntQn8EbwH0IJzO3ShyDp+leJySzYS6Uq6X6fHISIzo//t3Vk/nLqJGqTIA3KbRtmjBLIjwwkYfMM1YLWY6IrIHzzOPONrVb1KI/7FaKgSWKBIa2l6wcCCjDeMgDJGPbV3F8l0xUfv3z7daHUEbGBufYrzi7rdfHTn+k592E38PVPZ2m4eOw13onhSu64+Ukc71rr2ndHacgLUubE8H3NByQSQmovoG3P50xw5I0IYfBbAfXyV26OEfXIm4CPE87yhrcGNq5G92M+WCYF9dRSYaDVz07KtaI7k4vWS9vCEPP/aV0jnFy1B7SYevPFmjO+vHGV829wjTJkDLq/DUl2hcWA7v1rC4ZjlEwHgDDsiVxhCz4GRgqKftykp5MWCw==
+x-ms-exchange-antispam-messagedata:
+ h+VwG4OHPxcBKSjH/ysm5VgTfK67ck6zWCC/uAE6vY8wHxEO6Fi5NwxWaIg8LkIjiQ/72QLZG7trDeDE8LFjY2iYBZcgokmooga1Or5a4bVt3PnQkO/oB/JE+5NMucuDWVoW379Y2kh5cbjvgZdoSg==
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_AM6PR09MB3540D50450349552D9C6E261919A9AM6PR09MB3540eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-AuthSource: HE1EUR04FT033.eop-eur04.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: 5f572729-1118-4eec-3540-08d8dc7e0349
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Mar 2021 06:48:25.0945
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: HE1EUR04HT180
+
+--_000_AM6PR09MB3540D50450349552D9C6E261919A9AM6PR09MB3540eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you, well received
+
+Dr soufia
+
+
+
+
+________________________________
+From: Jad Saklawi <jad.saklawi@gmail.com>
+Sent: Monday, March 1, 2021 6:27 AM
+To: Michel Soufia <michel_soufia@hotmail.com>
+Subject: Report #10
+
+   Find attached.
+
+Jad Saklawi
+
+--_000_AM6PR09MB3540D50450349552D9C6E261919A9AM6PR09MB3540eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+Thank you, well received</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+Dr soufia</div>
+<div>
+<div id=3D"Signature">
+<div>
+<div></div>
+<div id=3D"divtagdefaultwrapper" dir=3D"ltr" style=3D"">
+<div id=3D"geom_inter_1561266265588_12_3" style=3D"">
+<div style=3D"color:rgb(0,0,0); font-family:Calibri,Helvetica,sans-serif; f=
+ont-size:12pt">
+<div id=3D"geom_inter_1561266273097_74_11" style=3D""><br>
+<br>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div id=3D"appendonsend"></div>
+<div style=3D"font-family:Calibri,Helvetica,sans-serif; font-size:12pt; col=
+or:rgb(0,0,0)">
+<br>
+</div>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Jad Saklawi &lt;jad.s=
+aklawi@gmail.com&gt;<br>
+<b>Sent:</b> Monday, March 1, 2021 6:27 AM<br>
+<b>To:</b> Michel Soufia &lt;michel_soufia@hotmail.com&gt;<br>
+<b>Subject:</b> Report #10</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div dir=3D"ltr">
+<div>&nbsp;&nbsp; Find attached.</div>
+<div><br>
+</div>
+<div>
+<div>
+<div dir=3D"ltr" class=3D"x_gmail_signature">Jad Saklawi</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_AM6PR09MB3540D50450349552D9C6E261919A9AM6PR09MB3540eurp_--
+From - Mon Feb 14 17:30:09 2022
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Delivered-To: jad.saklawi@gmail.com
+Received: by 2002:a9f:25ac:0:0:0:0:0 with SMTP id 41csp1441391uaf;
+        Tue, 1 Jun 2021 00:23:56 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJzV62ytJuV1COLPYSx2ABJvF2IOY2Y5ssxii+TcBTvB8s+j4PtSLy5yxL+zDxwzn5LCqFuD
+X-Received: by 2002:aa7:d755:: with SMTP id a21mr11165737eds.146.1622532236050;
+        Tue, 01 Jun 2021 00:23:56 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1622532236; cv=pass;
+        d=google.com; s=arc-20160816;
+        b=xzKUwDGSiPVpa+3VQbDuF0gMx5CiCx+M2YENH574n0Tt/Mvg3Lkcu8WW5DyPmifvky
+         64X2j37QN+KnGYxi+6o3SaG5sqqGiE+eRP8jOC4jzD2zgRW6Kor027SVGWHS9DTMpOtw
+         sgob0lvlLFuPrFLNJSj/bNwsXeByZus4y/7O3uJox0P3x33fddpp2IE+O0V8Vh5deLoY
+         iMyDqjSaUAZs0a3x0CiX25LIoBJbUyciWO9iwsyHOlaptb8sqq7QYjaJwjZskTPXNJa6
+         j1jzKANMWht1zs1wOhb5tIQACJKYoDy9hhArelN1uK9lpP4ETIq21EYGWdAhkisaSWhg
+         cbuA==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:content-language:accept-language:in-reply-to
+         :references:message-id:date:thread-index:thread-topic:subject:to
+         :from:dkim-signature;
+        bh=lf5rLJu4SIE6UYn6lP2/FPciuJRHgx4WCPDJqbiyoOU=;
+        b=vdMwr/NaAXl9MZhTxAL3NziU8n5Tfd8OOv5DuH3/SbotgoMguxebOV2tA+csctRwmP
+         Eg8gFx/tCO+C1urBzslBMbLKq46d8XS9+RBqq7f336x88I4xFa7HLDSilUe/xXkoH3d9
+         7EyBmn9xoq/PuECwMgqSaQ4Phdkrd6LUzqfoDZIo69Pid7CpMKPA350dH++14rVwHL2T
+         XqY+xBqI7eXWfmkbZQrdfJ9FjiLRrZ2NYKI/VZ+psmKSJ8YuzsMFzEfRLhKRukyvzwWM
+         2rjlnlna09ena63jCSDua2Rt50D0fKriu0EgLPqt0WoWaC/+mxsUbRWGIRDiTRIZ5Xvd
+         J6yg==
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@hotmail.com header.s=selector1 header.b=J2KLSt6T;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.72.19 as permitted sender) smtp.mailfrom=michel_soufia@hotmail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=hotmail.com
+Return-Path: <michel_soufia@hotmail.com>
+Received: from EUR03-VE1-obe.outbound.protection.outlook.com (mail-oln040092072019.outbound.protection.outlook.com. [40.92.72.19])
+        by mx.google.com with ESMTPS id ja16si14966560ejc.611.2021.06.01.00.23.55
+        for <jad.saklawi@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 01 Jun 2021 00:23:56 -0700 (PDT)
+Received-SPF: pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.72.19 as permitted sender) client-ip=40.92.72.19;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@hotmail.com header.s=selector1 header.b=J2KLSt6T;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.72.19 as permitted sender) smtp.mailfrom=michel_soufia@hotmail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=hotmail.com
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=QQlJ7OSKQ5RUfP4iUwCENiBOJaL8xlLPaQ2vPdZxWWWB2J1gNqAwovHFn5NDnTVgpRB/K9+ERaXCeVw852aCn9nCwIS6uNAdMeFdVWzInmNhTBnrlR5huCuU4Uktm5m/4Jc6TqGT7KsivXH5ddKl4yHIgE5CSkBC5+A8NNitsQUCYTYRRND254y0e6vOFO4JiGx1B/SfWkX+OuGFhjz2ruxu2gpzcIhm/DkPNcbe5KTHHYOplElJmDysJ5oIXSM5fRR7FEq1MIXDGW6Kb52vwBOYt7kjiMabSNF7sq1X3cBk7s+imzvTkAI1el1J6LP2qbqwwJcLQRts1o98dZOXiA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=lf5rLJu4SIE6UYn6lP2/FPciuJRHgx4WCPDJqbiyoOU=;
+ b=HOuqvkL2q+dNv362fLBccgY0E8DZmh0+rJQF8XrPMvetoScMbKoyHzeLHuKCPqwZNH4JHcBzyVXHbOs8d/z8MeGUYdIZlPizNRsh7Y5/BJR0nI60wL3PgMOnbseDpzjvFmYMie4t7ISZfkm2QKqDIOuLTOBLh39FmpXBoFekv/oExwpfHHqnPnYuk0hxTAmL0lzD2zHSKh6uhqoJN6YEHn1lf5iWJlMwSuXtdyTDqb+tLG6j8IFVrY3ldfXq1DU/pttJO9ivb8NuFfThNcncd+2z+ddq8Wz+t/8p68216QBNnelvvNBOGiDnslClfO6Pn5PH/QaLZewGrsPQo1wdzw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=lf5rLJu4SIE6UYn6lP2/FPciuJRHgx4WCPDJqbiyoOU=;
+ b=J2KLSt6TjbWOGp4+Dec1B/4sKrGb42EbshHnRkSMi3tE4IKJrGd9nz4k5JxwsJXblH+S2+zXqNl8ER78zyJWTByCn/KeP4ibLPi3G2LzmTC5jr/Wylbd56t+F28kMTwazRCtI+HEr7zmy0D1jMoq+gK6pWX8SksYU+V+zMV9H6+w6gLahHqcrdIx5KG6NNntg/GLoj6bTkHiAuy9rCuApdMPEJJ4pvS2cmS21DDV0A87Okwla8Gm5bbK6CEBC8O71kg4kIGfzNo/mlqkXZ8VWqYJd91zmVQu2z+tlF+rOMC4OTWmzN9VMufQUi6Wq35gKGfjr0VaKz5nEUBb9n9PLw==
+Received: from DB5EUR03FT044.eop-EUR03.prod.protection.outlook.com
+ (2a01:111:e400:7e0a::4e) by
+ DB5EUR03HT245.eop-EUR03.prod.protection.outlook.com (2a01:111:e400:7e0a::223)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4150.30; Tue, 1 Jun
+ 2021 07:23:54 +0000
+Received: from AM6PR09MB3540.eurprd09.prod.outlook.com
+ (2a01:111:e400:7e0a::45) by DB5EUR03FT044.mail.protection.outlook.com
+ (2a01:111:e400:7e0a::423) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4150.30 via Frontend
+ Transport; Tue, 1 Jun 2021 07:23:54 +0000
+Received: from AM6PR09MB3540.eurprd09.prod.outlook.com
+ ([fe80::a58c:61b4:dc80:9a7d]) by AM6PR09MB3540.eurprd09.prod.outlook.com
+ ([fe80::a58c:61b4:dc80:9a7d%6]) with mapi id 15.20.4173.030; Tue, 1 Jun 2021
+ 07:23:54 +0000
+From: Michel Soufia <michel_soufia@hotmail.com>
+To: Jad Saklawi <jad.saklawi@gmail.com>
+Subject: Re: Report #11
+Thread-Topic: Report #11
+Thread-Index: AQHXVpkLnZbqOPMb+0uDlu5E2TZuI6r+wOlo
+Date: Tue, 1 Jun 2021 07:23:54 +0000
+Message-ID:
+ <AM6PR09MB354069B4EA9FBE10B0742848913E9@AM6PR09MB3540.eurprd09.prod.outlook.com>
+References:
+ <CAMd7mzXW8kw23dwOdOCvu2QMEMzc4qWWT6F9ZkHKk2pq7ougpA@mail.gmail.com>
+In-Reply-To:
+ <CAMd7mzXW8kw23dwOdOCvu2QMEMzc4qWWT6F9ZkHKk2pq7ougpA@mail.gmail.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker:
+ OriginalChecksum:1976A674E363B2A7F77A6AEBA590456324BA74F4BE3EDBAE975B77195A691B4B;UpperCasedChecksum:CCEC5AF5112D8B83670A7CEFD543BE4A03E767BB6821FE884E46B71DACDE817B;SizeAsReceived:6812;Count:44
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [ix94CZL78jW6ULu3RGCrlaTfYf6XBIHc]
+x-ms-publictraffictype: Email
+x-incomingheadercount: 44
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: cfd98e34-3758-4adb-1a7e-08d924ce36b6
+x-ms-traffictypediagnostic: DB5EUR03HT245:
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ +q2Yxzl9nKf4s44m716N2g4XajZczCls2taSJ0VTc5dU8KRqWeohuOc/lrzinJXxoEovFbYMDYiM5BtkyUL8o+Ui1N0YpA1N1V3UPUgDZ10C8CFvdi7oyCkN/wUPceIz3lf2jekBP/JevMVa66IpGn0OXVdrO/985mRi4IzUtFxgjlR1NcBB4KKE3nsEqNOZkJ7ruD59OWPXjiqpTcxwU+yudvW7BoqQcenn4ffY853lR6Sa/Dfm93Z14Y19/2Q+CqS6sj41VCCoiDSJVEbdq/KF82ny5/7mPgAhtAqvxVanPWz6I92OUSKp1J1W8IN9KXJYJTWK6lfyoQDJWbMlLVrMnB3ipLu+zSJDN4/tQ7xA6esOgXh5Fm1KHz/xZ2PmH6euUqVxey01+caspCAPXw==
+x-ms-exchange-antispam-messagedata:
+ 8/xSDZCxOTgaqPBkuD8uI3N4rkUq/TQtEGSbFjN2a9CWGVwz11s3s8A2cfdRNpGYEBDAE5ZyYLE4PzPo5qwoZC4pyKJW6pKOzt2kjv17NmxgdLq6ACUfoiybsgLyDUfBCyvGdhL6p1LRqorsVWcJAA==
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_AM6PR09MB354069B4EA9FBE10B0742848913E9AM6PR09MB3540eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-AuthSource: DB5EUR03FT044.eop-EUR03.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: cfd98e34-3758-4adb-1a7e-08d924ce36b6
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Jun 2021 07:23:54.8183
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DB5EUR03HT245
+
+--_000_AM6PR09MB354069B4EA9FBE10B0742848913E9AM6PR09MB3540eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+thank you
+well received
+
+Dr soufia
+
+
+
+
+________________________________
+From: Jad Saklawi <jad.saklawi@gmail.com>
+Sent: Tuesday, June 1, 2021 6:48 AM
+To: Michel Soufia <michel_soufia@hotmail.com>
+Subject: Report #11
+
+   Find attached.
+
+Jad Saklawi
+
+--_000_AM6PR09MB354069B4EA9FBE10B0742848913E9AM6PR09MB3540eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+thank you</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+well received</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+Dr soufia</div>
+<div>
+<div id=3D"Signature">
+<div>
+<div></div>
+<div id=3D"divtagdefaultwrapper" dir=3D"ltr" style=3D"">
+<div id=3D"geom_inter_1561266265588_12_3" style=3D"">
+<div style=3D"color:rgb(0,0,0); font-family:Calibri,Helvetica,sans-serif; f=
+ont-size:12pt">
+<div id=3D"geom_inter_1561266273097_74_11" style=3D""><br>
+<br>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div id=3D"appendonsend"></div>
+<div style=3D"font-family:Calibri,Helvetica,sans-serif; font-size:12pt; col=
+or:rgb(0,0,0)">
+<br>
+</div>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Jad Saklawi &lt;jad.s=
+aklawi@gmail.com&gt;<br>
+<b>Sent:</b> Tuesday, June 1, 2021 6:48 AM<br>
+<b>To:</b> Michel Soufia &lt;michel_soufia@hotmail.com&gt;<br>
+<b>Subject:</b> Report #11</font>
+<div>&nbsp;</div>
+</div>
+<div class=3D"BodyFragment"><font size=3D"2"><span style=3D"font-size:11pt"=
+>
+<div class=3D"PlainText">&nbsp;&nbsp; Find attached.<br>
+<br>
+Jad Saklawi<br>
+</div>
+</span></font></div>
+</div>
+</body>
+</html>
+
+--_000_AM6PR09MB354069B4EA9FBE10B0742848913E9AM6PR09MB3540eurp_--
+From - Mon Feb 14 17:30:09 2022
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Delivered-To: jad.saklawi@gmail.com
+Received: by 2002:a9f:25ac:0:0:0:0:0 with SMTP id 41csp2182811uaf;
+        Sun, 13 Jun 2021 12:43:48 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJwEKtgs3p70+jWpU+V+m0zrkGTwbIDv1mZj7mjRkOfMynIAurtMMKfCK/Jx7B1Vc08gn43z
+X-Received: by 2002:a37:f909:: with SMTP id l9mr14037998qkj.428.1623613428380;
+        Sun, 13 Jun 2021 12:43:48 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1623613428; cv=pass;
+        d=google.com; s=arc-20160816;
+        b=NjaJSAWta2dRnpvDi4KnM/W1bgCV08vyJ+g9wCkCRAB/sb+GVqy/FbR0lZrOtuvORU
+         vxKAIF9fcGhs5yvwgzYXtvHXU9LdWdwxEtS3Djz0A3/LhrUYhePCaOArof+s8YLRlqdW
+         AEpL6QjZWmggxLTstPFQVkJPaHrymtdw2XU1vv88NxSvA1gXsVJuWUGkjFETQLGt7eTx
+         yi9b4zNdqq5S5oKnjalU3GAsYuc/QTf1xFWDFMPzZ0Qy3dVvynJNDoIa3NYKfEhRyJ4J
+         zthlNf/t/pmtY/YFdjq/9YZIeWYfg3ji1Z0zxZiGv+hn/zDPzpVbtZ+GnVMmbTWbxDxQ
+         Rz8w==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:content-language:accept-language:in-reply-to
+         :references:message-id:date:thread-index:thread-topic:subject:to
+         :from:dkim-signature;
+        bh=EWAl04WLEcLcElFdpEpIogd/f9jIyAv2woXzpYAWnOo=;
+        b=FP4r42w731gnTU42NvneAUVV7UybigP2qUc8/aWq2AbrkYLDSCWmOeKS287pCbB43z
+         q0FE9Rddw25vIenSbFTOXfgx+LCe1Zfdv+sNRp9HsDduoIABq+gUX7OQVP5HKY4FJoz0
+         NWEeTAQTEdQ1uAuxcYmsJlIKydbE2yzFj2nMevubqdVfeSAx00hFHDay7vUSy3la7x0h
+         TpmCxrwHq+n9sepOOo3F/SM48ANkEgBVBubphmAw1W+7xC3YYfs+eRFuC2sPJ1aslMHz
+         hdgAtUSR0fsmIMA2RHwscbLjOqNf/RY68OZmwjFADG9FozlNhW35lx0pxtDrSx1QGv9Y
+         TENg==
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@hotmail.com header.s=selector1 header.b=BwNfihSb;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.90.70 as permitted sender) smtp.mailfrom=michel_soufia@hotmail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=hotmail.com
+Return-Path: <michel_soufia@hotmail.com>
+Received: from EUR05-VI1-obe.outbound.protection.outlook.com (mail-vi1eur05olkn2070.outbound.protection.outlook.com. [40.92.90.70])
+        by mx.google.com with ESMTPS id g22si9252964qtx.342.2021.06.13.12.43.47
+        for <jad.saklawi@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 13 Jun 2021 12:43:48 -0700 (PDT)
+Received-SPF: pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.90.70 as permitted sender) client-ip=40.92.90.70;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@hotmail.com header.s=selector1 header.b=BwNfihSb;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.90.70 as permitted sender) smtp.mailfrom=michel_soufia@hotmail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=hotmail.com
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=AWYD2uRwJiWfA3OOPBijGB78FHj8PWdMHvZyqm58bjbDmC2XpXLzI1rDPm3z87LA4e68q2f6M1Vtr72NNyZGeB9gjxCLGAvdQllAqz2Jq4hxD7lbjthHnVpqmIT/srsD9NFXttiX1L9xnN3XpGWD6rSltER90h051YTLMCIbgyS394ATp3PavBr5x6CM9rqFKNyLNDGqmcyKiCg732H8mUQvToAQ4IHk9PSxCNbORjBxTvItJm2FcZK67FV8LcmVWCX15KY+MoOjeZeqchy6AVY/smJr2HrOCeQZj/8pA+8ONlRudouoNx82qYK6AZRYdrEQUSd4sI2FwAaoX5SMGQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=EWAl04WLEcLcElFdpEpIogd/f9jIyAv2woXzpYAWnOo=;
+ b=LZ+yS2tWTv/5wdD6SHnk3RvQapS986CKSR6693BQtnkD+e9AEwEWF39N/4Xn/cu275p9j/fUubjd83xzBIBCy+ap1dpAUIIKWzp4peF48J9jNkbsxV+Pm4Qfi3jpUShfhR2GvrCVhpZhocl5FX9RD6LylgKRY611xc8L65Do5hL51bfew7+eVaUa393wMzz7hQPBBozOCR+LZhBDbIOpwWstUA0RUWhO33HyhzcGLlUy9zkTEC2ZhCsfnNhGEYxOhxqvmztn3pEw5KvKSTxItSaEsH+ZdZV+GTFeB/iDKEt+1N4QfsqF/PKCHFX5NDDKBGAm3RkZYUbIDF8ftzH7sw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=EWAl04WLEcLcElFdpEpIogd/f9jIyAv2woXzpYAWnOo=;
+ b=BwNfihSb6v48836uL0p3oiY0JzImzcjNygLg6KN9WrWALvT6mSD5eHOrSo1KWQLnzw03I9xEQuZGAMLfVAv4QjSD/h9bg7qjvhfLecsoTzQXjnDKbXY25LjaKhmD6xPceAjw6LUIGzgm9Bl4pbxpz0gOgIGiZHs+uh4Xn4OlGxr8ltaO6WUUmZj+fqXjX0cgJV4DdZECdNG4XFgh0U9CR+PdScfiKG3SF/c6RXYJrARrq/zyPDtVxvTQPLJ6sYau0comdSV76X5BYlw6AEFqVHisUM2Y9OsiiNOoGgAqDmRMNbJRUKxl5igWUKAxC001gsT0uQqqNw8M976JAPFRHQ==
+Received: from VI1EUR05FT050.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc12::45) by
+ VI1EUR05HT099.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc12::134)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4219.21; Sun, 13 Jun
+ 2021 19:43:46 +0000
+Received: from AM6PR09MB3540.eurprd09.prod.outlook.com
+ (2a01:111:e400:fc12::41) by VI1EUR05FT050.mail.protection.outlook.com
+ (2a01:111:e400:fc12::291) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4219.21 via Frontend
+ Transport; Sun, 13 Jun 2021 19:43:46 +0000
+Received: from AM6PR09MB3540.eurprd09.prod.outlook.com
+ ([fe80::5162:3c7d:4ff2:72c]) by AM6PR09MB3540.eurprd09.prod.outlook.com
+ ([fe80::5162:3c7d:4ff2:72c%5]) with mapi id 15.20.4219.025; Sun, 13 Jun 2021
+ 19:43:46 +0000
+From: Michel Soufia <michel_soufia@hotmail.com>
+To: Jad Saklawi <jad.saklawi@gmail.com>
+Subject: Re: Strategies for dealing with sedation, research findings
+Thread-Topic: Strategies for dealing with sedation, research findings
+Thread-Index: AQHXXN50dA9QkCZ0B0ugpYX4dvtO16sSXuq0
+Date: Sun, 13 Jun 2021 19:43:46 +0000
+Message-ID:
+ <AM6PR09MB35408E63A296FA18E1918C9C91329@AM6PR09MB3540.eurprd09.prod.outlook.com>
+References:
+ <CAMd7mzXfRGqfveUijr1yUNoJ2fAGJacU73haXqW4FDgrxW_WLw@mail.gmail.com>
+In-Reply-To:
+ <CAMd7mzXfRGqfveUijr1yUNoJ2fAGJacU73haXqW4FDgrxW_WLw@mail.gmail.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker:
+ OriginalChecksum:9501BE5B900E869D56AF29E27553432587FCD73E1762C0925CD24C6F668717AF;UpperCasedChecksum:0AD054893AF07A8974DB52B2FC693F9737D5AD2E2D891CF1AEEAD0BE34ADDDBC;SizeAsReceived:6883;Count:44
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [PWfZHKqGJSRU/hsZrztYTBLsPqOK2XpS]
+x-ms-publictraffictype: Email
+x-incomingheadercount: 44
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: 06505840-f6fe-4463-0bee-08d92ea38f19
+x-ms-traffictypediagnostic: VI1EUR05HT099:
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ beWQqf7Jt9eSUVI9fPmBQ2l9ydEqiMdsOB4zPGzm1nbnLeNsAf6RiIAbPo999ekE3I1/Z0jODwRPME321R7JGQzUn+6W7L1hnSUtQ6h1paBoazvYCfSaY+ugy6kb2y8if/1hp7126u7UQTFoAm7/sRnDw8FdcDMZdrahRS9mvW0ZtR/GeBC9ocWB0iw5s2skzRw/oeYlQwRBIC0NH6/oeAj+/AHKz2YEeFGo6NsK8C3bQsc6TuOMFf/69aGp9+AIf9H32+KPxEXKfzrz6TEQ3R3txFF/pu77rjVn8o7mCBmQ/V6wwg5WVGky0BDUq4iAqjG3TjPb0a9zBD4O4uOaNI+8xpZAixNMsvlGNfnzkK4l2XPSFLTTY2lSrmGbaGTyJeX+NqG4Xu9140BD3EN0XQ==
+x-ms-exchange-antispam-messagedata:
+ iS1dqcPXlJ0lnIp0Hs5Q26edw3fSnkUifLPXytJLDOIitA46sI7nmg8/5ldNyRn5ScZXfYlovsaSpFhXFDny6eVEcu5zbQLWDwX9ch5E1I9YCBeBkcf6FyP//xRkHFduWMfXScqF1zABm2wQwbQDCQ==
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_AM6PR09MB35408E63A296FA18E1918C9C91329AM6PR09MB3540eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-AuthSource: VI1EUR05FT050.eop-eur05.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: 06505840-f6fe-4463-0bee-08d92ea38f19
+X-MS-Exchange-CrossTenant-originalarrivaltime: 13 Jun 2021 19:43:46.3986
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VI1EUR05HT099
+
+--_000_AM6PR09MB35408E63A296FA18E1918C9C91329AM6PR09MB3540eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Good evening, hope all is well
+thank you jad, well received. i will check them all
+Dr Soufia
+
+
+
+
+________________________________
+From: Jad Saklawi <jad.saklawi@gmail.com>
+Sent: Wednesday, June 9, 2021 6:20 AM
+To: Michel Soufia <michel_soufia@hotmail.com>
+Subject: Strategies for dealing with sedation, research findings
+
+Dr. Soufia,
+
+   Find below a select bibliography of references that include relevant sec=
+tions on how to deal with sedation.
+
+[1]     Jonathan M. Meyer and Stephen M. Stahl. The Clozapine Handbook. Cam=
+bridge University Press, 2020.
+[2]     Del D Miller. Sedation with antipsychotics: manage, don't accept ad=
+verse 'calming' effect . Current Psychiatry, 6(8):38--46, 2007.
+[3]     C. R. Young, M. B. Bowers, and C. M. Mazure. Management of the adve=
+rse effects of clozapine. Schizophrenia Bulletin, 24(3):381--390, 1998.
+[4]     D. Sarfati, J. Lai, and H. C. Margolese. Methylphenidate as Treatme=
+nt for Clozapine-Induced Sedation in Patients with Treatment-Resistant Schi=
+zophrenia. Clinical schizophrenia & related psychoses, Jun 2018.
+[5]     Mohammad Masud Iqbal, Shivale Swati, Alka Aneja, and Mohammad Touhi=
+d Iqbal. Most common side effects of clozapine and their management. Intern=
+ational Journal of Emergency Mental Health and Human Resilience, 18(4), 201=
+6.
+[6]     Oliver Freudenreich, Joseph McEvoy, S Marder, and R Hermann. Guidel=
+ines for prescribing clozapine in schizophrenia. UpToDate: Topic, 14772, 20=
+18.
+
+Jad Saklawi
+
+--_000_AM6PR09MB35408E63A296FA18E1918C9C91329AM6PR09MB3540eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+Good evening, hope all is well</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+thank you jad, well received. i will check them all</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+Dr Soufia</div>
+<div>
+<div id=3D"Signature">
+<div>
+<div></div>
+<div id=3D"divtagdefaultwrapper" dir=3D"ltr" style=3D"">
+<div id=3D"geom_inter_1561266265588_12_3" style=3D"">
+<div style=3D"color:rgb(0,0,0); font-family:Calibri,Helvetica,sans-serif; f=
+ont-size:12pt">
+<div id=3D"geom_inter_1561266273097_74_11" style=3D""><br>
+<br>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div id=3D"appendonsend"></div>
+<div style=3D"font-family:Calibri,Helvetica,sans-serif; font-size:12pt; col=
+or:rgb(0,0,0)">
+<br>
+</div>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Jad Saklawi &lt;jad.s=
+aklawi@gmail.com&gt;<br>
+<b>Sent:</b> Wednesday, June 9, 2021 6:20 AM<br>
+<b>To:</b> Michel Soufia &lt;michel_soufia@hotmail.com&gt;<br>
+<b>Subject:</b> Strategies for dealing with sedation, research findings</fo=
+nt>
+<div>&nbsp;</div>
+</div>
+<div>
+<div dir=3D"ltr">Dr. Soufia,<br>
+<br>
+&nbsp; &nbsp;Find below a select bibliography of references that include re=
+levant sections on how to deal with sedation.<br>
+<div><br>
+</div>
+<div>
+<table>
+<tbody>
+<tr valign=3D"top">
+<td align=3D"right">[<a name=3D"x_m_-1569865307908495709_meyer_stahl_2020">=
+1</a>] </td>
+<td>Jonathan&nbsp;M. Meyer and Stephen&nbsp;M. Stahl. <i>The Clozapine Hand=
+book</i>. Cambridge University Press, 2020.</td>
+</tr>
+<tr valign=3D"top">
+<td align=3D"right">[<a name=3D"x_m_-1569865307908495709_miller2007sedation=
+">2</a>] </td>
+<td>Del&nbsp;D Miller. Sedation with antipsychotics: manage, don't accept a=
+dverse 'calming' effect .
+<i>Current Psychiatry</i>, 6(8):38--46, 2007.</td>
+</tr>
+<tr valign=3D"top">
+<td align=3D"right">[<a name=3D"x_m_-1569865307908495709_YBM98">3</a>] </td=
+>
+<td>C.&nbsp;R. Young, M.&nbsp;B. Bowers, and C.&nbsp;M. Mazure. Management =
+of the adverse effects of clozapine.
+<i>Schizophrenia Bulletin</i>, 24(3):381--390, 1998.</td>
+</tr>
+<tr valign=3D"top">
+<td align=3D"right">[<a name=3D"x_m_-1569865307908495709_SLM2018">4</a>] </=
+td>
+<td>D.&nbsp;Sarfati, J.&nbsp;Lai, and H.&nbsp;C. Margolese. Methylphenidate=
+ as Treatment for Clozapine-Induced Sedation in Patients with Treatment-Res=
+istant Schizophrenia.
+<i>Clinical schizophrenia &amp; related psychoses</i>, Jun 2018.</td>
+</tr>
+<tr valign=3D"top">
+<td align=3D"right">[<a name=3D"x_m_-1569865307908495709_iqbal_swati_aneja_=
+iqbal_2016">5</a>]
+</td>
+<td>Mohammad&nbsp;Masud Iqbal, Shivale Swati, Alka Aneja, and Mohammad&nbsp=
+;Touhid Iqbal. Most common side effects of clozapine and their management.
+<i>International Journal of Emergency Mental Health and Human Resilience</i=
+>, 18(4), 2016.</td>
+</tr>
+<tr valign=3D"top">
+<td align=3D"right">[<a name=3D"x_m_-1569865307908495709_freudenreich2018gu=
+idelines">6</a>]
+</td>
+<td>Oliver Freudenreich, Joseph McEvoy, S&nbsp;Marder, and R&nbsp;Hermann. =
+Guidelines for prescribing clozapine in schizophrenia.
+<i>UpToDate: Topic</i>, 14772, 2018.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div><br>
+</div>
+<div>Jad Saklawi</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_AM6PR09MB35408E63A296FA18E1918C9C91329AM6PR09MB3540eurp_--
+From - Mon Feb 14 17:30:10 2022
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Delivered-To: jad.saklawi@gmail.com
+Received: by 2002:ab0:1c45:0:0:0:0:0 with SMTP id o5csp1262755uaj;
+        Sun, 1 Aug 2021 10:07:10 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJw9s+4XUrrS/5O6yA2zTsOooRGjdQe85IUyQbu9HeXA6YTEdJr+6m/TDB1WqoiXLuy5QRve
+X-Received: by 2002:a92:c5c2:: with SMTP id s2mr569835ilt.180.1627837630572;
+        Sun, 01 Aug 2021 10:07:10 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1627837630; cv=pass;
+        d=google.com; s=arc-20160816;
+        b=jent5VFWSuedCouuZezWfjzS1WMp8U6meg0CMJ233r1uUhYSmbSoNq0fd7vHZr1hMi
+         fRlZtNyiK5hlItdMTxZpYKNjiodLX0+kGqulz+8GcrtqaLHpshgwP/ip9EskUNIpFAQ0
+         k4IyOpX+KHrk7B8OwqKo7TiOYYcbeDLk1vke0CEYHwd+LBCCr8/jiDpNF4Zhig8Gmg1s
+         JzPoYLP3lUl/6Fh3qPuE1HMYkd3e6OCpN2n+BBl4Y9ubnrHwBNxMYPZ+uUI1xHfqorvj
+         CdLdZbfW5cDjLup6mtvP4JOPtzDLdtEH5QvkL7p4SXvlGYRh5dvmsmgOJS1ezCPh43ut
+         F4gw==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:content-language:accept-language:in-reply-to
+         :references:message-id:date:thread-index:thread-topic:subject:to
+         :from:dkim-signature;
+        bh=y5qRobCBNwwft86YCQqxRVLKZWF2WiizTD5dnXHJaA4=;
+        b=cq602cbcy1v39WgjYmEftktMAU0V/aXSuRerNJ24mDjL2B5qpmW+dnl/W0DPV2xcdV
+         140F0DiGOOH0JDADbc6KBif205CNSsLa8aT7rK+q7M9GfZvulr/go4nPH8KwmO97v12l
+         rATwnm612AmS/QyOmDWgd0pUqLuSviqHRK8EEw5WFMFf8ymnUoyB8gro71KYH8oSl5Zv
+         6w5kWwGDm9BCvBCC9webx+2ckXVMvrbQYN+sJsCQatVItzHoe1+rsUf/Bo7uNeWjmrj9
+         QFdKCOq1DSz6nL3LmZwyPhqSmYl6mKlkwCdSZRifUeFN2F0B97PuuXDKQPmIHF1NXudd
+         DlmQ==
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@hotmail.com header.s=selector1 header.b=UVIoqW7N;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.91.45 as permitted sender) smtp.mailfrom=michel_soufia@hotmail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=hotmail.com
+Return-Path: <michel_soufia@hotmail.com>
+Received: from EUR05-AM6-obe.outbound.protection.outlook.com (mail-am6eur05olkn2045.outbound.protection.outlook.com. [40.92.91.45])
+        by mx.google.com with ESMTPS id h27si2418736jav.60.2021.08.01.10.07.10
+        for <jad.saklawi@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 01 Aug 2021 10:07:10 -0700 (PDT)
+Received-SPF: pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.91.45 as permitted sender) client-ip=40.92.91.45;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@hotmail.com header.s=selector1 header.b=UVIoqW7N;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of michel_soufia@hotmail.com designates 40.92.91.45 as permitted sender) smtp.mailfrom=michel_soufia@hotmail.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=hotmail.com
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=b1iqLEAhl9oO1h3SHKslWE36fGiscP7Ool4v76mCB8EKna43h3ylucBnPw3ZNNuKYjeH/1UYk0pUK0ayI38mvF4nf554MYsYcHLbYJ6ze979geFmsnuSIwUz7QWrZ8FJrCBjLbJIKnOIz7ETmFldnMguTh8LqNKxQXMEgYo9IsYq7yi6HokGJ+4243V0yBVfkibgbEAFi3otlKYW+LVQvG5f8o08vX2r4+FzgNWh10a1PgyyDdlypuc+Zg/5FVkw0jeZnRRaBr/UTvVLFAwrrfWmVRhrzF88+mZrMzMVxc0vk8FNVIqF0m6UYFgfzfbJQCuxf4+IkZSfBHLyDJjXWg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=y5qRobCBNwwft86YCQqxRVLKZWF2WiizTD5dnXHJaA4=;
+ b=KxVVigJtopLs2Yu66k2SmjWIuTr1g6KOK7rA4K3BtyjHpkR3rIqw8c2EUeAxH9cP404zsW+rtUpPZg5nsk+4pN/Rf7SFQJAdu5EP3LorNJELtCmqgkqS4eu+O7Q2FECLd67OGjgj0eiGOz107r6Frw1dxXdA6wSjNamlRqBUil7Y+08vMoi+xi/XkyBaV/A4fGeg3XOvQiAkoPT7iG94d/PAtp5tApl+GRHsjP4wko6VPY/e4yq5mmRPyaFVWaF6NG+ejkp7v2v6ttkrUaeZhmeGup92TIUdJSLFqcBZyrSbDUpiwnRzLrlAGDQCx/SYH1H+2H+jbB++y8Kj4ncPWA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=y5qRobCBNwwft86YCQqxRVLKZWF2WiizTD5dnXHJaA4=;
+ b=UVIoqW7NhKIHBuVADKtD1QGH+E02kjbPgGNziD995HxHiRQUTthOIEXD/d1+OGWxN7o7xK92K0REAlHLmdmX/S7FabEMppQL2DC1sbsWXcrW3m/7CCnLf6Fjdc/Kuowa/L2y6RmxlxbxFgnWydgVynAYzkblohTwuhQa5AGTichTxuqUqU3KxUa2fXouJImFenO5en7Mi67lMNJNodEXr+0BIeP1sfu9eVbj1rhJ/59bzts78G3ExLJQpUAsfskKDYb8LNUj4UgfIdC+ku0mnItPxR++3PFH83kIhP2ktCZ19c7o09GLWGCqQwAGAg4BTcgTTU5Jyk9s0F3Sj3KKtg==
+Received: from DB8EUR05FT008.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::44) by
+ DB8EUR05HT234.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::438)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4373.18; Sun, 1 Aug
+ 2021 17:07:09 +0000
+Received: from AM6PR09MB3540.eurprd09.prod.outlook.com
+ (2a01:111:e400:fc0f::4b) by DB8EUR05FT008.mail.protection.outlook.com
+ (2a01:111:e400:fc0f::145) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4373.18 via Frontend
+ Transport; Sun, 1 Aug 2021 17:07:09 +0000
+Received: from AM6PR09MB3540.eurprd09.prod.outlook.com
+ ([fe80::5162:3c7d:4ff2:72c]) by AM6PR09MB3540.eurprd09.prod.outlook.com
+ ([fe80::5162:3c7d:4ff2:72c%5]) with mapi id 15.20.4373.026; Sun, 1 Aug 2021
+ 17:07:09 +0000
+From: Michel Soufia <michel_soufia@hotmail.com>
+To: Jad Saklawi <jad.saklawi@gmail.com>
+Subject: Re: An Observation on Sound
+Thread-Topic: An Observation on Sound
+Thread-Index: AQHXheqOMtCB1iB2U0aCyd1moycxu6te42W2
+Date: Sun, 1 Aug 2021 17:07:09 +0000
+Message-ID:
+ <AM6PR09MB354074035436362E4F02525991EE9@AM6PR09MB3540.eurprd09.prod.outlook.com>
+References:
+ <CAMd7mzWKMcFfZPrbwZMsCHjbrRx8+NU2MoExaV=VQFaVfDP05A@mail.gmail.com>
+In-Reply-To:
+ <CAMd7mzWKMcFfZPrbwZMsCHjbrRx8+NU2MoExaV=VQFaVfDP05A@mail.gmail.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker:
+ OriginalChecksum:E222985F4843979C008C3C5B50B3BAC1E9523F9D5986BC0FE2E00E82C11E4AB4;UpperCasedChecksum:5430C8F7179818FE2B69E28487BB8D2F02598B2E48DEA4EFF2ABE6A33A599EEB;SizeAsReceived:6817;Count:44
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [4rNPCS77t9sr+Dhggmrxkmp8XOSBHkIG]
+x-ms-publictraffictype: Email
+x-incomingheadercount: 44
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: e060664e-c5a2-4717-30ed-08d9550ecc12
+x-ms-traffictypediagnostic: DB8EUR05HT234:
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ kdtW9C7I7A2iBqvkeERmUHb18bWLosqSaYpkC1MnNiMAco2PbtqE5vyEJ/Okq8TmYKLhZQZJuuzyk3GLuRP3nZUmKuMyraDFdBIeJgBGDTRrnMgu5BU81D1W42DK0pjWwwgHKANrVOufbS8OhRrmdXitbA6QlyY7LMKLkHwvoxXjzE/NoQKTvwx3l1iIjW2n0WxRAL7dfbLF6z2h/wPK6zycse+6hBayU5GdB+UVv7LS1RByhC3rCwSJgtST6SA0yoX0PlgQKgTAaHrHiNtHPMvI1hdkKBjH3gU9pxa4hxE2L2058ip06B/MpOom9gEHByAKKMnLOJZnpE8c2vcujibVd+pLymyyoausiLxoeEeJj8xtbPW0wAU4N8CZroxDZfjk0CGM4Z7QP/2uJWiVGV2346auoZpw5QwPtE+6dCgFUqJN535qw6VhYWnXSBBqeSX2bv6xHaz9HSmf/66VrB+Q/Lymv2t+lpC/N2lIyyM=
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ 9s2btT3MHh4TWQ9Em4vhxRG+RXw92jNCiB8T5/2fQqpDj53+SkffHRKnxH4HGKdWkvsVVrXVJ3Dlry27JUXAkxBN4oezz3sFEWgEHPGQ3rHx3fmeS1K9MwGrrAe8qPEK0P7mgZMXCoGgHZHRi3bWdA==
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_AM6PR09MB354074035436362E4F02525991EE9AM6PR09MB3540eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-AuthSource: DB8EUR05FT008.eop-eur05.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: e060664e-c5a2-4717-30ed-08d9550ecc12
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Aug 2021 17:07:09.0613
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DB8EUR05HT234
+
+--_000_AM6PR09MB354074035436362E4F02525991EE9AM6PR09MB3540eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+hello Jad,
+interesting idea.
+thank you for sharing.
+
+Dr Michel
+
+
+
+
+________________________________
+From: Jad Saklawi <jad.saklawi@gmail.com>
+Sent: Saturday, July 31, 2021 12:00 PM
+To: Michel Soufia <michel_soufia@hotmail.com>
+Subject: An Observation on Sound
+
+Dr. Soufia,
+
+  Please find attached.
+
+  In this first observation I hypothesize that coordinates are carried by s=
+ound itself as opposed to localized in the brain<https://en.wikipedia.org/w=
+iki/Sound_localization>.
+
+Jad Saklawi
+
+
+--_000_AM6PR09MB354074035436362E4F02525991EE9AM6PR09MB3540eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+hello Jad,&nbsp;</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+interesting idea.</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+thank you for sharing.</div>
+<div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+<br>
+</div>
+<div id=3D"Signature">
+<div>
+<div></div>
+<div id=3D"geom_inter_1585010027922_58_30">Dr Michel</div>
+<div></div>
+<div id=3D"divtagdefaultwrapper" dir=3D"ltr" style=3D"">
+<div id=3D"geom_inter_1561266265588_12_3" style=3D"">
+<div style=3D"color:rgb(0,0,0); font-family:Calibri,Helvetica,sans-serif; f=
+ont-size:12pt">
+<div id=3D"geom_inter_1561266273097_74_11" style=3D""><br>
+<br>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div id=3D"appendonsend"></div>
+<div style=3D"font-family:Calibri,Helvetica,sans-serif; font-size:12pt; col=
+or:rgb(0,0,0)">
+<br>
+</div>
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> Jad Saklawi &lt;jad.s=
+aklawi@gmail.com&gt;<br>
+<b>Sent:</b> Saturday, July 31, 2021 12:00 PM<br>
+<b>To:</b> Michel Soufia &lt;michel_soufia@hotmail.com&gt;<br>
+<b>Subject:</b> An Observation on Sound</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div dir=3D"ltr">
+<div>Dr. Soufia,</div>
+<div><br>
+</div>
+<div>&nbsp; Please find attached. </div>
+<div id=3D"x_m_-4801331955115608829m_8689871788977214643gmail-content">
+<p>&nbsp; In this first observation I hypothesize that coordinates are carr=
+ied by sound itself as opposed to
+<a href=3D"https://en.wikipedia.org/wiki/Sound_localization" target=3D"_bla=
+nk">localized in the brain</a>.
+</p>
+<p>Jad Saklawi </p>
+</div>
+<br>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_AM6PR09MB354074035436362E4F02525991EE9AM6PR09MB3540eurp_--
+From - Mon Feb 14 17:30:10 2022
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+MIME-Version: 1.0
+Date: Tue, 4 Jan 2022 08:11:42 +0200
+Message-ID: <CAMd7mzWAYbMU0CjfdX7FihoXGKbyD=Z8S9w6ZaLk2c59p98EeA@mail.gmail.com>
+Subject: =?UTF-8?Q?Common_Knowledge=2C_3=2E1_The_=E2=80=9CNo_Disagreement=E2=80=9D_Theo?=
+	=?UTF-8?Q?rem?=
+From: Jad Saklawi <jad.saklawi@gmail.com>
+To: Jad Saklawi <jad.saklawi@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000dbba0705d4bb8222"
+
+--000000000000dbba0705d4bb8222
+Content-Type: text/plain; charset="UTF-8"
+
+    https://plato.stanford.edu/entries/common-knowledge/#3.1
+
+    "Aumann's
+    surprising result is that even if agents condition their beliefs
+    on private information, mere common knowledge of their conditioned
+    beliefs and a common prior probability distribution implies that
+    their beliefs cannot be different, after all!"
+
+--000000000000dbba0705d4bb8222
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>=C2=A0 =C2=A0 <a href=3D"https://plato.stanford.edu/e=
+ntries/common-knowledge/#3.1">https://plato.stanford.edu/entries/common-kno=
+wledge/#3.1</a></div><div><br></div>=C2=A0 =C2=A0 &quot;Aumann&#39;s<br>=C2=
+=A0 =C2=A0 surprising result is that even if agents condition their beliefs=
+<br>=C2=A0 =C2=A0 on private information, mere common knowledge of their co=
+nditioned<br>=C2=A0 =C2=A0 beliefs and a common prior probability distribut=
+ion implies that<br>=C2=A0 =C2=A0 their beliefs cannot be different, after =
+all!&quot;</div>
+
+--000000000000dbba0705d4bb8222--

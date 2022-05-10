@@ -1,0 +1,36 @@
+** process
+  [2022-01-27 Thu 19:53]
+*** Where Merlin Played                                                :card:
+**** Where Merlin Played
+**** PERSIAN - DETECTED                                             :subcard:
+**** Hand of Isreal                                                 :subcard:
+**** M
+***** bilabial nasal
+****** bilabial
+******* as in p, b, m, w.
+****** nasal
+******* the sound represented by "m" in /map/
+***** log
+     - https://en.wikipedia.org/wiki/Em_(Cyrillic)
+     - https://translate.google.com/?sl=en&tl=fi&text=bilabial%20nasal%20&op=translate
+**** םכגרת
+***** Mutilation
+****** method of punishment for criminals
+***** log
+     - https://translate.google.com/?sl=auto&tl=en&text=%D7%9D%D7%9B%D7%92%D7%A8%D7%AA&op=translate
+     - https://en.wikipedia.org/wiki/Mutilation
+     - https://en.wikipedia.org/wiki/Political_mutilation_in_Byzantine_culture
+**** عدل عدل
+***** عدل
+****** to act
+***** عدل
+****** justice
+***** log
+     - https://en.wiktionary.org/wiki/%D8%B9%D8%AF%D9%84#Arabic
+     - https://en.wiktionary.org/wiki/%D8%B9%D8%AF%D9%84#Persian
+**** notes
+    [2022-01-07 Fri 08:21]
+    - From Here to There: A Curious Collection from the Hand Drawn Map
+	  Association, by Kris Harzinski
+      + Page 91
+

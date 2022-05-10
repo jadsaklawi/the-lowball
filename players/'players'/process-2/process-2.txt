@@ -1,0 +1,9 @@
+** process
+*** Planet Earth                                    :forces:fronts:botanical:
+*** SPACES                                                    :forces:fronts:
+**** Space                                                    :forces:fronts:
+***** Planet Earth                                            :forces:fronts:
+
+** notes
+*** Planet Earth
+**** a botanical name;

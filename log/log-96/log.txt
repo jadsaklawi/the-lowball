@@ -1,0 +1,7 @@
+** Clock Synchrony                                                      :log:
+  [2022-05-10 Tue 18:55]
+*** coordination of otherwise indepdenent clocks.
+*** clock
+**** a device to measure; indicate;
+***** time
+

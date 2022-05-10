@@ -1,0 +1,37 @@
+** process
+*** Where Merlin Played                                                :card:
+***** Our Lady of Habil
+     [2022-01-27 Thu]
+     [2022-01-30 Sun]
+****** habil
+******* (hi) indicative ibili.
+******** (hi)
+********* you
+********** person
+********** /you/
+********* she
+********** she
+********** female
+******** indicative
+********* REAL
+******** ibili
+********* to be
+****** hábil
+******* deft, skillful
+******** deft
+********* Quick and neat in action; skillful. 
+******** skillful
+********* skillful
+******* clever; deft; skilled; fine; cunning.
+****** log
+    - https://www.facebook.com/events/1848112518706754
+    - https://en.wiktionary.org/wiki/habil
+    - https://en.wiktionary.org/wiki/hi#Basque
+    - https://en.wiktionary.org/wiki/you
+    - https://en.wiktionary.org/wiki/she#English
+    - https://en.wikipedia.org/wiki/Realis_mood
+    - https://en.wiktionary.org/wiki/ibili#Basque
+    - https://en.wiktionary.org/wiki/h%C3%A1bil
+    - https://en.wiktionary.org/wiki/deft
+    - https://en.wiktionary.org/wiki/skillful
+    - https://dicionario.priberam.org/Traduzir/EN/h%C3%A1bil

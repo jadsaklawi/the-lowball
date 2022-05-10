@@ -1,0 +1,3260 @@
+notes
+
+* process
+** process
+**** State of Kuwait
+***** Official invitation
+      [2022-01-13 Thu]
+****** KWT orthographic
+      [2022-01-13 Thu 09:11]
+** process
+*** anything related to Orthography
+*** In botanical names
+*** representing three-dimensional objects in two dimensions.
+
+** process
+*** representing three-dimensional objects in two dimensions.
+**** Flatland: A Romance of Many Dimensions
+
+** process
+*** “þetta reddast!”
+     [2022-01-15 Sat 10:02]      
+
+** Distributed consensus vs distributed consistency
+   [2022-01-15 Sat 06:45]
+   - Seperate
+*** log
+   - Added to bookmarks, process [2022-01-15 Sat 06:46]
+*** Distributed consensus vs distributed consistency
+   [2022-01-15 Sat 17:59]
+  - "Consensus is a set of algorithms and techniques which point how
+  several indipendent, distributed an potentially strangers parties
+  agree on a single value. A typical example of this can be seen in
+  blockchain. Consistency is a property of a system and basically
+  means that data is consistent among each parties of a distributed
+  system."
+*** Date sent
+    Date: Jan 16, 5:27 AM
+*** TODO process
+    [2022-01-21 Fri 10:55]
+**** Sync/Consistency
+     Information earth
+
+** Finland Today, Good News from Finland, thisisFINLAND
+     [2022-01-15 Sat 07:37]
+     - Vatican, Republic of Finland, New Zealand
+     [2022-01-15 Sat 07:37]
+      - Finland Today
+      - Good News from Finland
+      - thisisFINLAND
+     [2022-01-15 Sat 14:58]
+     process, [2022-01-15 Sat 14:58]
+** “þetta reddast!”
+     [2022-01-15 Sat 10:02]
+** The Unexpected Philosophy Icelanders Live By
+   - add bookmarks, [2022-01-15 Sat 10:08]
+** process
+*** “þetta reddast!”
+     [2022-01-15 Sat 16:36]
+   - doesn’t mean ‘sorry, I’m not paid enough to care about your troubles’
+   - or ‘try not to get stranded in the middle of nowhere’.
+   - It means ‘it’ll all work out in the end’ – and 
+** process
+*** Distributed consensus vs distributed consistency
+   [2022-01-15 Sat 06:45]
+   - Seperate
+**** log
+   - Added to bookmarks, process [2022-01-15 Sat 06:46]
+**** Distributed consensus vs distributed consistency
+   [2022-01-15 Sat 17:59]
+  - "Consensus is a set of algorithms and techniques which point how
+  several indipendent, distributed an potentially strangers parties
+  agree on a single value. A typical example of this can be seen in
+  blockchain. Consistency is a property of a system and basically
+  means that data is consistent among each parties of a distributed
+  system."
+*** sent
+   [2022-01-16 Sun 05:26]
+
+** Common Knowledge
+*** Common Knowledge
+   - Update tag to common knowledge, [2022-01-04 Tue 07:53] (time approximate)
+**** Common Knowledge
+    [2022-01-04 Tue 08:07]
+    "Aumann's
+    surprising result is that even if agents condition their beliefs
+    on private information, mere common knowledge of their conditioned
+    beliefs and a common prior probability distribution implies that
+    their beliefs cannot be different, after all!"
+****** Date sent
+*** notes
+   - added to the lowball/process [2022-01-17 Mon 06:13] (time approximate)
+** process
+*** this too shall pass.
+    [2022-01-18 Tue 07:00]
+** process
+*** this too shall pass.
+   [2022-01-18 Tue 10:51]
+   - is not unique
+   - has been played out in
+   - many times before
+   - Unfortunately
+   - this too shall pass.
+
+** process
+   [2022-01-26 Wed 14:28]
+  the lowball
+*** Acknowledgement
+    - https://mail.google.com/mail/u/0/#label/the+lowball?compose=GTvVlcSGMhhntCmDJGZPmKZVRMZpdQnTTkDcgPlVQzWfrLhcqlHtsCZkxKgqlqMKXCTbqgCnhtXWM
+*** the lowball, origins                                               :card:
+*** Where Merlin Played                                                :card:
+*** Chance in the House of Fate                                        :card:
+*** /players/
+*** the lowball
+** process
+  [2022-02-08 Tue 09:39]
+*** disheveled
+**** know what I see
+**** play
+**** log
+    - [2022-02-08 Tue 09:40]
+      - https://www.merriam-webster.com/word-of-the-day/disheveled-2022-02-08
+** process
+*** Eta
+**** \
+***** mirror image
+****** log
+******* https://fb.watch/b5L8CimG1w/
+******** [2022-02-11 Fri 08:35]
+**** حدث
+**** حادث يحصل خلال هذا الحدث
+**** ˈħɛ.lɔw
+**** PLAY
+**** raised to [i]
+
+**** log
+***** https://www.facebook.com/events/1291258688046047/?ref=newsfeed
+***** https://startpage.com/row/search?q=%5C&l=english
+****** \
+******* mirror image
+***** [2022-02-08 Tue 11:01]
+****** https://www.facebook.com/jad.saklawi/posts/10100830013808742?notif_id=1644297283847039&notif_t=feedback_reaction_generic&ref=notif
+***** [2022-02-08 Tue 11:05]
+****** https://www.facebook.com/Kvenland/videos/pcb.4696900820429118/234367865546199
+****** PLAY
+***** [2022-02-08 Tue 11:08]
+****** https://en.wikipedia.org/wiki/Eta
+***** [2022-02-08 Tue 11:09]
+* notes
+** Common Knowledge
+*** if agents condition their beliefs oon private information, mere common knowledge of their conditioned beliefs and a common priror probability distribution implies that their beliefs cannot be different, after all!
+** a Nordic Day
+  [2022-03-23 Wed 18:19]
+*** Denmark, Finland, Norway, Sweden, and Åland
+*** log
+**** https://www.facebook.com/swedense/posts/10159755642784720
+** Sight
+  [2022-03-23 Wed 20:41]
+*** the act of directing to perceive
+*** the power or faculty of seeing
+**** faculty
+***** capacity, aptitude, potential, skill. 
+*** vision
+** Structural alignments
+*** no a priori knowledge of equivalent positions.
+** 
+**** Sound is a carrier of information, coordinates.
+  [2022-03-26 Sat 12:21]
+***** Sound localization
+**** Given a wave burst emitted on an antenna, exactly one wave is read.
+  [2022-03-26 Sat 12:24]
+*** 
+  [2022-03-26 Sat 12:28]
+**** Number of waves emitted per burst.
+**** How much sound can a single sound wave carry.
+**** Direction of waves emitted from a burst.
+*** 
+**** Waves are carriers of information, an identifier.
+**** Waves emitted by the same burst carry the same identifier.
+*** 
+**** Given a wave burst emitted on a multi-polar antenna, wave is read by pole closest to burst.
+**** Sound drops sound.
+**** The auditory system in biological organisms is a sound antenna.
+** Åland
+*** https://en.wikipedia.org/w/index.php?title=%C3%85land&diff=1079698028&oldid=1077430789
+** White House
+  [2022-03-28 Mon 07:52]
+*** [[https://www.cloudhq.net/s/015fa2066e5fb7][Concentric Circles]]
+*** log
+***** 
+*** log
+***** [2022-03-29 Tue 08:21]`
+** State of Israel
+****** 
+****** 
+****** 
+****** Ministry of Foreign Affairs
+      [2022-03-28 Mon 08:35]
+******* 
+** Alphabet
+*** Google
+*** Sergey Bin
+**** non-positional games
+     [2022-03-28 Mon 09:27]
+**** non-positional games
+     [2022-03-28 Mon 09:39]
+*** Larry Page
+**** non-positional games
+    [2022-03-28 Mon 09:39]
+** intent colors;
+  [2022-03-28 Mon 10:57]   
+****** 
+****** 
+****** 
+****** 
+** Department of Defense
+*** https://www.defense.gov/Help-Center/#contact
+*** US Army
+    [2022-03-28 Mon 15:30]
+**** https://www.army.mil/contact/
+***                                                     :alive:forces:fronts:
+** Central Intelligence Agency 
+   CIA
+*** 
+*** 
+   [2022-03-28 Mon 21:32]
+**** Reference ID: EKNM85W1
+*** 
+   [2022-04-07 Thu 17:45]
+*~* botanical abstractions *~*
+
+<https://www.cloudhq.net/s/c2dc0b351c5faa>
+
+o intent colors
+
+~https://www.cloudhq.net/s/470bcd57bb7a59 ~
+**** Submission Reference ID: XHA5RE5K
+*** 
+   [2022-04-12 Tue 23:09]
+*** 
+   [2022-04-15 Fri 09:11]
+Submission Reference ID: CRNCJ8QA
+** Vatican City State
+**** Pontificio Instituto di Musica Sacra
+***** notes
+****** didactitcs
+******* colors
+******** intent colors;
+
+******* notes
+******** 
+  Black Angel's Death Song
+  The Velvet Underground, Nico
+
+
+***** illuminates
+****** SPACES
+******* (play)
+******** trenches
+********* the front line of an endeavor;
+********* commitment;
+********* a position;
+******** illuminations
+*********** destinations;
+*********** order; meanings;
+****** notes
+******* [[https://www.cloudhq.net/s/807902d7960aaa][non-positional games]]
+******* [[https://www.cloudhq.net/s/bf74d0c9e14ffc][illuminates]]
+******* [[https://www.cloudhq.net/s/2d89d5e71f3830][Åland]]
+******* [[https://www.cloudhq.net/s/1335b4193a174a][Love MusiC]]
+** Alzheimer's disease and dementia
+** White House
+    [2022-03-29 Tue 09:15]
+*** 
+*** https://www.whitehouse.gov/contact/
+** Department of Defense
+   [2022-03-30 Wed 09:15]
+*** https://www.defense.gov/Help-Center/#contact
+*** US Army
+****  https://www.army.mil/contact/
+***                                                     :alive:forces:fronts:
+** National Security Agency
+*** [2022-03-30 Wed 10:59]
+~~ the lowball, origins ~~
+   https://www.cloudhq.net/s/ecda4954f2bdd8
+~~ Where Merlin Played ~~
+   https://www.cloudhq.net/s/9580580c14cfbb
+~~ A RIGOROUS GEOMETRY ~~
+   https://www.cloudhq.net/s/7b3f060f6315e2
+** Ministry of Defence
+   [2022-03-30 Wed 11:18]
+*** the front line of an endeavor;
+the front line of an endeavor;
+
+<https://www.cloudhq.net/s/fa0fe09fe59ea0>
+** United States Department of State
+   [2022-03-30 Wed 11:22]
+*** 
+** Israeli Defense Forces
+     [2022-03-30 Wed 12:04]
+*** https://www.idf.il/en/contact-us/
+*** 
+~ the lowball, origins ~
+https://www.cloudhq.net/s/ecda4954f2bdd8
+
+Opening Book of Numbers
+https://www.cloudhq.net/s/e190f9084ee182
+
+Chance in the House of Fate
+https://www.cloudhq.net/s/49077248f5942a
+
+** United States Department of State, White House
+   [2022-03-30 Wed 20:33]
+*** STRUCTURAL ABSTRACTIONS
+**** 
+                  A STORY IS KIND OF A MAP
+      <https://www.cloudhq.net/s/8130bbfe722437>
+
+                            Concentric Circles
+                                         <https://www.cloudhq.net/s/798eb2402533b5>
+Åland
+<https://www.cloudhq.net/s/c3707398d0796d>
+                               
+** Number 10
+   [2022-03-30 Wed 20:46]
+*** 
+the lowball, origins
+https://www.cloudhq.net/s/ecda4954f2bdd8
+
+alicorn
+https://www.cloudhq.net/s/7dec1b6cf40ba8
+
+the front line of an endeavor;
+https://www.cloudhq.net/s/fa0fe09fe59ea0
+** Lord Anderson of Swansea
+** Lord Campbell of Pittenweem
+the lowball, origins
+https://www.cloudhq.net/s/ecda4954f2bdd8
+
+alicorn
+https://www.cloudhq.net/s/7dec1b6cf40ba8
+
+the front line of an endeavor;
+https://www.cloudhq.net/s/fa0fe09fe59ea0
+** Donald J. Trump
+   [2022-03-30 Wed 22:32]
+*** 
+non-positional games
+https://www.cloudhq.net/s/807902d7960aaa
+
+Where Merlin Played
+https://www.cloudhq.net/s/2cb661eac56728 
+** White House
+   [2022-04-01 Fri 11:30]
+*** 
+United Kingdom
+    
+                     Love MusiC
+<https://www.cloudhq.net/s/8ac6087dc7ece3>
+
+alicorn
+<https://www.cloudhq.net/s/0e092b5cd93ee3>
+** Armed Forces Europe
+   [2022-04-01 Fri 11:30]
+*** 
+United Kingdom
+    
+                     Love MusiC
+<https://www.cloudhq.net/s/8ac6087dc7ece3>
+
+alicorn
+<https://www.cloudhq.net/s/0e092b5cd93ee3>
+** 
+
+
+********** mathematical constructs, our maps of are.
+**** mathematical constructs
+***** objects of reasoning
+******* ability;
+******* concepts;
+******* reasoning;
+********** points
+********* i
+*************** starting points;
+***************** i
+************** starting points
+*********************** visual rhyhtm;
+************************* connected
+****************************** dots
+************************************ positions;
+************************************ political calculations;
+
+**************** ability;
+******** concepts;
+************ reasoning;
+****************** points
+** إستيلاء
+****** Delta
+*** notes
+** requisition
+****** Delta
+*** notes
+** United States Department of State, White House
+*** A STORY IS KIND OF A MAP
+ botanical gardens
+<https://www.cloudhq.net/s/91061786a8fbb0>
+
+          Chance in the House of fate
+<https://www.cloudhq.net/s/8537da16be3553>
+
+              A STORY IS KIND OF A MAP
+<https://www.cloudhq.net/s/1a98778322e261>
+** representing three-dimensional objects in two dimensions.
+*** 3D, 2D
+**** identify
+**** name
+**** describe
+*** https://education.gov.scot/Documents/numeracy-maths-eo.pdf
+** قط
+*** ˈkɑːt
+** White House
+   [2022-04-04 Mon 10:45]
+** White House
+    [2022-04-04 Mon 10:46]
+*** ~*~ intent colors ~*~
+****** ~botanical gardens~
+***** gold dots
+
+*** information
+
+                       ~* intent colors *~
+
+<https://www.cloudhq.net/s/0cbe5dc0571d9c>
+
+                         ~* botanical gardens *~
+
+<https://www.cloudhq.net/s/7e9833041a29e0>
+
+                                   ~ gold dots ~
+
+ <https://www.cloudhq.net/s/8a825fbeaedb87>
+
+** White House
+      [2022-04-05 Tue 15:12]
+       A STORY IS KIND OF A MAP
+
+                                  <https://www.cloudhq.net/s/198b1b0de1bd8f>
+           <https://www.cloudhq.net/s/555fdafb8df086>
+
+** Department of Defense
+   [2022-04-05 Tue 19:37]
+  A STORY IS KIND OF A MAP
+
+     Chance in the House of Fate
+<https://www.cloudhq.net/s/8a7cb2c1f44846>
+
+       A STORY IS KIND OF A MAP
+
+                                  <https://www.cloudhq.net/s/198b1b0de1bd8f>
+           <https://www.cloudhq.net/s/555fdafb8df086>
+
+Jad
+
+** the lowball
+  [2022-04-05 Tue 19:39]
+https://www.amazon.com/clouddrive/share/WJSKd5cMyIoPdCwFjiS77nmp4mPPyalcQhPR1i35Zwi
+
+** US Air Force
+   [2022-04-05 Tue 19:45]
+*** JoAnne S. Bass
+    Subject: White House
+
+                           ~* intent colors *~
+
+<https://www.cloudhq.net/s/0cbe5dc0571d9c>
+
+                         ~* botanical gardens *~
+
+<https://www.cloudhq.net/s/7e9833041a29e0>
+
+                                   ~ gold dots ~
+
+ <https://www.cloudhq.net/s/8a825fbeaedb87>
+
+
+the lowball
+[
+https://www.amazon.com/clouddrive/share/WJSKd5cMyIoPdCwFjiS77nmp4mPPyalcQhPR1i35Zwi
+]
+** White House
+   [2022-04-07 Thu 03:16]
+*** 
+*~* botanical abstractions *~*
+
+<https://www.cloudhq.net/s/c2dc0b351c5faa>
+** Secret Intelligence Service (MI6)
+  [2022-04-07 Thu 17:13]
+*** TO: United Kingdom
+
+o 1386
+
+~ https://www.cloudhq.net/s/f551a87edbdeb2 ~
+
+o intent colors
+
+~https://www.cloudhq.net/s/470bcd57bb7a59 ~
+** Phonetics                                                            :log:
+  [2022-04-11 Mon 20:34]
+*** Alphabet
+**** c, s
+**** p, s
+*** Phonetic Alphabet
+**** maximal set
+*** Languages
+**** notes
+***** Arabic
+****** letters corresponding to V, P, Ga
+***** Russian
+****** letter corresponding to W
+***** English
+***************** phonetics
+                             {maximal set}
+****************** notes 
+                            [2022-05-06 Fri 14:17]
+                                    {not maximal set}
+******************* [a-z] [7a] [Gha] [3a] [Tha]
+***** Greek
+***************** phonetics
+                            {maximal set}
+***************** notes 
+                       [2022-05-06 Fri 19:09]
+                          {not maximal set}
+****************** [α -  ω] [7a] [C (english not K)] [Ha (english Ha]]
+
+
+** White House, Vice President Harris
+  [2022-04-12 Tue 23:07]
+*** 
+                    Chance in the House of Fate
+
+
+ -~-   A STORY IS KIND OF A MAP -~-
+          <https://www.cloudhq.net/s/198b1b0de1bd8f>
+
+ `* Saint Knut's *'
+
+  <https://www.cloudhq.net/s/c9e7701b9b3599>
+** bounderies, boundaries                                               :log:
+   [2022-04-15 Fri 09:18]
+*** misspelling
+*** Phonetics                                                           :log:
+   [2022-04-11 Mon 20:34]
+**** Alphabet
+***** c, s
+***** p, s
+****** psalm
+****** sä(l)m
+**** Phonetic Alphabet
+***** maximal set
+** Jennifer Ackerman
+  [2022-04-15 Fri 14:40]
+*** Chance in the House of Fate
+
+<https://www.cloudhq.net/s/5200cc0a26e08b>
+<https://www.cloudhq.net/s/6dd6dd85a33c34>
+
+*** destinations; orders; illuminates.;
+
+  <https://www.cloudhq.net/s/fa0fe09fe59ea0>
+
+	 Love MusiC
+
+  <https://www.cloudhq.net/s/1994e622d58ef3_0>
+
+** porn
+  [2022-04-16 Sat 21:52]
+*** log
+**** age verification
+**** trends
+   [2022-05-07 Sat 09:08]
+   {maximal set}
+***** trend   
+****** {Girls Gone Wild}
+   {porn/sex/fucking}
+     {social}
+******* log
+   {reddit, maximal set of members (o trend)}
+******** [[https://www.reddit.com/r/Gonewild18/][Girls, 18 - 19 years - Girls!]] 
+******** [[https://www.reddit.com/r/YoungGirlsGoneWild/][Young Girls Gone Wild!]]
+********* notes
+      [2022-05-07 Sat 09:38]
+********** trend
+      {Girls Gone Wild}
+************* {porn/sex/fucking};
+************** {social};
+***************** embedded information
+****************** log
+          [2022-05-07 Sat 09:38]
+******************* 
+******************** 
+********************* 
+******************** 
+******************* 
+
+** Russian Federation                                                   :log:
+   [2022-04-17 Sun 11:28]
+*********** Russian Federation
+************ Loves to Roll the Dice
+************* Loves to Roll the Dice
+************* Loves to Roll the Dice
+************ Playboy
+************* Playboy
+************ ⚄
+************* ADD TO LIST
+************* 🔖
+************** Power set
+************** /The Last Judgment/
+************** /New Age of Earth/
+
+*********** Russian Federation
+************ President of the Russian Federation (Supreme Commander-in-Chief)
+************* Vladimir Putin
+************** Loves to Roll the Dice
+*************** Loves to Roll the Dice
+*************** Loves to Roll the Dice
+************** Playboy
+** White House
+   [2022-04-17 Sun 21:13]
+*** 
+~~*~~ positionals ~~*~~
+
+<https://www.cloudhq.net/s/ec6444a5a57d05>
+
+        -=- A RIGOROUS GEOMETRY -=-
+               habitation
+
+     <https://www.cloudhq.net/s/bbea7decd53348>
+** White House
+*** [2022-04-19 Tue 23:35]
+                       ~*~ non-positional games ~*~
+                                 <https://www.cloudhq.net/s/e7810eeac8b496>
+
+     ~*~ Merchant Planes ~*~
+                  <https://www.cloudhq.net/s/21c8f69a3237ba>
+** the lowball                                                          :log:
+   [2022-04-19 Tue 23:41]
+***  [[https://mail.google.com/mail/u/0/#label/the+lowball][the lowball]]                                                :information:
+   https://mail.google.com/mail/u/0/#label/the+lowball
+**** log
+     [2022-04-19 Tue 23:41]
+***** notes
+****** Google
+******* Gmail
+**** log
+     [2022-04-20 Wed 18:53]
+***** notes
+****** Amazon
+******* Drive
+       https://www.amazon.com/clouddrive/share/xwnmhLOz7hmmmhyJjSqwBLF05ar2emhw44OHPt24RDl
+
+** White House                                                    :log:notes:
+*** [2022-04-20 Wed 19:12]
+**** the lowball                                                        :log:
+     [2022-04-19 Tue 23:41]
+*****  [[https://mail.google.com/mail/u/0/#label/the+lowball][the lowball]] :information:
+     https://mail.google.com/mail/u/0/#label/the+lowball
+****** log
+       [2022-04-19 Tue 23:41]
+******* notes
+******** Google
+********* Gmail
+****** log
+       [2022-04-20 Wed 18:53]
+******* notes
+******** Amazon
+********* Drive
+	 https://www.amazon.com/clouddrive/share/xwnmhLOz7hmmmhyJjSqwBLF05ar2emhw44OHPt24RDl
+**** notes
+    [2022-05-06 Fri 07:47]
+***** whitehouse.gov
+
+** ربط                                                            :log:notes:
+*** association
+**** A RIGOROUS GEOMETRY                                                  :card:
+***** A RIGOROUS GEOMETRY                                           :subcard:
+****** Blocks
+******* association
+** Royal.uk                                                           :notes:
+    [2022-04-25 Mon 13:25]
+*** Coat of Arms/Crest
+**** log
+***** https://www.royal.uk/
+****** [2022-02-11 Fri 12:59]
+***** https://www.facebook.com/PacificIslandsSocietyUK/posts/2647867478679876
+****** [2022-02-11 Fri 12:58]
+***** https://www.facebook.com/TheBritishMonarchy/posts/5082503588438097
+****** [2022-02-11 Fri 12:59]
+**** log
+       [2022-04-25 Mon 13:27]
+***** https://www.royal.uk/sites/all/themes/tbm/_assets/img/crest.png
+
+** Light
+  - Carrier of see
+  - Carrier of hot
+*** log
+   [2022-04-27 Wed 18:02]
+
+** Garden fork/rake
+   [2018-04-25 Wed]
+*** force to vibration, vibration to force
+** "There's a precedent Mr. President"
+   [2018-05-31 Thu]
+*** With China about not arriving,
+   - [2022-01-03 Mon 09:14]
+**** "There's a president Mr. President"
+   - [2022-04-29 Fri 10:19]
+** Dream victims
+   [2018-10-10 Wed]
+  1. Cara Delevingne
+  2. Dali Wehbe
+  3. Clara Tomb
+  4. Shana Saffer
+  5. Robert Thanh Parker
+  6. Colton Thanh Parker
+  7. Afif Mufarrij
+  8. Adnan Halawi
+  9. Mohamed Abu Ghazal
+  10. Mark Jabbour
+  11. Jacinda Ardern
+      [2018-10-10 Wed]
+  12. John Key
+      [2018-10-10 Wed]
+  13. Donald Trump
+      [2018-10-11 Thu]
+
+** 
+** Integrative Justice
+** Information Receipt
+** Sleep                                                                :log:
+  [2022-04-28 Thu 12:33]
+*** [[file:~/env/org/gen/Sleep.org][Sleep]]
+**** ربط                                                          :log:notes:
+***** association
+****** A RIGOROUS GEOMETRY                                             :card:
+******* A RIGOROUS GEOMETRY                                         :subcard:
+******** Blocks
+********* association
+**** notes
+***** Sleep
+****** types
+****** levels
+***** BLOCK
+****** perceptions
+** time accounting                                                      :log:
+  [2022-04-28 Thu 12:41]
+** suggestive of life or vital energy                             :log:notes:
+   [2022-04-28 Thu 12:47]
+*** suggestive of food | food
+**** plants
+**** processing                                                      :forces:
+** processing                                              :log:notes:forces:
+  [2022-04-28 Thu 12:49]
+** piezo sparks                                                   :log:notes:
+   [2022-04-28 Thu 22:51]
+*** piezo ignition
+**** spring
+**** piezo electric crystals
+** ربط                                                            :log:notes:
+  [2022-05-02 Mon 12:25]
+*** association
+**** A RIGOROUS GEOMETRY                                               :card:
+***** A RIGOROUS GEOMETRY                                           :subcard:
+****** Blocks
+******* association
+
+** فصل                                                                  :log:
+   [2022-04-29 Fri 21:35]
+   [2022-05-02 Mon 12:21]
+*** A RIGOROUS GEOMTERY                                             :card:
+**** A RIGOROUS GEOMTERY                                            :subcard:
+***** BLOCK
+****** association
+*** [2022-05-02 Mon 08:58]
+**** Where Merlin Played                                               :card:
+       [2022-05-06 Fri 11:20]
+****** divide                                                       :subcard:
+******* divisions
+***** channels
+****** 
+******* 
+******** 
+******* 
+****** 
+
+** 
+** SIGHT                                                    :front:log:notes:
+  [2022-04-30 Sat 22:25]
+*** VISION
+****** DEPTH
+******* 
+******** letters                                                     :fronts:
+********* a-z
+********** DEPTH
+***********  letters;meanings;phonetics                              :fronts:
+           [2022-05-04 Wed 10:03]           
+******** meanings
+******* phonetics
+        {maximal set}
+** A New Geometry                                                       :log:
+*** paranoia; nadir; omens;
+**** [2022-05-02 Mon 09:49]
+
+** Iodized Salt                                                         :log:
+   [2022-05-10 Tue 11:28]
+*** not iodized.
+**** iodine                                                        :particle:
+
+** Clock Synchrony                                                      :log:
+  [2022-05-10 Tue 18:55]
+*** coordination of otherwise indepdenent clocks.
+*** clock
+**** a device to measure; indicate;
+***** time
+
+** NASA                                                                 :log:
+ National Aeronautics and Space Administration
+*** SIGHTS ALIGNED
+  [2022-05-10 Tue 19:35]
+SIGHTS ALIGNED
+     ~*~ with and without ~*~
+           <https://www.cloudhq.net/s/64e15fd726b58e>
+
+earthly pigments
+          *~ positionals ~*
+       -=  position: relative =-
+        <https://www.cloudhq.net/s/6830171f921313>
+
+
+A RIGOROUS GEOMETRY
+         ~* A RIGOROUS GEOMETRY *~
+               *~ shrinkage ~*
+                      <https://www.cloudhq.net/s/f543aadc97014d>
+*** Kennedy Space Center
+*** Glenn Research Center
+*** Langley Research Center
+*** Armstrong Flight Research Center
+**** Kevin Rohrer
+**** Steve Lighthill
+* log
+** Common Knowledge
+*** Common Knowledge                                                :subcard:
+   - Update tag to common knowledge, [2022-01-04 Tue 07:53] (time approximate)
+**** Common Knowledge
+    [2022-01-04 Tue 08:07]
+***** Message 
+    To: jad.saklawi@gmail.com
+    Title: Common Knowledge, 3.1 The “No Disagreement” Theorem
+    Message:
+    https://plato.stanford.edu/entries/common-knowledge/#3.1
+    "Aumann's
+    surprising result is that even if agents condition their beliefs
+    on private information, mere common knowledge of their conditioned
+    beliefs and a common prior probability distribution implies that
+    their beliefs cannot be different, after all!"
+****** Date sent
+***** notes
+****** Anxiety attacks
+      [2022-01-04 Tue]
+****** TODO add the rest
+****** Part of lowball card/other
+*** notes
+   - added to the lowball/process [2022-01-17 Mon 06:13] (time approximate)
+** Messages/The Swinging Gait
+*** Swinging Gait Lebanon
+**** DONE [[file:the%20lowball/messages/To%20General%20Hamieh/The%20Swinging%20Gait.org][Letter]]
+    - State "DONE"       from "CURRENT"    [2019-10-02 Wed 12:34]
+    :LOGBOOK:
+    CLOCK: [2019-10-02 Wed 10:37]--[2019-10-02 Wed 10:45] =>  0:08
+    :END:
+**** DONE Prepare envelope
+    - State "DONE"       from "CURRENT"    [2019-10-02 Wed 13:15]
+    :LOGBOOK:
+    CLOCK: [2019-10-02 Wed 13:12]--[2019-10-02 Wed 13:15] =>  0:03
+    CLOCK: [2019-10-02 Wed 12:34]--[2019-10-02 Wed 12:38] =>  0:04
+    :END:
+**** DONE Check if General has translator
+    - State "DONE"       from "TODO"       [2019-10-02 Wed 19:31]
+    General Hamieh,
+    I would like to inquire if you have an english to arabic
+    translator for I have an important letter for you written in
+    english.
+    [Wait for response]
+    Please send someone to pick it up.
+**** DONE Deliver letter
+    - State "DONE"       from "TODO"       [2019-10-06 Sun 14:07]
+**** TODO Request sharing with the three heads of state and Sayyed Nasrallah.
+*** Facebook Swinging Gait self message
+    [2022-01-02 Sun 16:57]
+**** notes
+   - Suggestion from President Putin
+     [2022-01-02 Sun 17:04]
+*** Facebook Swinging Gait self message #2
+**** idea
+   [2022-01-03 Mon 13:22]
+    - Suggestion, got it, accepted the idea
+**** notes
+    To Whom It May Concern
+    Added
+    [2022-01-07 Fri 10:23]
+*** Swinging Gait
+**** Get it from the states
+    [2022-01-03 Mon 13:12]
+** notes
+*** Call The Bitch, speak with Jagdhund, PERSIAN - DETECTED          :forces:
+    [2022-01-07 Fri 09:46]
+   - Also, part of Hand of Israel, not only
+** Playboy
+    [2022-01-08 Sat 08:30]
+    - notes
+** State of Kuwait
+*** KWT orthographic
+      [2022-01-13 Thu 09:11]
+** Chance in the House of Fate
+*** Chance in the House of Fate
+      [2022-01-13 Thu] (get time)
+      - Audio/playback multiple languages
+      - get audio/log
+      - Before
+*** Fors in domo fati
+      Latin
+      [2022-01-13 Thu 10:38]
+**** Multiple meanings
+      [2022-01-14 Fri 15:28]
+      - Fors, فرس
+*****  فرس
+      - [2022-01-14 Fri 17:29]
+	Finish, tamma
+      - [2022-01-15 Sat 08:17]
+        persians, الفرس
+
+***** Latin, three times
+        [2022-01-15 Sat 09:19]
+*** Saint Knut's Day
+      - process, bookmarks [2022-01-13 Thu 12:07]
+**** notes
+      Date added: [2022-01-13 Thu 12:19]
+     - Republic of Finland
+     - Kingdom of Sweden
+     - Republic of Estonia
+***** Other
+       - Republic of Finland
+	 [2022-01-13 Thu 16:39]
+	 involves a happy encounter.
+	 [2022-01-13 Thu 16:55]
+	 Mahdollisuus kohtalon talossa
+       - Kingdom of Sweden
+	 [2022-01-13 Thu 16:40]
+	 St. Knut's Day marks the end of the Christmas and holiday season.
+       - Republic of Estonia
+	 
+**** Official invitation
+       [2022-01-13 Thu]
+     - Republic of Finland
+     - Kingdom of Sweden
+     - Republic of Estonia
+
+*** Excited to share the latest developments
+      subcard, [2022-01-14 Fri 09:56] (time approximate)
+** “þetta reddast!”
+     [2022-01-15 Sat 10:02]
+
+** move
+*** DONE News feed not showing some friends
+     - State "DONE"       from "TODO"       [2021-06-23 Wed 12:38]
+For at least the last two years, my Facebook news feed has been
+completely omitting news from some friends, not showing a single post
+from them. I tried creating a list with some of the friends whom I am
+not getting news feed from, and the list news feed shows no entries
+although there is activity in their respective profiles.
+
+Some friends affected by the bug (news feed not showing their activity):
+ - https://www.facebook.com/adnanhalawi
+ - https://www.facebook.com/suzan.berry
+
+Jad Saklawi
+*** News feed not showing some pages
+      [2022-01-13 Thu 08:18]
+    Some pages affected :
+     - https://www.facebook.com/TaylorSwift
+
+****
+** [2022-01-15 Sat]
+     [2022-01-15 Sat 07:37]
+     - Vatican, Republic of Finland, New Zealand
+     [2022-01-15 Sat 07:37]
+      - Finland Today
+      - Good News from Finland
+      - thisisFINLAND
+
+** [2022-01-15 Sat]
+    [2022-01-15 Sat 14:27]
+*** Fors in domo fati
+     3, meaning
+
+*** Mahdollisuus kohtalon talossa
+     2
+*** Lapsen oikeuksien juhla
+     2
+** "An accompaniment for life."
+    [2022-01-15 Sat 15:34] (time approximate)
+*** notes
+   - Huawei, drive added, [2022-01-15 Sat 16:25] (time approximate)
+*** (درب المطاحن)
+    [2022-01-16 Sun 17:07]
+*** TODO process
+    [2022-01-24 Mon 18:34]
+*** notes
+   - 中國. [2022-01-29 Sat 19:36]
+** neural networks/brain
+  - [2022-01-15 Sat] (get time)
+** Information earth
+  - [2022-01-17 Mon 13:28]
+** process
+   - [2022-01-17 Mon 14:20]
+Jad Saklawi <jad.saklawi@gmail.com>
+	
+Attachments Fri, Oct 26, 2018, 6:24 PM
+	
+to jacinda.ardern
+Subject: The Swinging Gait & Sound Pulsing
+** process
+   [2022-01-17 Mon 15:41]
+   - dump, the lowball, Health\ Common Knowledge
+
+** process
+   With a source
+   - [2022-01-17 Mon 16:30]
+
+** process
+ Consistency, with a source
+ [2022-01-17 Mon 17:03]
+
+** process
+  [2022-01-17 Mon 18:49]
+  Channel (sent), with consistency 
+
+** process
+*** involves a happy encounter.
+  [2022-01-18 Tue 09:17] (bookmarks, other)
+** log
+  [2022-01-19 Wed 07:42]
+*** process
+   [2022-01-17 Mon 16:30]
+   With a source
+*** process
+   [2022-01-17 Mon 17:03]
+   Consistency, with a source
+*** process
+   [2022-01-17 Mon 18:49]
+   Channel (sent), with consistency 
+** process
+*** Pumping
+   [2022-01-19 Wed 18:46]
+**** Acknowledgement
+     [2022-01-19 Wed 18:56]
+     + Fors in domo fati
+     + Mahdollisuus kohtalon talossa
+**** Acknowledgement
+     [2022-01-19 Wed 18:56]
+     + Where Merlin Played
+     + Acknowledgement, A Love Supreme
+** log
+*** the lowball
+    [2022-01-20 Thu 17:32]
+    Sun 16 Jan 2022 08:54:09 AM EET
+     + Fors in domo fati
+     + Mahdollisuus kohtalon talossa
+
+** log
+   [2022-01-23 Sun 22:27]
+*** TODO process
+   [2022-01-21 Fri 06:48]
+**** Common Knowledge
+*** TODO process
+   [2022-01-21 Fri 06:48]
+**** It appears to you that you accepted
+*** TODO process
+    [2022-01-21 Fri 10:55]
+**** Sync/Consistency
+     Information earth
+
+** log
+  [2022-01-21 Fri 11:40]
+*** process
+**** 'Gamification' - Is Manipulating You - (and How to Recognize It)
+***** log
+      Added to bookmarks, process [2022-01-21 Fri 11:41]
+      - https://lifehacker.com/how-gamification-of-everything-is-manipulating-you-and-1848352808?utm_source=pocket-newtab
+** log
+*** process
+    [2022-01-21 Fri 13:25]
+  - [2022-01-19 Wed 12:06]
+    + Acknowledgement, acknowledgement_3.png
+    + Acknowledgement, facebook, 2012
+      + March 21, 2012
+    + Acknowledgement, The Table
+      [2022-01-21 Fri 13:24]
+      + "Acknowledgement"
+      + "Resolution"
+      + "Pursuance"
+      + "Psalm"
+*** log
+**** process
+***** Acknowledgement
+   - Added to Youtube, process, [2022-01-19 Wed 12:10]
+
+** log
+   [2022-01-21 Fri 17:01]
+*** process
+     [2022-01-15 Sat 07:37]
+      - Finland Today
+      - Good News from Finland
+      - thisisFINLAND
+
+** Abby Dougherty
+  Remembering
+  [2022-01-21 Fri 19:07]
+  - Embrace your uniqueness, step into your power, and share it with the world.
+** log
+*** process
+    [2022-01-22 Sat 17:19]
+    Tacit coordination
+**** Russian Federation
+***** notes
+     + [2022-01-05 Wed 11:42]
+       Tacit coordination
+** log
+*** Years Ago 90 Minutes.
+   - https://www.nytimes.com/2022/01/20/world/europe/lake-wannsee-conference-final-solution-holocaust.html?utm_source=pocket_discover
+** log
+  [2022-01-23 Sun 11:59]
+*** White House, Nigger, Nigger
+    - Song, 2011-2012
+
+** log                                                             :not_only:
+*** from the forces
+**** with the lesson
+    [2022-01-23 Sun 22:42]
+***** notes
+****** Lesson                                                      :not_only:
+*** WAITING Commando's || its for an assignment.
+    - State "WAITING"    from              [2022-01-25 Tue 07:01]
+    [2022-01-25 Tue 06:03]
+** log
+  [2022-01-26 Wed 07:46]
+*** not a typo
+**** Chance in the House of Fate                                       :card:
+***** The Living Dead - On the trail of female                      :subcard:
+
+** log
+    [2022-01-26 Wed 12:17]
+*** Chance in the House of Fate                                        :card:
+**** Jad
+
+** log
+   [2022-01-26 Wed 14:04]
+*** Commando's
+
+** log
+   [2022-01-26 Wed 13:59]
+*** neural networks/brain
+  - [2022-01-15 Sat] (get time)
+
+** log
+  [2022-01-26 Wed 17:09]
+*** Pumping
+   [2022-01-19 Wed 18:46]
+**** Acknowledgement
+     [2022-01-19 Wed 18:56]
+     + Fors in domo fati
+     + Mahdollisuus kohtalon talossa
+**** Acknowledgement
+     [2022-01-19 Wed 18:56]
+     + Where Merlin Played
+     + Acknowledgement, A Love Supreme
+
+** log
+  [2022-01-26 Wed 17:49]
+*** “Dieu et mon droit”
+      [2022-01-20 Thu 11:30]
+     - Richard the Lionheart (Richard Cœur de Lion)
+     - indicate that he owed his crown to only God and himself.
+**** source
+     https://frenchly.us/why-is-the-u-k-s-royal-coat-of-arms-in-french/
+*** “Honi soit qui mal y pense”
+      [2022-01-20 Thu 11:30]      
+    - intertwined between the lion and the unicorn.
+    - insinuate the presence of a hidden agenda
+**** source
+      - https://frenchly.us/why-is-the-u-k-s-royal-coat-of-arms-in-french/
+      - https://en.wikipedia.org/wiki/Honi_soit_qui_mal_y_pense      
+*** Lion of Judah
+      [2022-01-20 Thu 11:37]
+      - Inspired by the Lion of Judah, C. S. Lewis used a lion named
+        Aslan to represent Jesus in The Chronicles of Narnia.
+**** notes
+      https://en.wikipedia.org/wiki/Lion_of_Judah
+      
+*** Lion of Judah emblem of the Ethiopian Empire
+   [2022-01-26 Wed 17:52]
+   - Description Lion of Judah
+**** notes
+   - https://en.wikipedia.org/wiki/File:Lion_of_Judah_emblem_of_the_Ethiopian_Empire.svg
+
+** log
+  [2022-01-26 Wed 20:22]
+*** Acknowledgement
+**** Change 15
+    [2022-01-26 Wed 14:24]
+    - ☆
+** log
+  [2022-01-26 Wed 20:22]
+*** Acknowledgement
+**** Change 9
+***** notes
+     [2022-01-17 Mon 13:08]
+    - Update to stars
+     [2022-01-17 Mon 13:08]
+    - Obama, Trump, Obama from the forces
+
+** log
+  [2022-01-26 Wed 21:31]
+*** Call The Bitch, speak with Jagdhund, PERSIAN - DETECTED          :forces:
+    [2022-01-07 Fri 09:46]
+   - Also, part of Hand of Israel, not only
+
+** log
+   [2022-01-26 Wed 22:18]
+      - Holocust, somewhere else, reflected on earth.
+	Date added: [2022-01-08 Sat 06:48]
+      - Also, part of Hand of Israel, not only
+	[2022-01-26 Wed 22:18]
+       
+** log
+*** process
+**** Chance in the House of Fate
+      [2022-01-14 Fri 14:43]
+      - Fors in domo fati.mp3
+      - Mahdollisuus kohtalon talossa.mp3
+***** notes
+      - Latin three times
+      - Finish once
+
+** log
+  [2022-01-27 Thu 22:03]
+*** Acknowledgement
+**** change 14
+    [2022-01-22 Sat 06:48]
+    - star and crescent
+*** notes
+**** Where Merlin Played                                               :card:
+****** SABRA
+     - SABRA.png
+     - process, [2022-01-22 Sat 05:28]
+** log
+  [2022-01-29 Sat 09:46]
+*** the lowball
+**** log
+**** process
+** log
+ [2022-01-29 Sat 16:37]
+*** alicorn
+** log
+ [2022-01-29 Sat 18:35]
+*** process, ☆
+   - pink
+   - https://mail.google.com/mail/u/0/#label/process%2C++%E2%98%86
+
+** log
+   [2022-01-29 Sat 19:37]
+*** "An accompaniment for life."
+    [2022-01-15 Sat 15:34] (time approximate)
+**** notes
+   - Huawei, drive added, [2022-01-15 Sat 16:25] (time approximate)
+**** (درب المطاحن)
+    [2022-01-16 Sun 17:07]
+**** TODO process
+    [2022-01-24 Mon 18:34]
+**** notes
+   - 中國. [2022-01-29 Sat 19:36]
+
+** log
+*** somewhere else, reflected on earth.
+   [2022-01-30 Sun 19:57]
+
+** log
+  [2022-02-01 Tue 13:03]
+*** Acknowledgement
+**** Change 16
+    [2022-01-31 Mon 18:50]
+***** Mesmerize India
+****** שלום
+      שלום, translates, Hello 
+******* לנם
+        - translates, To them
+******* לום, weave
+******** has been embedded
+***** notes
+     - bottom
+*** (hi) indicative ibili.
+**** (hi)
+***** you
+****** person
+****** /you/
+***** she
+****** she
+****** female
+**** indicative
+***** REAL
+**** ibili
+***** to be
+**** clever; deft; skilled; fine; cunning.
+**** tincture of gold
+***** present;
+***** golden, is a color. 
+
+** log
+  [2022-02-01 Tue 12:25]
+*** هرم                                                              :forces:
+*** نفخت
+**** process, information
+** log
+  [2022-02-01 Tue 13:34]
+*** ولكن لماذا؟
+**** mutta miksi?| 
+*** log
+   [2022-02-01 Tue 13:37]
+** log
+  [2022-02-01 Tue 15:37]
+*** القصة كتير قديمة 
+the lowball  لمن شوفو منحكي في  حصرا ضمن 
+** log
+  [2022-02-01 Tue 15:48]
+*** reflected on earth.                                       :forces:fronts:
+** log
+  [2022-02-01 Tue 20:08]
+*** trouble finding that site.
+** log
+  [2022-02-02 Wed 11:34]
+*** vision
+**** yellow
+*** its for an assignment.
+**** log
+      - [2022-01-26 Wed 13:37]
+      - https://www.merriam-webster.com/dictionary/vogue
+*** log
+    - https://www.vogue.com/fashion-shows/copenhagen-fall-2022/division/slideshow/collection#7
+    - https://www.vogue.com/fashion-shows/copenhagen-fall-2022/division/slideshow/collection#19
+    - [2022-02-02 Wed 11:27]
+*** process, information
+** log
+  [2022-02-02 Wed 16:04]
+*** inspired by the mood and icons of that era -...
+*** log
+    - https://www.facebook.com/watch/?v=389760632916173&ref=sharing
+    - [2022-02-02 Wed 16:04]
+*** process, information
+** log
+  - https://www.facebook.com/newyorker/posts/10158816969948869
+    - [2022-02-02 Wed 17:55]
+  - https://www.amazon.com/Maps-Imagination-Writer-as-Cartographer/dp/1595340416?asin=159534005X&revisionId=&format=4&depth=1
+    - https://m.media-amazon.com/images/P/159534005X.01._SCLZZZZZZZ_SX500_.jpg
+  - https://www.newyorker.com/magazine/2018/09/03/the-mystery-of-people-who-speak-dozens-of-languages
+    - https://media.newyorker.com/photos/5b7ff3094ae4f06d24aeb1a8/master/w_1280,c_limit/180903_r32684.jpg
+
+** log
+  [2022-02-03 Thu 19:38]
+  - process, information
+** log
+*** lisuus
+   [2022-02-03 Thu 20:12]
+  - process, information
+
+** log
+  [2022-02-04 Fri 13:04]
+  - process, information
+** log
+  [2022-02-06 Sun 06:59]
+  - process, information
+
+** log
+  [2022-02-07 Mon 09:45]
+*** Sound pulsing
+**** log
+    [2022-02-07 Mon 09:39]
+****** /ˈħɛ.lɔw/
+******* log
+     - [2022-02-07 Mon 08:08]
+
+***** process, information
+** log
+  [2022-02-07 Mon 10:20]
+*** log
+  [2022-02-01 Tue 13:03]
+**** Acknowledgement
+***** Change 16
+    [2022-01-31 Mon 18:50]
+****** Mesmerize India
+******* שלום
+      שלום, translates, Hello 
+******** לנם
+        - translates, To them
+******** לום, weave
+********* has been embedded
+****** notes
+     - bottom
+**** (hi) indicative ibili.
+***** (hi)
+****** you
+******* person
+******* /you/
+****** she
+******* she
+******* female
+***** indicative
+****** REAL
+***** ibili
+****** to be
+***** clever; deft; skilled; fine; cunning.
+***** tincture of gold
+****** present;
+****** golden, is a color. 
+*** process, information
+** log
+  [2022-02-07 Mon 16:10]
+*** M15
+**** a letter from former President Obama to Trump.
+**** paper records that had been torn up by former President Trump."
+**** the use of unofficial email and telephone accounts as well as the destruction of e-mails.
+**** The Presidentaial Records Act
+**** log
+   - https://thehill.com/homenews/administration/593065-boxes-improperly-removed-from-white-house-recovered-at-trumps-mar-a
+** log
+*** process, information
+  - https://soundcloud.com/sweetmusicofc/sets/last-premieres?si=6aad1f236fad429ab4e2b8d0f26d2cee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+    - [2022-02-08 Tue 20:39]
+  - https://soundcloud.com/enrico-susini/give-me-all-your-luvin?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+    - [2022-02-08 Tue 20:44]
+      - time
+** log
+*** process, information
+   - https://www.youtube.com/watch?v=W795W63n7mA
+     - cat
+   - [2022-02-08 Tue 21:00]
+
+** log
+***  https://www.facebook.com/permalink.php?story_fbid=10159375824246335&id=532701334
+**** [2022-02-09 Wed 05:35]
+*****  https://www.facebook.com/permalink.php?story_fbid=10159375824246335&id=532701334
+*****  It is necessary to be a problem, Khalas Habal 
+**** [2022-02-09 Wed 05:35]
+*** process, information
+** log
+  [2022-02-09 Wed 15:39]
+*** Acknowledgement
+***** Change 17
+****** [2022-02-09 Wed 15:27]
+Russian Federation 
+People's Republic of China
+United Kingdom of Great Britain and Northern Ireland
+Federal Republic of Germany
+Republic of Finland
+French Republic
+State of Israel
+Vatican City State
+Islamic Republic of Iran
+Republic of Turkey
+Kingdom of Saudi Arabia
+State of Kuwait
+Japan
+New Zealand
+Republic of India
+****** [2022-02-09 Wed 15:27]
+United States of America
+Russian Federation 
+People's Republic of China
+United Kingdom of Great Britain and Northern Ireland
+Republic of Finland
+Islamic Republic of Iran
+Vatican City State
+State of Israel
+Japan
+French Republic
+Federal Republic of Germany
+State of Kuwait
+Republic of Turkey
+Kingdom of Saudi Arabia
+New Zealand
+Republic of India
+
+** log
+  [2022-02-09 Wed 16:12]
+*** Acknowledgement
+**** Change 18
+***** [2022-02-09 Wed 16:06]
+To: President of the United States, Joseph Robinette Biden Jr.
+
+United States of America
+Russian Federation 
+People's Republic of China
+United Kingdom of Great Britain and Northern Ireland
+Republic of Finland
+Islamic Republic of Iran
+Vatican City State
+State of Israel
+Madonna
+French Republic
+Federal Republic of Germany
+State of Kuwait
+Republic of Turkey
+Kingdom of Saudi Arabia
+New Zealand
+Japan
+Republic of India
+** log
+*** [[https://www.metmuseum.org/exhibitions/listings/2022/year-of-the-tiger/exhibition-objects][Celebrating the Year of the Tiger]]
+**** كلب خنزير                                                       :forces:
+***** [[https://www.metmuseum.org/art/collection/search/44676?&exhibitionId=0&oid=44676&pkgids=742][Zodiac figure of a tiger]]
+**** log
+    - [2022-02-10 Thu 20:20]
+**** opened
+**** log
+***** [2022-03-21 Mon 19:03]
+***** 1647882222
+** log
+*** https://www.facebook.com/PacificIslandsSocietyUK/posts/2647867478679876
+**** [2022-02-11 Fri 12:58]
+*** https://www.facebook.com/TheBritishMonarchy/posts/5082503588438097
+**** [2022-02-11 Fri 12:59]
+*** https://www.royal.uk/
+**** [2022-02-11 Fri 12:59]
+** log
+*** Acknowledgement
+**** Change 19
+***** [2022-02-13 Sun 08:42]
+United States of America
+Russian Federation 
+People's Republic of China
+United Kingdom of Great Britain and Northern Ireland
+Republic of Finland
+Islamic Republic of Iran
+Vatican City State
+State of Israel
+Madonna
+French Republic
+Federal Republic of Germany
+State of Kuwait
+Republic of Turkey
+Kingdom of Saudi Arabia
+New Zealand
+Japan
+Republic of India
+***** [2022-02-13 Sun 08:42]
+United States of America
+Russian Federation 
+People's Republic of China
+United Kingdom of Great Britain and Northern Ireland
+Kingdom of Sweden
+Islamic Republic of Iran
+Vatican City State
+State of Israel
+Republic of Finland
+Madonna
+French Republic
+Federal Republic of Germany
+State of Kuwait
+Republic of Turkey
+Kingdom of Saudi Arabia
+New Zealand
+Japan
+Republic of India
+** log
+  [2022-02-15 Tue 17:13]
+*** Meeting #15
+**** <2022-02-15 Tue>
+   - https://mail.google.com/mail/u/0/#label/Health%2C+Common+Knowledge
+
+** log
+*** Abby Dougherty
+  Remembering
+  [2022-01-21 Fri 19:07]
+  - Embrace your uniqueness, step into your power, and share it with the world.
+
+** log
+*** Acknowledgement
+**** Change 21
+United Kingdom of Great Britain and Northern Ireland
+Kingdom of Sweden
+Vatican City State
+Islamic Republic of Iran
+State of Kuwait
+People's Republic of China
+New Zealand
+State of Israel
+Republic of Finland
+Madonna
+Japan
+Russian Federation
+United States of America
+Republic of Turkey
+French Republic
+Federal Republic of Germany
+Kingdom of Saudi Arabia
+Republic of India
+** log
+*** Acknowledgement
+**** Change 23
+United Kingdom of Great Britain and Northern Ireland
+Russian Federation
+People's Republic of China
+Kingdom of Sweden
+Vatican City State
+Islamic Republic of Iran
+State of Kuwait
+New Zealand
+State of Israel
+Republic of Finland
+Madonna
+Japan
+Republic of Turkey
+French Republic
+Federal Republic of Germany
+Kingdom of Saudi Arabia
+United States of America
+Republic of India
+
+** log
+*** Acknowledgement
+**** Change 24
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Russian Federation
+People's Republic of China
+Kingdom of Sweden
+Vatican City State
+Islamic Republic of Iran
+State of Kuwait
+New Zealand
+State of Israel
+Republic of Finland
+Madonna
+Japan
+Republic of Turkey
+French Republic
+Federal Republic of Germany
+Kingdom of Saudi Arabia
+Republic of India
+
+** log
+*** Acknowledgement
+**** Change 25
+***** 
+** log
+*** process
+**** log
+  [2022-02-15 Tue 17:13]
+***** Meeting #15
+****** <2022-02-15 Tue>
+   - https://mail.google.com/mail/u/0/#label/Health%2C+Common+Knowledge
+** log
+*** Sound pulsing
+**** log
+_[2022-02-07 Mon 09:39]
+****** /ˈħɛ.lɔw/
+******* log
+     - [2022-02-07 Mon 08:08]
+
+***** process, information
+*** Swinging Gait
+*** process, information
+** log
+*** Acknowledgment
+**** Change 26
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+People's Republic of China
+Russian Federation
+French Republic
+Federal Republic of Germany
+Vatican City State
+State of Israel
+Islamic Republic of Iran
+Japan
+Madonna
+New Zealand
+State of Kuwait
+Republic of Finland
+Kingdom of Saudi Arabia
+Republic of Turkey
+Kingdom of Sweden
+Republic of India
+
+***** log
+United States of America
+United Kingdom of Great Britain and Northern Ireland
+Russian Federation
+People's Republic of China
+Kingdom of Sweden
+Vatican City State
+Islamic Republic of Iran
+State of Kuwait
+New Zealand
+State of Israel
+Republic of Finland
+Madonna
+Japan
+Republic of Turkey
+French Republic
+Federal Republic of Germany
+Kingdom of Saudi Arabia
+Republic of India
+
+** log
+*** process
+**** Pumping
+   [2022-01-19 Wed 18:46]
+***** Acknowledgement
+     [2022-01-19 Wed 18:56]
+     + Fors in domo fati
+     + Mahdollisuus kohtalon talossa
+***** Acknowledgement
+     [2022-01-19 Wed 18:56]
+     + Where Merlin Played
+     + Acknowledgement, A Love Supreme
+
+** log
+*** notes
+     Maps of the Imagination: The Writer as Cartographer
+        Page 163
+**** notes
+***** contents
+Nothing can remain immense if it can be measured. Prior to the
+shrinkage of space and the abolition of distance through railroads,
+steamships, and airplanes, there is the infinitely greater and more
+effective shrinkage which comes about through the sruveying capacity
+of the human mind, whose use of numbers, symbols, and models can
+condense and scale earthly phsysical distance down to the size of the
+human body's natural sense and understanding. Before we knew how to
+circumscribe the sphere of human habitation in days and hours, we had
+brought the globe into our living rooms to be touched by our hands and
+swirled before our eyes.  
+** log
+*** Acknowledgement
+
+United States of America
+United Kingdom
+People's Republic of China
+Russian Federation
+French Republic
+Federal Republic of Germany
+Vatican City State
+State of Israel
+Islamic Republic of Iran
+Japan
+Madonna
+New Zealand
+State of Kuwait
+Republic of Finland
+Kingdom of Saudi Arabia
+Republic of Turkey
+Kingdom of Sweden
+Republic of India
+
+** log
+  [2022-03-09 Wed 06:25]
+  [2022-02-15 Tue 17:13]
+*** Meeting #15
+**** <2022-02-15 Tue>
+   - https://mail.google.com/mail/u/0/#label/Health%2C+Common+Knowledge
+** log
+*** Acknowledgement
+
+United States of America
+United Kingdom
+People's Republic of China
+Russian Federation
+Vatican City State
+State of Israel
+Islamic Republic of Iran
+Japan
+French Republic
+Federal Republic of Germany
+Republic of Finland
+New Zealand
+State of Kuwait
+Kingdom of Sweden
+Republic of India
+** log
+*** Change 29
+**** Acknowledgement
+United States of America
+United Kingdom
+People's Republic of China
+Russian Federation
+Vatican City State
+State of Israel
+Islamic Republic of Iran
+Japan
+French Republic
+Federal Republic of Germany
+Republic of Finland
+New Zealand
+State of Kuwait
+Kingdom of Sweden
+
+** log
+*** Change 30
+**** Acknowledgement
+
+United States of America
+United Kingdom
+People's Republic of China
+Russian Federation
+Vatican City State
+State of Israel
+Islamic Republic of Iran
+Japan
+Hellenic Republic
+French Republic
+Federal Republic of Germany
+Republic of Finland
+New Zealand
+State of Kuwait
+Kingdom of Sweden
+** log
+  [2022-03-16 Wed 20:35]
+*** Screen
+
+**** 
+
+**** 
+
+**** 
+
+**** 
+
+** log
+  [2022-03-17 Thu 21:14]
+*** fronts
+** log
+*** Acknowlegement
+**** Change 31
+United States of America
+United Kingdom
+People's Republic of China
+Russian Federation
+Vatican City State
+State of Israel
+Islamic Republic of Iran
+Kingdom of Sweden
+Japan
+Hellenic Republic
+French Republic
+Federal Republic of Germany
+Republic of Finland
+State of Kuwait
+New Zealand
+** log
+  [2022-03-18 Fri 20:08]
+*** xyz
+** log
+  [2022-03-19 Sat 14:12]
+*** Evelina Solsten
+**** Ann Kristin Solsten
+***** [[https://www.annkristinsolsten.com/][Om]]
+**** Om
+***** 'Hei!
+** log
+ [2022-03-19 Sat 14:19]
+ [2022-03-21 Mon 15:57]
+** Universes                                                  :forces:fronts:
+*** SPACES                                                    :forces:fronts:
+**** Space
+***** Planet Earth                                            :forces:fronts:
+
+****** 
+
+****** 
+
+****** 
+
+****** 
+** log
+  [2022-03-19 Sat 14:30]
+*** Enoch
+**** Enoch is also only one of two people taken straight to heaven, escaping death altogether. 
+***** https://www.christianity.com/wiki/bible/who-was-enoch-in-the-bible.html
+** log
+  [2022-03-19 Sat 14:31]
+*** epoch time
+**** Dates are always represented internally as the number of seconds since January 1, 1970 at 00:00 Greenwich Mean Time (GMT, nowadays UTC, or Coordinated Universal Time ).
+***** https://www.epochconverter.com/clock
+**** 
+** log
+  [2022-03-20 Sun 09:57]
+*** No-Spotter
+**** There is no spotter in standard Stratego.
+**** If your spotter incorrectly guesses the flag, then the spotter
+        is revealed to your enemy, the enemy’s flag is revealed to you, and
+        both of them remain in play as normal.
+**** You’d simply keep playing after this.
+**** Of course, you now know exactly where the enemy’s flag is, and your spotter is right next to it:
+*** notes
+**** not reflected planet earth.
+** log
+  [2022-03-20 Sun 11:53]
+  *** notes
+**** not reflected planet earth.
+** log
+  [2022-03-20 Sun 13:21]
+*** royal.uk
+**** log
+***** https://www.facebook.com/PacificIslandsSocietyUK/posts/2647867478679876
+****** [2022-02-11 Fri 12:58]
+***** https://www.facebook.com/TheBritishMonarchy/posts/5082503588438097
+****** [2022-02-11 Fri 12:59]
+***** https://www.royal.uk/
+****** [2022-02-11 Fri 12:59]
+** log
+  [2022-03-21 Mon 16:17]
+*** https://en.wiktionary.org/wiki/%F0%90%A4%87
+*** https://en.wikipedia.org/wiki/Psalms#The_ancient_music_of_the_Psalms
+*** https://en.wikipedia.org/wiki/Phoenician_alphabet
+*** https://www.unicode.org/charts/PDF/U10A60.pdf
+*** https://en.wikipedia.org/wiki/Ancient_South_Arabian_script
+** log
+  [2022-03-21 Mon 18:14]
+*** Founding of the State of Israel, May 14
+**** precepts of liberty, justice and peace taught by the Hebrew Prophets;
+**** without distinction of race, creed, or sex;
+** log
+  [2022-03-21 Mon 21:58]
+*** quest to make a 'contagious' vaccine
+** log
+  [2022-03-23 Wed 09:24]
+*** aresenal of advanced technology deployed against.
+** log
+  [2022-03-23 Wed 21:09]
+*** Isaac Asimov
+**** 
+**** 
+**** 
+** log
+  [2022-03-26 Sat 09:54]
+*** process
+****** 
+*** informationa
+** 
+** log
+[2022-03-27 Sun 01:46]
+https://drive.google.com/drive/folders/1SundCqGY2lFpr4C861KPfJnozNWK9OFw?usp=sharing
+** A STORY IS KIND OF A MAP                                         :subcard:
+********** mathematical constructs, our maps of are.
+************ mathematical constructs
+************* objects of reasoning
+*************** ability;
+*************** concepts;
+*************** reasoning;
+****************** points
+***************** i
+*********************** starting points;
+************************* i
+********************** starting points
+******************************* visual rhyhtm;
+********************************* connected
+************************************** dots
+******************************************** positions;
+******************************************** political calculations;
+
+************************ ability;
+**************** concepts;
+******************** reasoning;
+************************** points
+** process
+*** A RIGOROUS GEOMETRY                                                :card:
+***** A STORY IS A KIND OF A MAP                                    :subcard:
+   
+************* PLAY
+
+********* 
+       
+************* mathematical constructs, our maps of are.
+*************** mathematical constructs
+**************** objects of reasoning
+****************** ability;
+****************** concepts;
+****************** reasoning;
+********************* points
+******************** i
+************************** starting points;
+**************************** i
+************************* starting points
+********************************** visual rhyhtm;
+************************************ connected
+***************************************** dots
+*********************************************** positions;
+*********************************************** political calculations;
+
+*************************** ability;
+*************************** concepts;
+*************************** reasoning;
+***************************** points
+********************************** beginings;
+********************************** sources of actions;
+********************************** origins;
+*********************** logics;
+*********************** abstractions;
+
+
+
+********* 
+
+
+********* 
+
+********* STRUCTURE
+************* SPACES
+********* 
+
+********* 
+
+       
+******** notes
+********* shrinkage of space
+********** space
+********* habitation
+********** habitation in days and hours and seconds
+********* connected dots
+********** dot
+*********** *Dotted and I ı*
+************ i
+************* dot
+************** * dotless *
+************ i
+************* intent colors
+
+
+
+********** connected
+*********** a real;
+*********** position; political calculations;
+********** visual rhyhtm
+*********** ɪnfəˈmeɪʃ(ə)n;
+*********** a visual pieace of information;
+*********** a position;
+
+
+********* mathematical constructs, our maps of are.
+
+********* contents
+   Nothing can remain immense if it can be measured. Prior to the
+   shrinkage of space and the abolition of distance through railroads,
+   steamships, and airplanes, there is the infinitely greater and more
+   effective shrinkage which comes about through the sruveying capacity
+   of the human mind, whose use of numbers, symbols, and models can
+   condense and scale earthly phsysical distance down to the size of the
+   human body's natural sense and understanding. Before we knew how to
+   circumscribe the sphere of human habitation in days and hours, we had
+   brought the globe into our living rooms to be touched by our hands and
+   swirled before our eyes.  
+
+
+******** log
+********* process
+********** Chance in the House of Fate                                 :card:
+*********** Excited to share the latest developments                :subcard:
+************ The Living Dead - On the trail of a female
+************ Catholic
+************ Orthodox
+************ Tjugondag Knut – Saint Knut's Day
+************ FINLAND • KVENLAND • ESTONIA • INGRIA • KARELIA
+************* PLAY IN LAPLAND, FINLAND
+************** PLAY     
+************ • KVENLAND •
+************* Kvenland is celebrating Saint Knut's Day
+************** kven
+
+******** notes
+********* notes
+
+********** Eta
+*********** mirror image
+
+**********  ήτα 
+*********** hêta
+
+********** Ḥēt
+*********** notes
+************ Phoenician letter gave rise to the Greek eta Η
+************* rise to H
+************ 𐤇
+
+
+**********   ήτα 
+*********** حدث
+************ reflected on earth.                              :forces:fronts:
+************ *žēmē                                            :forces:fronts:
+************* meaning "land"
+*********** حادث يحصل خلال هذا الحدث
+************ reflected on earth.                              :forces:fronts:
+************ *žēmē                                            :forces:fronts:
+************* meaning "land"
+
+********** 
+
+********** II.
+************ 𐩢
+
+***************** habitation
+************* habitation in days and hours
+***************  habitation in days and hours, planet earth
+**************** days
+***************** habitation in days and hours
+**************** hours
+***************** habitation in days and hours
+**************** days and hours
+***************** habitation in days and hours
+
+****** notes
+
+******* prior
+******** shrinkage of space
+********* prior to
+********** shrinkage of space
+********** space, shrinkage of
+
+
+******* shrinkage of space
+******* habitation in days and hours
+********  habitation in days and hours, planet earth
+********* days
+********** habitation in days and hours
+********* hours
+********** habitation in days and hours
+********* days and hours
+********** habitation in days and hours
+
+******* habitation
+******** habitation in days and hours
+*********  habitation in days and hours, planet earth
+********** days
+*********** habitation in days and hours
+********** hours
+*********** habitation in days and hours
+********** days and hours
+*********** habitation in days and hours
+
+
+
+****** notes
+******* shrinkage of space
+******** space
+******* habitation
+******** habitation in days and hours
+******* connected dots
+******* contents
+   Nothing can remain immense if it can be measured. Prior to the
+   shrinkage of space and the abolition of distance through railroads,
+   steamships, and airplanes, there is the infinitely greater and more
+   effective shrinkage which comes about through the sruveying capacity
+   of the human mind, whose use of numbers, symbols, and models can
+   condense and scale earthly phsysical distance down to the size of the
+   human body's natural sense and understanding. Before we knew how to
+   circumscribe the sphere of human habitation in days and hours, we had
+   brought the globe into our living rooms to be touched by our hands and
+   swirled before our eyes.  
+
+****** notes
+
+***************** habitation
+************* habitation in days and hours
+***************  habitation in days and hours, planet earth
+**************** days
+***************** habitation in days and hours
+**************** hours
+***************** habitation in days and hours
+**************** days and hours
+***************** habitation in days and hours
+****** notes
+********* 
+****** notes
+******* mathematical constructs
+******** objects of reasoning
+********** ability;
+********** concepts;
+********** reasoning;
+************* points
+************ i
+****************** starting points;
+******************** i
+***************** starting points
+************************** visual rhyhtm;
+**************************** connected
+********************************* dots
+*************************************** positions;
+*************************************** political calculations;
+
+******************* ability;
+*********** concepts;
+*************** reasoning;
+********************* points
+*********************** beginings;
+*********************** sources of actions;
+*********************** origins;
+******************* logics;
+******************* abstractions;
+
+**** hello—chào—but thank you, cảm ơn, is harder.                   :subcard:
+***** notes
+******** 
+******** 
+******** 
+********* شكرا
+******** perception
+********* perception of time
+******** 
+********** 
+********* 
+*********** 
+********** 
+********* 
+******** 
+********* habitation
+******** 
+********* botanical names
+******** 
+********* 
+******** 
+********* 
+******** 
+***** notes
+****** botanical gardens
+******* botanical names
+***** notes
+****** 
+****** 
+****** 
+****** 
+**** هرم                                                            :subcard:
+
+***** log
+****** هرم                                                           :forces:
+******* نفخت
+******* Thought to Be Straws
+
+******* log
+      - https://news.artnet.com/art-world/ancient-sumerian-beer-discovery-2066928
+      - [2022-02-02 Wed 11:14]
+******** 
+
+***** log
+****** هرم                                                           :forces:
+******* نفخت
+
+**** Mesmerize India                                                :subcard:
+****** Weavers
+****** שלום, hello
+******* ˈħɛ.lɔw
+****** לנם, to them; peace;
+****** לום, weave
+******* has been embedded
+******* Weavers
+******* (hi) indicative ibili.
+******** indicative
+********* REAL
+******** ibili
+********* to be
+******** clever; deft; skilled; fine; cunning.
+******** tincture of gold
+********* present;
+********* golden, is a color. 
+
+***** log
+****** log
+******* שלום
+******** שלום, translates, Hello 
+****** log
+******* לנם
+******** translates, to them
+******** translates, peace
+****** log
+******* לנם
+******** לנם.m4a
+***** notes
+******* שלום, Weavers
+******** שלום, hello
+********* /ˈħɛ.lɔw/
+******** לנם, to them; peace;
+******** לום, weave
+********* has been embedded
+********* Weavers
+******* notes
+******** the lowball, origins                                          :card:
+********* Eagle Fountain                                            :subcard:
+
+******* notes
+******** Chance in the House of Fate                                   :card:
+********* Page 1
+********** log
+*********** https://www.amazon.com/Chance-House-HEREDITY-GENETICS-SCIENCE/dp/0747556822/
+********* Page 1
+********** weaving
+********** mesmerizing (s)
+
+******** Where Merlin Played                                           :card:
+********* notes
+********** From Here to There: A Curious Collection from the Hand Drawn Map
+**************** Kris Harzinski
+***************** Pages 91, 92
+
+**** A RIGOROUS GEOMETRY                                            :subcard:
+***** STRUCTURE
+****** SPACES
+
+***** notes
+
+****** 
+******** habitation
+****** habitation in days and hours
+*******  habitation in days and hours and seconds, planet earth
+******** days
+********* habitation in days and hours and seconds
+******** hours
+********* habitation in days and hours and seconds
+******** days and hours
+********* habitation in days and hours and seconds
+
+****** habitation in days and hours
+******** days
+********* habitation in days and hours and seconds
+******** hours
+********* habitation in days and hours and seconds
+******** days and hours
+********* habitation in days and hours and seconds
+******** 
+****** 
+******** 
+******* 
+******** 
+****** 
+
+***** notes
+	[2022-03-26 Sat 21:08]
+****** prior
+******* shrinkage of space
+******** prior to
+********* shrinkage of space
+********* space, shrinkage of
+
+****** shrinkage of
+******* SPACES
+
+****** shrinkage of space
+
+****** habitation in days and hours
+*******  habitation in days and hours and seconds, planet earth
+******** days
+********* habitation in days and hours and seconds
+******** hours
+********* habitation in days and hours and seconds
+******** days and hours
+********* habitation in days and hours and seconds
+
+****** habitation
+
+***** log
+****** Thought to Be Straws
+
+******* notes
+******** shrinkage of space
+******** habitation in days and hours
+******* notes
+      - Maps of the Imagination: The Writer as Cartographer
+	- Page 161
+	- Page 162
+
+****   ήτα                                                          :subcard:
+***** حدث
+****** reflected on earth.                                    :forces:fronts:
+****** *žēmē                                                  :forces:fronts:
+******* meaning "land"
+***** حادث يحصل خلال هذا الحدث
+****** reflected on earth.                                    :forces:fronts:
+****** *žēmē                                                  :forces:fronts:
+******* meaning "land"
+
+**** Thought to Be Straws                                           :subcard:
+***** A RIGOROUS GEOMETRY
+**** 
+
+**** notes
+    - Maps of the Imagination: The Writer as Cartographer
+      - Page 161
+**** log
+***** log
+    [2022-02-01 Tue 13:03]
+****** Acknowledgement
+******* Change 16
+      [2022-01-31 Mon 18:50]
+******** Mesmerize India
+********* שלום
+	שלום, translates, Hello 
+********** לנם
+          - translates, To them
+********** לום, weave
+*********** has been embedded
+******** notes
+       - bottom
+****** (hi) indicative ibili.
+******* (hi)
+******** you
+********* person
+********* /you/
+******** she
+********* she
+********* female
+******* indicative
+******** REAL
+******* ibili
+******** to be
+******* clever; deft; skilled; fine; cunning.
+******* tincture of gold
+******** present;
+******** golden, is a color. 
+
+***** Ascension Island on the Globe (in the United Kingdom)
+****** of XY on the globe.
+****** vulkansk og gold
+******* vulcanic şi
+******** she
+********* she
+********* female
+******* gold
+******** golden, is a color. 
+
+****** log
+      - https://en.wikipedia.org/wiki/File:Ascension_Island_on_the_Globe_(in_the_United_Kingdom).svg
+      - https://da.wikipedia.org/wiki/Ascension
+	- vulkansk og
+	  - https://translate.google.com/?sl=da&tl=ro&text=vulkansk%20og%20&op=translate
+	  - vulcanic şi
+      - [2022-02-02 Wed 20:00]
+      
+***** هرم                                                            :forces:
+****** نفخت
+****** Thought to Be Straws
+
+
+****** log
+      - https://news.artnet.com/art-world/ancient-sumerian-beer-discovery-2066928
+      - [2022-02-02 Wed 11:14]
+      
+***** שלום
+****** לנם
+******* log
+      - translates, To them
+      - https://translate.google.com/?sl=auto&tl=en&text=%D7%9C%D7%A0%D7%9D&op=translate
+      - https://www.facebook.com/watch/?v=4728241973935380
+	+ לנם
+	  + information: https://www.facebook.com/watch/?v=4728241973935380
+	    * 0:10
+****** לום
+******* weave
+******** Mesmerize India
+********* log
+           - https://mesmerizeindia.com/products/regular-ruby-red-diamond-satin-scrunchie
+           - has been embedded
+  	  + לום, weave
+	    * information: https://mesmerizeindia.com/products/regular-ruby-red-diamond-satin-scrunchie
+******* log
+	- transaltes, Loom
+	- https://translate.google.com/?sl=auto&tl=en&text=%D7%9C%D7%95%D7%9D&op=translate
+	 - Loom
+	   + https://en.wikipedia.org/wiki/Loom
+	   + weave
+      - https://www.facebook.com/watch/?v=4728241973935380
+	+ לנם
+	  + information: https://www.facebook.com/watch/?v=4728241973935380
+	    * 0:10
+****** log
+      - שלום, translates, Hello 
+      - https://translate.google.com/?sl=auto&tl=en&text=%D7%A9%D7%9C%D7%95%D7%9D&op=translate
+      - https://www.facebook.com/watch/?v=4728241973935380
+	+ שלום
+	  + information: https://www.facebook.com/watch/?v=4728241973935380
+	    * 0:09
+      - [2022-01-31 Mon 06:39]
+      - « Express Your Self……………. I Dare You! 🖤 » -Madonna
+***** log
+     - [2022-02-04 Fri 07:20]
+       - https://edition.cnn.com/2022/02/03/politics/situation-room-joe-biden-isis-strike/index.html
+     - Feb  4 07:28 ' هرم.png'
+       - [2022-02-04 Fri 07:49]
+****** log
+       - MDNA - Give Me All Your Luvin'
+	 - https://www.kboing.com.br/madonna/give-me-all-your-luvin-feat-nicki-minaj-e-mia/
+	 - [2022-02-04 Fri 18:30]
+	 - Main Stem
+	   - https://en.wikipedia.org/wiki/File:US_Army_Blues_-_02_-_Main_Stem.ogg
+       - process, information [2022-02-04 Fri 18:35]
+
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** hello—chào—but thank you, cảm ơn, is harder.
+******* chào
+******* cảm ơn
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** Mesmerize India
+******* שלום
+******** שלום
+********* /ˈħɛ.lɔw/
+******** לנם
+******** לום, weave
+********* has been embedded
+********* Weavers
+******** (hi) indicative ibili.
+********* (hi)
+********** you
+*********** person
+*********** /you/
+********** she
+*********** she
+*********** female
+********* indicative
+********** REAL
+********* ibili
+********** to be
+********* clever; deft; skilled; fine; cunning.
+********* tincture of gold
+********** present;
+********** golden, is a color. 
+
+******* log
+       - [2022-02-21 Mon 08:04]
+	 - https://translate.google.com/?sl=auto&tl=en&text=%20%D7%A9%D7%9C%D7%95%D7%9D&op=translate
+	   - translates to Peace
+
+******* log
+******** שלום
+	שלום, translates, Hello 
+******* log
+    [2022-02-01 Tue 13:03]
+******** Acknowledgement
+********* Change 16
+      [2022-01-31 Mon 18:50]
+********** Mesmerize India
+*********** שלום
+	שלום, translates, Hello 
+************ לנם
+          - translates, To them
+************ לום, weave
+************* has been embedded
+********** notes
+       - bottom
+******** (hi) indicative ibili.
+********* (hi)
+********** you
+*********** person
+*********** /you/
+********** she
+*********** she
+*********** female
+********* indicative
+********** REAL
+********* ibili
+********** to be
+********* clever; deft; skilled; fine; cunning.
+********* tincture of gold
+********** present;
+********** golden, is a color. 
+
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** Mesmerize India
+******* שלום
+******** שלום
+********* /ˈħɛ.lɔw/
+******** לנם
+******** לום, weave
+********* has been embedded
+********* Weavers
+******** (hi) indicative ibili.
+********* indicative
+********** REAL
+********* ibili
+********** to be
+********* clever; deft; skilled; fine; cunning.
+********* tincture of gold
+********** present;
+********** golden, is a color. 
+****** log
+******* לנם
+******** translates, to them
+******** transaltes, peace
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+******* هرم                                                         :subcard:
+******** نفخت
+******** Thought to Be Straws
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** hello—chào—but thank you, cảm ơn, is harder.                 :subcard:
+******* chào
+******* cảm ơn
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** A STORY IS A KIND OF A MAP                                   :subcard:
+
+******* notes
+       Maps of the Imagination: The Writer as Cartographer
+          Page 163
+******** notes
+********* contents
+  Nothing can remain immense if it can be measured. Prior to the
+  shrinkage of space and the abolition of distance through railroads,
+  steamships, and airplanes, there is the infinitely greater and more
+  effective shrinkage which comes about through the sruveying capacity
+  of the human mind, whose use of numbers, symbols, and models can
+  condense and scale earthly phsysical distance down to the size of the
+  human body's natural sense and understanding. Before we knew how to
+  circumscribe the sphere of human habitation in days and hours, we had
+  brought the globe into our living rooms to be touched by our hands and
+  swirled before our eyes.  
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+******* Mesmerize India                                             :subcard:
+******** שלום
+********* שלום
+********** /ˈħɛ.lɔw/
+********* לנם
+********* לום, weave
+********** has been embedded
+********** Weavers
+********* (hi) indicative ibili.
+********** indicative
+*********** REAL
+********** ibili
+*********** to be
+********** clever; deft; skilled; fine; cunning.
+********** tincture of gold
+*********** present;
+*********** golden, is a color. 
+
+******* log
+******** log
+********* שלום
+********** שלום, translates, Hello 
+******** log
+********* לנם
+********** translates, to them
+********** translates, peace
+******** log
+********* לנם
+********** לנם.m4a
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** A STORY IS A KIND OF A MAP                                   :subcard:
+******* PLAY
+
+******** log
+********* FINLAND • KVENLAND • ESTONIA • INGRIA • KARELIA
+********** PLAY IN LAPLAND, FINLAND
+*********** PLAY     
+
+******** log
+********* Eta
+********** \
+*********** mirror image
+********** حدث
+*********** reflected on earth.                               :forces:fronts:
+*********** *žēmē                                             :forces:fronts:
+************ meaning "land"
+********** حادث يحصل خلال هذا الحدث
+*********** reflected on earth.                               :forces:fronts:
+*********** *žēmē                                             :forces:fronts:
+************ meaning "land"
+********** ˈħɛ.lɔw
+********** PLAY
+********** raised to [i]
+*********** dot
+************ *Dotted İ i and dotless I ı*
+************* unstable unicorns
+************** i
+*************** dot
+**************** *Dotted İ i and dotless I ı*
+
+
+********** log
+*********** https://fb.watch/b5L8CimG1w/
+************ [2022-02-11 Fri 08:35]
+
+********** log
+*********** https://www.facebook.com/events/1291258688046047/?ref=newsfeed
+*********** https://startpage.com/row/search?q=%5C&l=english
+************ \
+************* mirror image
+*********** [2022-02-08 Tue 11:01]
+************ https://www.facebook.com/jad.saklawi/posts/10100830013808742?notif_id=1644297283847039&notif_t=feedback_reaction_generic&ref=notif
+*********** [2022-02-08 Tue 11:05]
+************ https://www.facebook.com/Kvenland/videos/pcb.4696900820429118/234367865546199
+************ PLAY
+*********** [2022-02-08 Tue 11:08]
+************ https://en.wikipedia.org/wiki/Eta
+*********** [2022-02-08 Tue 11:09]
+
+
+******* notes
+	- Maps of the Imagination: The Writer as Cartographer
+	 - Page 163
+	 - Page 164
+
+**** process
+****** A STORY IS A KIND OF A MAP                                   :subcard:
+******* PLAY
+
+******** log
+********* process
+********** Chance in the House of Fate                                 :card:
+*********** Excited to share the latest developments                :subcard:
+************ The Living Dead - On the trail of a female
+************ Catholic
+************ Orthodox
+************ Tjugondag Knut – Saint Knut's Day
+************ FINLAND • KVENLAND • ESTONIA • INGRIA • KARELIA
+************* PLAY IN LAPLAND, FINLAND
+************** PLAY     
+************ • KVENLAND •
+************* Kvenland is celebrating Saint Knut's Day
+************** kven
+
+
+******** log
+********* Eta
+********** \
+*********** mirror image
+********** حدث
+*********** reflected on earth.                               :forces:fronts:
+*********** *žēmē                                             :forces:fronts:
+************ meaning "land"
+********** حادث يحصل خلال هذا الحدث
+*********** reflected on earth.                               :forces:fronts:
+*********** *žēmē                                             :forces:fronts:
+************ meaning "land"
+********** ˈħɛ.lɔw
+********** PLAY
+********** raised to [i]
+*********** dot
+************ *Dotted İ i and dotless I ı*
+************* unstable unicorns
+************** i
+*************** dot
+**************** *Dotted İ i and dotless I ı*
+
+
+********** log
+*********** https://fb.watch/b5L8CimG1w/
+************ [2022-02-11 Fri 08:35]
+
+********** log
+*********** https://www.facebook.com/events/1291258688046047/?ref=newsfeed
+*********** https://startpage.com/row/search?q=%5C&l=english
+************ \
+************* mirror image
+*********** [2022-02-08 Tue 11:01]
+************ https://www.facebook.com/jad.saklawi/posts/10100830013808742?notif_id=1644297283847039&notif_t=feedback_reaction_generic&ref=notif
+*********** [2022-02-08 Tue 11:05]
+************ https://www.facebook.com/Kvenland/videos/pcb.4696900820429118/234367865546199
+************ PLAY
+*********** [2022-02-08 Tue 11:08]
+************ https://en.wikipedia.org/wiki/Eta
+*********** [2022-02-08 Tue 11:09]
+
+
+******* notes
+    - Maps of the Imagination: The Writer as Cartographer
+      - Page 163
+      - Page 164
+
+******** notes
+********* contents
+  Nothing can remain immense if it can be measured. Prior to the
+  shrinkage of space and the abolition of distance through railroads,
+  steamships, and airplanes, there is the infinitely greater and more
+  effective shrinkage which comes about through the sruveying capacity
+  of the human mind, whose use of numbers, symbols, and models can
+  condense and scale earthly phsysical distance down to the size of the
+  human body's natural sense and understanding. Before we knew how to
+  circumscribe the sphere of human habitation in days and hours, we had
+  brought the globe into our living rooms to be touched by our hands and
+  swirled before our eyes.  
+********* shrinkage of space
+********* habitation in days and hours
+**** process
+***** A RIGOROUS GEOMETRY                                           :subcard:
+****** Thought to Be Straws
+
+******* notes
+******** shrinkage of space
+******** habitation in days and hours
+******** connected dots
+******* notes
+      - Maps of the Imagination: The Writer as Cartographer
+	- Page 161
+	- Page 162
+
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** A STORY IS A KIND OF A MAP                                   :subcard:
+******* PLAY
+
+******** log
+********* process
+********** Chance in the House of Fate                                 :card:
+*********** Excited to share the latest developments                :subcard:
+************ The Living Dead - On the trail of a female
+************ Catholic
+************ Orthodox
+************ Tjugondag Knut – Saint Knut's Day
+************ FINLAND • KVENLAND • ESTONIA • INGRIA • KARELIA
+************* PLAY IN LAPLAND, FINLAND
+************** PLAY     
+************ • KVENLAND •
+************* Kvenland is celebrating Saint Knut's Day
+************** kven
+
+
+******** log
+********* Eta
+********** \
+*********** mirror image
+********** حدث
+*********** reflected on earth.                               :forces:fronts:
+*********** *žēmē                                             :forces:fronts:
+************ meaning "land"
+********** حادث يحصل خلال هذا الحدث
+*********** reflected on earth.                               :forces:fronts:
+*********** *žēmē                                             :forces:fronts:
+************ meaning "land"
+********** ˈħɛ.lɔw
+********** PLAY
+********** raised to [i]
+*********** dot
+************ *Dotted İ i and dotless I ı*
+************* unstable unicorns
+************** i
+*************** dot
+**************** *Dotted İ i and dotless I ı*
+
+
+********** log
+*********** https://fb.watch/b5L8CimG1w/
+************ [2022-02-11 Fri 08:35]
+
+********** log
+*********** https://www.facebook.com/events/1291258688046047/?ref=newsfeed
+*********** https://startpage.com/row/search?q=%5C&l=english
+************ \
+************* mirror image
+*********** [2022-02-08 Tue 11:01]
+************ https://www.facebook.com/jad.saklawi/posts/10100830013808742?notif_id=1644297283847039&notif_t=feedback_reaction_generic&ref=notif
+*********** [2022-02-08 Tue 11:05]
+************ https://www.facebook.com/Kvenland/videos/pcb.4696900820429118/234367865546199
+************ PLAY
+*********** [2022-02-08 Tue 11:08]
+************ https://en.wikipedia.org/wiki/Eta
+*********** [2022-02-08 Tue 11:09]
+
+******* notes
+    - Maps of the Imagination: The Writer as Cartographer
+      - Page 163
+      - Page 164
+
+******** notes
+********* contents
+  Nothing can remain immense if it can be measured. Prior to the
+  shrinkage of space and the abolition of distance through railroads,
+  steamships, and airplanes, there is the infinitely greater and more
+  effective shrinkage which comes about through the sruveying capacity
+  of the human mind, whose use of numbers, symbols, and models can
+  condense and scale earthly phsysical distance down to the size of the
+  human body's natural sense and understanding. Before we knew how to
+  circumscribe the sphere of human habitation in days and hours, we had
+  brought the globe into our living rooms to be touched by our hands and
+  swirled before our eyes.  
+********* shrinkage of space
+********* habitation in days and hours
+********* connected dots
+****** hello—chào—but thank you, cảm ơn, is harder.                 :subcard:
+******* chào
+******* cảm ơn
+****** هرم                                                          :subcard:
+******* نفخت
+******* Thought to Be Straws
+******* log
+******** هرم                                                         :forces:
+********* نفخت
+********* Thought to Be Straws
+
+********* log
+      - https://news.artnet.com/art-world/ancient-sumerian-beer-discovery-2066928
+      - [2022-02-02 Wed 11:14]
+      
+****** Mesmerize India                                              :subcard:
+******* שלום
+******** שלום
+********* /ˈħɛ.lɔw/
+******** לנם
+******** לום, weave
+********* has been embedded
+********* Weavers
+******** (hi) indicative ibili.
+********* indicative
+********** REAL
+********* ibili
+********** to be
+********* clever; deft; skilled; fine; cunning.
+********* tincture of gold
+********** present;
+********** golden, is a color. 
+
+******* log
+******** log
+********* שלום
+********** שלום, translates, Hello 
+******** log
+********* לנם
+********** translates, to them
+********** translates, peace
+******** log
+********* לנם
+********** לנם.m4a
+
+****** A RIGOROUS GEOMETRY                                          :subcard:
+******* Thought to Be Straws
+
+******** notes
+********* shrinkage of space
+********* habitation in days and hours
+********* connected dots
+******** notes
+      - Maps of the Imagination: The Writer as Cartographer
+	- Page 161
+	- Page 162
+
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** هرم                                                          :subcard:
+******* نفخت
+
+****** log
+******* هرم                                                          :forces:
+******** نفخت
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** هرم                                                          :subcard:
+****** process
+******* log
+******** log
+       [2022-02-01 Tue 13:03]
+********* Acknowledgement
+********** Change 16
+      [2022-01-31 Mon 18:50]
+*********** Mesmerize India
+************ שלום
+	שלום, translates, Hello 
+************* לנם
+          - translates, To them
+************* לום, weave
+************** has been embedded
+*********** notes
+       - bottom
+********* (hi) indicative ibili.
+********** (hi)
+*********** you
+************ person
+************ /you/
+*********** she
+************ she
+************ female
+********** indicative
+*********** REAL
+********** ibili
+*********** to be
+********** clever; deft; skilled; fine; cunning.
+********** tincture of gold
+*********** present;
+*********** golden, is a color. 
+
+******** هرم                                                         :forces:
+********* نفخت
+********* Thought to Be Straws
+
+
+********* log
+      - https://news.artnet.com/art-world/ancient-sumerian-beer-discovery-2066928
+      - [2022-02-02 Wed 11:14]
+      
+******** שלום
+********* לנם
+********** log
+      - translates, To them
+      - https://translate.google.com/?sl=auto&tl=en&text=%D7%9C%D7%A0%D7%9D&op=translate
+      - https://www.facebook.com/watch/?v=4728241973935380
+	+ לנם
+	  + information: https://www.facebook.com/watch/?v=4728241973935380
+	    * 0:10
+********* לום
+********** weave
+*********** Mesmerize India
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+******   ήτα                                                        :subcard:
+******* حدث
+******** reflected on earth.                                  :forces:fronts:
+******** *žēmē                                                :forces:fronts:
+********* meaning "land"
+******* حادث يحصل خلال هذا الحدث
+******** reflected on earth.                                  :forces:fronts:
+******** *žēmē                                                :forces:fronts:
+********* meaning "land"
+
+**** notes
+****** Phoenician letter gave rise to the Greek eta Η
+******* rise to H
+**** process
+***** Thought to Be Straws                                          :subcard:
+****** A RIGOROUS GEOMETRY
+
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** A RIGOROUS GEOMETRY                                          :subcard:
+******* STRUCTURE
+
+******* notes
+******** shrinkage of space
+******** habitation in days and hours
+
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** A RIGOROUS GEOMETRY                                          :subcard:
+******* STRUCTURE
+******** SPACES
+
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+******* A STORY IS A KIND OF A MAP                                  :subcard:
+******** PLAY
+
+**** notes
+***** shrinkage of space
+****** space
+***** habitation
+****** habitation in days and hours  and seconds
+***** connected dots
+***** mathematical constructs, our maps of are.
+
+***** notes
+
+****** prior
+******* shrinkage of space
+******** prior to
+********* shrinkage of space
+********* space, shrinkage of
+
+
+****** shrinkage of space
+****** habitation in days and hours
+*******  habitation in days and hours, planet earth
+******** days
+********* habitation in days and hours
+******** hours
+********* habitation in days and hours
+******** days and hours
+********* habitation in days and hours
+
+****** habitation
+
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** A STORY IS A KIND OF A MAP                                   :subcard:
+******* PLAY
+******** 
+******** 
+******** 
+
+
+**** notes
+
+******** 
+
+******** mathematical constructs, our maps of are.
+
+******** 
+
+**** process
+***** A RIGOROUS GEOMETRY                                              :card: 
+****** Mesmerize India                                              :subcard:
+******* שלום
+******** שלום
+********* /ˈħɛ.lɔw/
+******** לנם
+******** לום, weave
+********* has been embedded
+********* Weavers
+******** (hi) indicative ibili.
+********* indicative
+********** REAL
+********* ibili
+********** to be
+********* clever; deft; skilled; fine; cunning.
+********* tincture of gold
+********** present;
+********** golden, is a color. 
+
+******* notes
+********* שלום, Weavers
+********** שלום, hello
+*********** /ˈħɛ.lɔw/
+********** לנם, to them; peace;
+********** לום, weave
+*********** has been embedded
+*********** Weavers
+********* notes
+********** the lowball, origins                                        :card:
+*********** Eagle Fountain                                          :subcard:
+
+********* notes
+********** Chance in the House of Fate                                 :card:
+*********** Page 1
+************ notes
+************* Chance in the House of Fate: A Natural History of Heredity
+************** Jennifer Ackerman
+*********** Page 1
+************ weaving
+************ mesmerizing (s)
+
+********** Where Merlin Played                                         :card:
+*********** notes
+************ From Here to There: A Curious Collection from the Hand Drawn Map
+****************** Kris Harzinski
+******************* Pages 91, 92
+**** process
+******* A RIGOROUS GEOMETRY                                            :card:
+******** A STORY IS A KIND OF A MAP                                 :subcard:
+**************** PLAY
+*************** mathematical constructs, our maps of are.
+**************** habitation
+**** notes
+**************** habitation
+************ habitation in days and hours
+**************  habitation in days and hours, planet earth
+*************** days
+**************** habitation in days and hours
+*************** hours
+**************** habitation in days and hours
+*************** days and hours
+**************** habitation in days and hours
+
+**** process
+******* A RIGOROUS GEOMETRY                                            :card:
+******** A STORY IS A KIND OF A MAP                                 :subcard:
+**************** PLAY
+
+************ 
+
+************ mathematical constructs, our maps of are.
+************************ habitation
+
+************ occupancy
+**************** the action or fact of occupying a place
+**************** observing or finding something unknown
+************ 
+
+
+************ 
+
+************ STRUCTURE
+**************** SPACES
+************ 
+
+
+**** notes
+
+**************** habitation
+************ habitation in days and hours
+**************  habitation in days and hours, planet earth
+*************** days
+**************** habitation in days and hours
+*************** hours
+**************** habitation in days and hours
+*************** days and hours
+**************** habitation in days and hours
+
+**** notes
+************ Chance in th House of Fate                                :card:
+************** Excited to share the latest developments             :subcard:
+*************** On the trail of a female
+*************** Saint Knut's Day
+*************** FINLAND • KVENLAND • ESTONIA • INGRIA • KARELIA
+**************** PLAY IN LAPLAND, FINLAND
+***************** PLAY     
+*************** • KVENLAND •
+**************** Kvenland is celebrating Saint Knut's Day
+***************** kven
+**** process
+***** A RIGOROUS GEOMETRY                                              :card:
+****** A STORY IS A KIND OF A MAP                                   :subcard:
+   
+************** PLAY
+
+********** 
+
+************** mathematical constructs, our maps of are.
+**************** mathematical constructs
+***************** objects of reasoning
+******************* ability;
+******************* concepts;
+******************* reasoning;
+********************** points
+********************* i
+*************************** starting points;
+***************************** i
+************************** starting points
+*********************************** visual rhyhtm;
+************************************* connected
+****************************************** dots
+************************************************ positions;
+************************************************ political calculations;
+
+**************************** ability;
+******************** concepts;
+************************ reasoning;
+****************************** points
+
+
+
+********** 
+
+
+********** 
+
+********** STRUCTURE
+************** SPACES
+********** 
+
+********** 
+
+
+
+

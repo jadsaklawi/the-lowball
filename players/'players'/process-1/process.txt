@@ -1,0 +1,9 @@
+** notes
+***** botanical abstraction
+
+***** STRUTURE
+****** SPACES
+
+** process
+*** /players/                                       :forces:fronts:botanical:
+**** SPACES                                                   :forces:fronts:

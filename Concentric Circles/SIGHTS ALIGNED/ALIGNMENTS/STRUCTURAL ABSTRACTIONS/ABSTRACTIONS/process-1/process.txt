@@ -1,0 +1,30 @@
+** process
+*** Concentric Circles                                                 :card:
+***** STRUCTURAL ABSTRACTIONS
+****** ABSTRACTIONS
+********** point
+************* ｜
+********************** positional colors
+****************************** points
+**************************** variations; dimensions; depths;
+********************** time points
+**************************** ———                                 ｜
+******************** positions;
+************************** ———                 o degrees;
+********************** abstraction
+****************************************** centers
+********************************************** splits
+********************************************** layers
+********** illuminations
+************** destinations
+****************** points
+************** order
+************** meanings
+
+********** temporals and spatial boundaries
+************** temporals
+************** temporal dimensions
+************** boundaries
+
+
+

@@ -1,0 +1,30 @@
+*** process
+**** A RIGOROUS GEOMETRY                                               :card:
+***** A RIGOROUS GEOMETRY                                           :subcard:
+****** STRUCTURE
+******* SPACES
+******** channels
+
+****** Unit Structures
+******* Units
+******* Steps
+******* Whisps
+******** Surveying;
+******** Whisps
+******* Blocks
+********** association
+
+****** BLOCKS
+******* BLOCK
+	association
+******** association
+******** BLOCK
+************ perceptions
+************** BLOCK
+*************** A RIGOROUS GEOMETRY
+**************** hello—chào—but thank you, cảm ơn, is harder.
+******************** BLOCK
+********************* SPACES
+
+
+

@@ -1,0 +1,14 @@
+*** log
+   - https://en.wikipedia.org/wiki/Razz_(poker)
+     - https://en.wikipedia.org/wiki/Razz_(poker)#Play
+       - "bring it in"
+	 * https://en.wikipedia.org/wiki/Betting_in_poker#Bring-in
+       - stakes
+	 + https://en.wikipedia.org/wiki/Betting_in_poker#Table_stakes_rules
+	 + "going south"
+	   + https://en.wikipedia.org/wiki/Glossary_of_poker_terms#going_south
+   - https://en.wikipedia.org/wiki/Razz_(poker)
+     + https://en.wikipedia.org/wiki/Lowball_(poker)
+     + https://en.wikipedia.org/wiki/Betting_in_poker#Bring-in
+       + https://en.wikipedia.org/wiki/Poker_strategy
+

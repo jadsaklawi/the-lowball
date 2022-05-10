@@ -1,0 +1,24 @@
+** ربط                                                            :log:notes:
+  [2022-05-02 Mon 12:25]
+*** association
+**** A RIGOROUS GEOMETRY                                               :card:
+***** A RIGOROUS GEOMETRY                                           :subcard:
+****** Blocks
+******* association
+
+** فصل                                                                  :log:
+   [2022-04-29 Fri 21:35]
+   [2022-05-02 Mon 12:21]
+*** A RIGOROUS GEOMTERY                                             :card:
+**** A RIGOROUS GEOMTERY                                            :subcard:
+***** BLOCK
+****** association
+*** [2022-05-02 Mon 08:58]
+***** divide
+***** divisions
+***** channels
+***** 
+****** 
+******* 
+****** 
+***** 

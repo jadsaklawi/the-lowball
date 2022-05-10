@@ -1,0 +1,13 @@
+****** log
+        - https://startpage.com/row/search?q=Stratego&l=english
+	  + Stratego - Hasbro
+	    + https://startpage.com/row/search?q=Stratego+-+Hasbro&l=english
+	    + for a skirmish that will decide the fate of your army.
+	      + https://www.dictionary.com/browse/skirmish
+	      + https://www.dictionary.com/browse/brisk
+	      + https://www.dictionary.com/browse/lively
+	  + https://duckduckgo.com/?t=lm&q=HASBRO&ia=web
+	    + https://en.wikipedia.org/wiki/Hasbro
+	      * a syllabic abbreviation of its original name,
+		* https://www.merriam-webster.com/dictionary/syllabic
+	  + [2022-02-01 Tue 19:11]

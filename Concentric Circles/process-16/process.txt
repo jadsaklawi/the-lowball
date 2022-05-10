@@ -1,0 +1,31 @@
+** process
+*** Concentric Circles                                                   :card:
+******* SIGHTS ALIGNED                                              :subcard:
+******** ABSTRACTIONS
+********* illuminations
+********** ABSTRACTION
+******** ALIGNMENTS
+********* STRUCTURAL ABSTRACTIONS
+********** ABSTRACTIONS
+************** illuminations
+****************** order
+********************* points
+********************** plane
+************************* points
+*************************** targets and events;
+**************************** targets
+****************************** positionals;
+**************************** events
+****************************** plane
+********************************* points
+*********************************** date; time;
+
+
+
+
+************** plane
+****************** a coordinated space;
+********************* coordinated
+********************** coordinates;
+
+

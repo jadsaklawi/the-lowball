@@ -1,0 +1,29 @@
+*** process
+**** the lowball
+***** "Acknowledgement"
+****** The act of acknowledging;
+****** log
+      [2022-01-29 Sat 07:22]
+      - dict Acknowledgement
+***** "Resolution"
+****** process of resolving.
+****** log
+      [2022-01-29 Sat 07:29]
+      - dict Resolution
+***** "Pursuance"
+****** "pursuant to our agreement";
+****** The state of being pursuant;
+****** log
+      [2022-01-23 Sun 11:15]
+     - dict Pursuance
+     - dict pursuant
+***** "Psalm"
+****** To extol in psalms;
+******* extol
+******** honor;
+******* psalms
+******** psalms;
+****** log
+     [2022-01-29 Sat 07:41]
+     - dict Psalm
+     - dict extol

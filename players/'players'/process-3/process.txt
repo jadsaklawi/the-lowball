@@ -1,0 +1,111 @@
+** notes
+***** botanical abstraction
+
+***** STRUTURE
+****** SPACES
+** process
+*** /players/
+**** Planet Earth                                   :forces:fronts:botanical:
+***** SPACES                                                  :forces:fronts:
+****** Space                                                  :forces:fronts:
+******* Planet Earth                                    :forces:fronts:alive:
+
+** process
+*** Concentric Circles                                                 :card:
+***** botanical abstractions                                        :subcard:
+******** STRUCTURAL ABSTRACTIONS
+********* ABSTRACTION
+
+******** ABSTRACTION
+********* botanical
+************ botanical abstractions
+
+********* Merchant Planes
+************* Planes
+**************** plane
+********************* a coordinated space;
+************************ coordinated
+************************* coordinates;
+************************ points
+**************************** temporals and spatial boundaries
+******************************** temporals
+******************************** temporal dimensions
+******************************** boundaries
+
+***************************** points
+****************************** points;
+
+
+********* border notations
+
+*********** borders
+************ constituet, cōnstituō
+************* establish; build; lay;
+
+*********** notations
+************* points;
+***************** temporals and spatial boundaries
+********************* temporals
+********************* temporal dimensions
+********************* boundaries
+
+***************** points
+************* shapes;
+************* planes;
+************* axis, ˈak-səs;
+
+
+
+******** botanical
+  
+
+
+
+** process
+*** A RIGOROUS GEOMETRY                                                :card:
+**** hello—chào—but thank you, cảm ơn, is harder.                   :subcard:
+***** Unit Structures
+****** Blocks
+******* perception
+
+***** BLOCKS
+****** BLOCK
+       perception
+******* 
+******** perceptions
+********* 
+*********** time
+********* 
+******** perceptions
+********* 
+********** 
+*********** 
+************ STRUCTURE
+************* SPACES
+********** 
+********* 
+************* BLOCK
+              perception
+*************** 
+**************** perceptions
+***************** 
+****************** 
+******************* SPACES
+****************** 
+*************** 
+***************** BLOCK
+****************** perception
+******************** SPACE
+******** perceptions
+********* 
+********** 
+*********** 
+************ space
+*********** 
+********** 
+********* 
+
+
+
+
+

@@ -1,0 +1,1376 @@
+[٢١:٥٠:٥٨:٩٦٣] global_init
+[٢١:٥٠:٥٨:٩٦٣] global_init: config file: '/home/jad/.config/smplayer/smplayer.ini'
+[٢١:٥٠:٥٨:٩٦٣] Preferences::load
+[٢١:٥٠:٥٩:٠١٦] Preferences::setupScreenshotFolder: creating '/home/jad/Pictures/smplayer_screenshots'
+[٢١:٥٠:٥٩:٠١٦] AssStyles::load
+[٢١:٥٠:٥٩:٠١٧] Preferences::load: config_version: 0, CURRENT_CONFIG_VERSION: 5
+[٢١:٥٠:٥٩:٠١٧] Preferences::load: config version is old, updating it
+[٢١:٥٠:٥٩:٠١٧] Helper::findExecutable: candidate: /home/jad/bin/mpv
+[٢١:٥٠:٥٩:٠١٧] Helper::findExecutable: candidate: /home/jad/.local/bin/mpv
+[٢١:٥٠:٥٩:٠١٧] Helper::findExecutable: candidate: /usr/local/sbin/mpv
+[٢١:٥٠:٥٩:٠١٧] Helper::findExecutable: candidate: /usr/local/bin/mpv
+[٢١:٥٠:٥٩:٠١٧] Helper::findExecutable: candidate: /usr/sbin/mpv
+[٢١:٥٠:٥٩:٠١٧] Helper::findExecutable: candidate: /usr/bin/mpv
+[٢١:٥٠:٥٩:٠١٧] Helper::findExecutable: executable found: /usr/bin/mpv
+[٢١:٥٠:٥٩:٠١٧] Translator::loadCatalog: can't load qt_en_US from /usr/share/smplayer/translations
+[٢١:٥٠:٥٩:١٠٤] Translator::loadCatalog: successfully loaded qt_en_US from /usr/share/qt5/translations
+[٢١:٥٠:٥٩:١٠٤] Translator::loadCatalog: can't load qtbase_en_US from /usr/share/smplayer/translations
+[٢١:٥٠:٥٩:١٤٠] Translator::loadCatalog: successfully loaded qtbase_en_US from /usr/share/qt5/translations
+[٢١:٥٠:٥٩:١٤٠] Translator::loadCatalog: successfully loaded smplayer_en_US from /usr/share/smplayer/translations
+[٢١:٥٠:٥٩:١٤٠] This is SMPlayer v. 19.10.2 (revision 9245) running on Linux
+[٢١:٥٠:٥٩:١٤٠] Compiled with Qt v. 5.12.5, using 5.12.8
+[٢١:٥٠:٥٩:١٤٠]  * application path: "/usr/bin"
+[٢١:٥٠:٥٩:١٤٠]  * data path: "/usr/share/smplayer"
+[٢١:٥٠:٥٩:١٤٠]  * translation path: "/usr/share/smplayer/translations"
+[٢١:٥٠:٥٩:١٤٠]  * doc path: "/usr/share/doc/smplayer"
+[٢١:٥٠:٥٩:١٤٠]  * themes path: "/usr/share/smplayer/themes"
+[٢١:٥٠:٥٩:١٤٠]  * shortcuts path: "/usr/share/smplayer/shortcuts"
+[٢١:٥٠:٥٩:١٤٠]  * config path: "/home/jad/.config/smplayer"
+[٢١:٥٠:٥٩:١٤٠]  * ini path: "/home/jad/.config/smplayer"
+[٢١:٥٠:٥٩:١٤٠]  * file for subtitles' styles: "/home/jad/.config/smplayer/styles.ass"
+[٢١:٥٠:٥٩:١٤٠]  * current path: "/home/jad"
+[٢١:٥٠:٥٩:١٤٠] main: hdpi_config_path: "/home/jad/.config/smplayer"
+[٢١:٥٠:٥٩:١٤٠] SMPlayer::processArgs: arguments: 1
+[٢١:٥٠:٥٩:١٤٠] SMPlayer::processArgs: 0 = smplayer
+[٢١:٥٠:٥٩:١٤٠] SMPlayer::processArgs: files_to_play: count: 0
+[٢١:٥٠:٥٩:١٤٢] SMPlayer::gui: changed working directory to app path
+[٢١:٥٠:٥٩:١٤٢] SMPlayer::gui: current directory: /usr/bin
+[٢١:٥٠:٥٩:١٩٨] Screen::setAutoHideCursor: 0
+[٢١:٥٠:٥٩:١٩٨] Screen::setAutoHideCursor: 0
+[٢١:٥٠:٥٩:٢٣٠] Images::setTheme: "H2O" is an internal theme
+[٢١:٥٠:٥٩:٢٣١] Images::setThemesPath: ""
+[٢١:٥٠:٥٩:٣٤٠] MediaSettings::reset
+[٢١:٥٠:٥٩:٣٤٠] Core::changeFileSettingsMethod: hash
+[٢١:٥٠:٥٩:٣٤٠] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٠:٥٩:٣٤٠] PlayerProcess::createPlayerProcess: creating MPVProcess
+[٢١:٥٠:٥٩:٣٥٣] MPVProcess::initializeOptionVars
+[٢١:٥٠:٥٩:٣٥٣] MediaSettings::reset
+[٢١:٥٠:٥٩:٣٥٣] MplayerLayer::setRepaintBackground: 1
+[٢١:٥٠:٥٩:٣٥٣] Preferences::monitor_aspect_double
+[٢١:٥٠:٥٩:٣٥٣]  warning: monitor_aspect couldn't be parsed!
+[٢١:٥٠:٥٩:٣٥٣]  monitor_aspect set to 0
+[٢١:٥٠:٥٩:٤٩٤] Sig::load
+[٢١:٥٠:٥٩:٨٥٥] Playlist::setModified: 0
+[٢١:٥٠:٥٩:٨٥٥] Playlist::updateWindowTitle: "Untitled playlist"
+[٢١:٥٠:٥٩:٨٦٩] Recents::addItem: 'http://smplayer.info/sample.m3u8'
+[٢١:٥٠:٥٩:٨٦٩] Playlist::setConfigPath: "/home/jad/.config/smplayer"
+[٢١:٥٠:٥٩:٨٦٩] Playlist::setConfigPath: ini file: "/home/jad/.config/smplayer/playlist.ini"
+[٢١:٥٠:٥٩:٨٦٩] Playlist::loadSettings
+[٢١:٥٠:٥٩:٨٦٩] Helper::qtVersion: 6208
+[٢١:٥٠:٥٩:٨٦٩] Playlist::updateWindowTitle: "Untitled playlist"
+[٢١:٥٠:٥٩:٨٦٩] Playlist::setModified: 0
+[٢١:٥٠:٥٩:٨٦٩] Playlist::updateWindowTitle: "Untitled playlist"
+[٢١:٥٠:٥٩:٨٨٦] BaseGui::BaseGui: default_style: "qt5ct-style"
+[٢١:٥٠:٥٩:٨٩٧] Favorites::load
+[٢١:٥٠:٥٩:٨٩٨] Favorites::load
+[٢١:٥٠:٥٩:٨٩٨] TVList::parse_channels_conf
+[٢١:٥٠:٥٩:٨٩٨] VList::parse_channels_conf: /home/jad/.mplayer/channels.conf.ter doesn't exist
+[٢١:٥٠:٥٩:٨٩٨] TVList::parse_channels_conf: can't open /home/jad/.mplayer/channels.conf
+[٢١:٥٠:٥٩:٨٩٨] Favorites::load
+[٢١:٥٠:٥٩:٨٩٨] TVList::parse_channels_conf
+[٢١:٥٠:٥٩:٨٩٨] VList::parse_channels_conf: /home/jad/.mplayer/channels.conf.ter doesn't exist
+[٢١:٥٠:٥٩:٨٩٨] TVList::parse_channels_conf: can't open /home/jad/.mplayer/channels.conf
+[٢١:٥٠:٥٩:٩٠١] D-Bus global menu: no
+[٢١:٥٠:٥٩:٩٠٢] BaseGui::initializeMenus
+[٢١:٥٠:٥٩:٩٠٣] BaseGui::updateBookmarks
+[٢١:٥٠:٥٩:٩٢١] BaseGui::initializeMenus
+[٢١:٥٠:٥٩:٩٢١] BaseGui::updateBookmarks
+[٢١:٥٠:٥٩:٩٢١] BaseGui::updateRecents
+[٢١:٥٠:٥٩:٩٢١] BaseGui::updateWidgets
+[٢١:٥٠:٥٩:٩٢١] Core::changeUseCustomSubStyle: 1
+[٢١:٥٠:٥٩:٩٢١] Core::changeSubVisilibity: 1
+[٢١:٥٠:٥٩:٩٢١] WARNING: PlayerProcess::writeToStdin: process not running
+[٢١:٥٠:٥٩:٩٢١] Core::displayMessage
+[٢١:٥٠:٥٩:٩٢٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٠:٥٩:٩٢٢] BaseGui::setupNetworkProxy
+[٢١:٥٠:٥٩:٩٢٢] BaseGui::setupNetworkProxy: no proxy
+[٢١:٥٠:٥٩:٩٢٢] BaseGui::setStayOnTop: 0
+[٢١:٥٠:٥٩:٩٢٢] BaseGui::setStayOnTop: nothing to do
+[٢١:٥٠:٥٩:٩٢٢] BaseGui::updateWidgets
+[٢١:٥٠:٥٩:٩٢٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٠:٥٩:٩٢٢] BaseGui::updateRecents
+[٢١:٥٠:٥٩:٩٢٥] D-Bus system tray: yes
+[٢١:٥١:٠٠:٠٠٤] BaseGuiPlus::updateSendToScreen
+[٢١:٥١:٠٠:٠٠٤] BaseGuiPlus::updateSendAudioMenu
+[٢١:٥١:٠٠:٠٠٤] DeviceInfo::paDevices
+[٢١:٥١:٠٠:٧٠٧] DeviceInfo::paDevices: index: 24
+[٢١:٥١:٠٠:٧٠٧] DeviceInfo::paDevices: name: "alsa_output.pci-0000_00_1b.0.analog-stereo"
+[٢١:٥١:٠٠:٧١٦] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٠٠:٧١٦] GlobalShortcuts::GlobalShortcuts
+[٢١:٥١:٠٠:٧١٧] GlobalShortcuts::setEnabled: false
+[٢١:٥١:٠٠:٧٢٢] Chromecast::loadSettings
+[٢١:٥١:٠٠:٧٢٨] BaseGui::initializeMenus
+[٢١:٥١:٠٠:٧٢٩] BaseGui::updateBookmarks
+[٢١:٥١:٠٠:٧٢٩] BaseGui::updateRecents
+[٢١:٥١:٠٠:٧٢٩] BaseGuiPlus::updateWidgets
+[٢١:٥١:٠٠:٧٢٩] BaseGui::updateWidgets
+[٢١:٥١:٠٠:٧٢٩] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٠٠:٧٣١] BaseGuiPlus::loadConfig
+[٢١:٥١:٠٠:٧٣١] DefaultGui::createStatusBar
+[٢١:٥١:٠٠:٧٣١] StateWidget::StateWidget: supported formats for QMovie: ("gif")
+[٢١:٥١:٠٠:٧٣٢] DefaultGui::createActions
+[٢١:٥١:٠٠:٧٣٢] DefaultGui::createControlWidget
+[٢١:٥١:٠٠:٧٣٣] DefaultGui::createControlWidgetMini
+[٢١:٥١:٠٠:٧٣٣] AutohideWidget::installFilter: child name: "mplayerlayer"
+[٢١:٥١:٠٠:٧٣٣] AutohideWidget::installFilter: child name: "mplayerwindowlogo"
+[٢١:٥١:٠٠:٧٣٣] AutohideWidget::installFilter: child name: ""
+[٢١:٥١:٠٠:٧٣٤] DefaultGui::adjustFloatingControlSize
+[٢١:٥١:٠٠:٧٣٤] DefaultGui::populateMainMenu
+[٢١:٥١:٠٠:٧٣٤] BaseGuiPlus::populateMainMenu
+[٢١:٥١:٠٠:٧٣٤] BaseGui::populateMainMenu
+[٢١:٥١:٠٠:٧٣٤] BaseGuiPlus::initializeSystrayMenu
+[٢١:٥١:٠٠:٧٤٤] BaseGui::initializeMenus
+[٢١:٥١:٠٠:٧٤٤] BaseGui::updateBookmarks
+[٢١:٥١:٠٠:٧٤٤] BaseGui::updateRecents
+[٢١:٥١:٠٠:٧٤٤] DefaultGui::updateWidgets
+[٢١:٥١:٠٠:٧٤٤] BaseGuiPlus::updateWidgets
+[٢١:٥١:٠٠:٧٤٤] BaseGui::updateWidgets
+[٢١:٥١:٠٠:٧٤٤] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٠٠:٧٤٤] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٠٠:٧٤٤] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٠٠:٧٤٥] DefaultGui::loadConfig
+[٢١:٥١:٠٠:٧٤٥] DesktopInfo::isInsideScreen: geometry of screen: QRect(0,0 1280x800)
+[٢١:٥١:٠٠:٧٤٥] DesktopInfo::isInsideScreen: center point of window: QPoint(341,254)
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: 'toolbar1'
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action open_file
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action open_url
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action favorites_menu
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action screenshot
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action show_file_properties
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action show_playlist
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action show_tube_browser
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action show_preferences
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action play_prev
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action play_next
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action audiotrack_menu
+[٢١:٥١:٠٠:٧٤٦] ToolbarEditor::load: loading action subtitlestrack_menu
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: 'controlwidget'
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action play_or_pause
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action stop
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action rewindbutton_action
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action timeslider_action
+[٢١:٥١:٠٠:٧٤٧] TimeSlider::setDragDelay: 100
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action forwardbutton_action
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action fullscreen
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action mute
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action volumeslider_action
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: 'controlwidget_mini'
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action play_or_pause
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action stop
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action rewind1
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action timeslider_action
+[٢١:٥١:٠٠:٧٤٧] TimeSlider::setDragDelay: 100
+[٢١:٥١:٠٠:٧٤٧] ToolbarEditor::load: loading action forward1
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action mute
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action volumeslider_action
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: 'floating_control'
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action play_or_pause
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action stop
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action rewind1
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action current_timelabel_action
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action timeslider_action
+[٢١:٥١:٠٠:٧٤٨] TimeSlider::setDragDelay: 100
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action total_timelabel_action
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action forward1
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action separator
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: adding separator
+[٢١:٥١:٠٠:٧٤٨] ToolbarEditor::load: loading action fullscreen
+[٢١:٥١:٠٠:٧٤٩] ToolbarEditor::load: loading action mute
+[٢١:٥١:٠٠:٧٤٩] ToolbarEditor::load: loading action volumeslider_action
+[٢١:٥١:٠٠:٧٤٩] Helper::qtVersion: 6208
+[٢١:٥١:٠٠:٧٤٩] DefaultGui::updateWidgets
+[٢١:٥١:٠٠:٧٤٩] BaseGuiPlus::updateWidgets
+[٢١:٥١:٠٠:٧٤٩] BaseGui::updateWidgets
+[٢١:٥١:٠٠:٧٤٩] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٠٠:٧٤٩] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٠٠:٧٤٩] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٠٠:٧٥٠] BaseGui::applyStyles
+[٢١:٥١:٠٠:٧٥٠] BaseGui::applyStyles: stylesheet: "H2O"
+[٢١:٥١:٠٠:٧٥٠] BaseGui::changeStyleSheet: "H2O"
+[٢١:٥١:٠٠:٧٥٠] BaseGui::loadQss: :/default-theme/style.qss
+[٢١:٥١:٠٠:٧٥٠] Images::setTheme: "H2O" is an internal theme
+[٢١:٥١:٠٠:٧٥٠] Images::setThemesPath: ""
+[٢١:٥١:٠٠:٧٥٠] BaseGui::changeStyleSheet: ":/H2O/style.qss"
+[٢١:٥١:٠٠:٧٥٠] BaseGui::loadQss: :/H2O/style.qss
+[٢١:٥١:٠٠:٧٥٠] Images::setTheme: "H2O" is an internal theme
+[٢١:٥١:٠٠:٧٥٠] Images::setThemesPath: ""
+[٢١:٥١:٠٠:٨٠٧] BaseGui::applyStyles: style: "Fusion"
+[٢١:٥١:٠٠:٩٧٠] BaseGui::showEvent
+[٢١:٥١:٠٠:٩٧٣] custom style sheet is disabled
+[٢١:٥١:٠١:٠٠٧] BaseGui::loadActions
+[٢١:٥١:٠١:٠٠٧] ActionsEditor::loadFromConfig
+[٢١:٥١:٠١:٠٠٨] BaseGui::checkReminder
+[٢١:٥١:٠١:٠٠٨] BaseGuiPlus::updateShortcutsContext
+[٢١:٥١:٠١:١٨١] BaseGui::initializeMenus
+[٢١:٥١:٠١:١٨٢] BaseGui::updateBookmarks
+[٢١:٥١:٠١:١٨٢] BaseGui::updateRecents
+[٢١:٥١:٠١:١٨٢] DefaultGui::updateWidgets
+[٢١:٥١:٠١:١٨٢] BaseGuiPlus::updateWidgets
+[٢١:٥١:٠١:١٨٢] BaseGui::updateWidgets
+[٢١:٥١:٠١:١٨٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٠١:١٨٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٠١:١٨٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:١٢:١٣٤] BaseGui::openFile
+[٢١:٥١:٣٧:١٧٢] BaseGui::openFile: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv"
+[٢١:٥١:٣٧:١٧٢] Core::openFile: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥١:٣٧:١٧٢] Core::playNewFile: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥١:٣٧:١٧٣] Core::saveMediaInfo
+[٢١:٥١:٣٧:١٧٣] MediaSettings::reset
+[٢١:٥١:٣٧:١٧٣] FileSettingsHash::existSettingsFor: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv"
+[٢١:٥١:٣٧:١٨٩] FileSettingsHash::existSettingsFor: config_file: "/home/jad/.config/smplayer/file_settings/3/32e690e672bdd270.ini"
+[٢١:٥١:٣٧:١٩٠] Core::playNewFile: volume: 40, old_volume: 40
+[٢١:٥١:٣٧:١٩٠] Core::initPlaying
+[٢١:٥١:٣٧:١٩٠] MplayerWindow::setLogoVisible: false
+[٢١:٥١:٣٧:١٩٠] Core::startMplayer: file: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv" seek: 0
+[٢١:٥١:٣٧:١٩٠] Core::startMplayer: checking if stream is a playlist
+[٢١:٥١:٣٧:١٩٠] Core::startMplayer: url path: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥١:٣٧:١٩٠] Core::startMplayer: url_is_playlist: 0
+[٢١:٥١:٣٧:١٩٠] InfoReader::setPlayerBin: mplayerbin: "/usr/bin/mpv"
+[٢١:٥١:٣٧:١٩٠] InfoReader::getInfo: sname: "_usr_bin_mpv_2162296"
+[٢١:٥١:٣٧:١٩٠] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٣٧:١٩٠] InfoReader::getInfo: mpv
+[٢١:٥١:٣٧:١٩٠] InfoReaderMPV::run: '--vo help'
+[٢١:٥١:٣٧:٤٤٨] InfoReaderMPV::run: '--ao help'
+[٢١:٥١:٣٧:٥٨٧] InfoReaderMPV::run: '--demuxer help'
+[٢١:٥١:٣٧:٧١٩] InfoReaderMPV::run: '--vd help'
+[٢١:٥١:٣٧:٨٥٥] InfoReaderMPV::run: '--ad help'
+[٢١:٥١:٣٧:٩٩٠] InfoReaderMPV::run: '--vf help'
+[٢١:٥١:٣٨:١٢٥] InfoReaderMPV::run: '--version'
+[٢١:٥١:٣٨:٢٥٨] MplayerVersion::mplayerVersion: mpv version found: "0.32.0"
+[٢١:٥١:٣٨:٢٥٩] MplayerVersion::mplayerVersion: mplayer_svn: 33472
+[٢١:٥١:٣٨:٢٥٩] InfoReaderMPV::getInfo: version_line "mpv 0.32.0 Copyright © 2000-2020 mpv/MPlayer/mplayer2 projects"
+[٢١:٥١:٣٨:٢٥٩] InfoReaderMPV::getInfo: mplayer_svn 33472
+[٢١:٥١:٣٨:٢٥٩] InfoReaderMPV::run: '--list-options'
+[٢١:٥١:٣٨:٣٩٨] InfoReader::getInfo: saving info to "/home/jad/.config/smplayer/player_info.ini"
+[٢١:٥١:٣٨:٥٠٧] Core::startMplayer: edl file: ''
+[٢١:٥١:٣٨:٥٠٨] Core::startMplayer: extra_params: ()
+[٢١:٥١:٣٨:٥٠٨] MplayerLayer::playingStarted
+[٢١:٥١:٣٨:٥٠٨] Screen::playingStarted
+[٢١:٥١:٣٨:٥٠٨] Screen::setAutoHideCursor: 1
+[٢١:٥١:٣٨:٥٠٨] Screen::playingStarted
+[٢١:٥١:٣٨:٥٠٨] Screen::setAutoHideCursor: 1
+[٢١:٥١:٣٨:٥٠٨] Core::startMplayer: command: '/usr/bin/mpv --no-config --no-quiet --terminal --no-msg-color --input-file=/dev/stdin --msg-level=ffmpeg/demuxer=error --no-fs --hwdec=no --sub-auto=fuzzy --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=62914613 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/jad/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --term-playing-msg=MPV_VERSION=${=mpv-version:}
+INFO_VIDEO_WIDTH=${=width}
+INFO_VIDEO_HEIGHT=${=height}
+INFO_VIDEO_ASPECT=${=video-params/aspect}
+INFO_VIDEO_FPS=${=container-fps:${=fps}}
+INFO_VIDEO_FORMAT=${=video-format}
+INFO_VIDEO_CODEC=${=video-codec}
+INFO_AUDIO_FORMAT=${=audio-codec-name}
+INFO_AUDIO_CODEC=${=audio-codec}
+INFO_AUDIO_RATE=${=audio-params/samplerate}
+INFO_AUDIO_NCH=${=audio-params/channel-count}
+INFO_LENGTH=${=duration:${=length}}
+INFO_DEMUXER=${=current-demuxer:${=demuxer}}
+INFO_SEEKABLE=${=seekable}
+INFO_TITLES=${=disc-titles}
+INFO_CHAPTERS=${=chapters}
+INFO_TRACKS_COUNT=${=track-list/count}
+METADATA_TITLE=${metadata/by-key/title:}
+METADATA_ARTIST=${metadata/by-key/artist:}
+METADATA_ALBUM=${metadata/by-key/album:}
+METADATA_GENRE=${metadata/by-key/genre:}
+METADATA_DATE=${metadata/by-key/date:}
+METADATA_TRACK=${metadata/by-key/track:}
+METADATA_COPYRIGHT=${metadata/by-key/copyright:}
+INFO_MEDIA_TITLE=${=media-title:}
+INFO_STREAM_PATH=${stream-path}
+ --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} /home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥١:٣٨:٥١٠] Playlist::setModified: 0
+[٢١:٥١:٣٨:٥١٠] Playlist::updateWindowTitle: "Untitled playlist"
+[٢١:٥١:٣٨:٥١٠] Playlist::addFiles
+[٢١:٥١:٣٨:٥١٠] Playlist::addFiles: latest_dir: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND"
+[٢١:٥١:٣٨:٦٤١] MPVProcess::parseLine: "Warning: option --input-file is deprecated and might be removed in the future (use --input-ipc-server)."
+[٢١:٥١:٣٨:٦٨٥] MPVProcess::parseLine: " (+) Video --vid=1 (*) (h264 1280x775 30.000fps)"
+[٢١:٥١:٣٨:٧٧١] MPVProcess::parseLine: "VO: [gpu] 1280x775 yuv444p"
+[٢١:٥١:٣٨:٧٧١] Core::gotVO: "gpu"
+[٢١:٥١:٣٨:٧٧١] PlayerProcess::writeToStdin: print_text INFO_VIDEO_DSIZE=${=dwidth}x${=dheight}
+[٢١:٥١:٣٨:٧٨٨] MPVProcess::parseLine: "MPV_VERSION=mpv 0.32.0"
+[٢١:٥١:٣٨:٧٨٨] MPVProcess::parseLine: mpv version: "0.32.0"
+[٢١:٥١:٣٨:٧٨٨] MplayerVersion::mplayerVersion: mpv version found: "0.32.0"
+[٢١:٥١:٣٨:٧٨٨] MplayerVersion::mplayerVersion: mplayer_svn: 33472
+[٢١:٥١:٣٨:٧٨٨] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=1280"
+[٢١:٥١:٣٨:٧٨٨] MPVProcess::parseLine: md.video_width set to 1280
+[٢١:٥١:٣٨:٧٨٨] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=775"
+[٢١:٥١:٣٨:٧٨٨] MPVProcess::parseLine: md.video_height set to 775
+[٢١:٥١:٣٨:٧٨٨] MPVProcess::parseLine: "INFO_VIDEO_ASPECT=1.651613"
+[٢١:٥١:٣٨:٧٨٨] MPVProcess::parseLine: md.video_aspect set to 1.65161
+[٢١:٥١:٣٨:٧٨٨] MPVProcess::parseLine: "INFO_VIDEO_FPS=30.000000"
+[٢١:٥١:٣٨:٧٨٨] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=h264"
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_VIDEO_CODEC=h264 (H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10)"
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: md.video_codec: "h264"
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_AUDIO_FORMAT="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_AUDIO_CODEC="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_AUDIO_RATE="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_AUDIO_NCH="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_LENGTH=56.633000"
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: md.duration set to 56.633
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_DEMUXER=mkv"
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_TITLES="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_CHAPTERS=0"
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_TRACKS_COUNT=1"
+[٢١:٥١:٣٨:٧٨٩] PlayerProcess::writeToStdin: print_text "INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}"
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "METADATA_TITLE="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "METADATA_ARTIST="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "METADATA_ALBUM="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "METADATA_GENRE="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "METADATA_DATE="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "METADATA_TRACK="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "METADATA_COPYRIGHT="
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_MEDIA_TITLE=log.mkv"
+[٢١:٥١:٣٨:٧٨٩] MPVProcess::parseLine: "INFO_STREAM_PATH=/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv"
+[٢١:٥١:٣٨:٧٩٠] MPVProcess::parseLine: "INFO_VIDEO_DSIZE=1280x775"
+[٢١:٥١:٣٨:٧٩٠] Core::gotWindowResolution: 1280, 775
+[٢١:٥١:٣٨:٧٩٠] BaseGui::resizeWindow: 1280, 775
+[٢١:٥١:٣٨:٧٩٠] BaseGui::centerWindow
+[٢١:٥١:٣٨:٨٠١] MPVProcess::parseLine: starting sec: 0
+[٢١:٥١:٣٨:٨٠١] Core::gotStartingTime: 0.000000
+[٢١:٥١:٣٨:٨٠٢] Core::gotStartingTime: current_sec: 0.000000
+[٢١:٥١:٣٨:٨٠٢] BaseGui::displayState: "Playing"
+[٢١:٥١:٣٨:٨٠٢] DefaultGui::togglePlayAction
+[٢١:٥١:٣٨:٨٠٢] BaseGui::togglePlayAction
+[٢١:٥١:٣٨:٨٠٣] StateWidget::watchState: 1
+[٢١:٥١:٣٨:٨٠٣] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥١:٣٨:٨٠٦] Core::finishRestart: --- start ---
+[٢١:٥١:٣٨:٨٠٦] Core::newMediaPlaying: --- start ---
+[٢١:٥١:٣٨:٨٠٦] Core::initializeMenus
+[٢١:٥١:٣٨:٨٠٦] BaseGui::initializeMenus
+[٢١:٥١:٣٨:٨٠٧] BaseGui::updateBookmarks
+[٢١:٥١:٣٨:٨٠٧] MediaData::list
+[٢١:٥١:٣٨:٨٠٧]   filename: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥١:٣٨:٨٠٧]   duration: 56.633000
+[٢١:٥١:٣٨:٨٠٧]   video_width: 1280
+[٢١:٥١:٣٨:٨٠٧]   video_height: 775
+[٢١:٥١:٣٨:٨٠٧]   video_aspect: 1.651613
+[٢١:٥١:٣٨:٨٠٧]   type: 0
+[٢١:٥١:٣٨:٨٠٧]   novideo: 0
+[٢١:٥١:٣٨:٨٠٧]   dvd_id: ''
+[٢١:٥١:٣٨:٨٠٧]   initialized: 1
+[٢١:٥١:٣٨:٨٠٧]   chapters: 0
+[٢١:٥١:٣٨:٨٠٧]   Titles:
+[٢١:٥١:٣٨:٨٠٧]   demuxer: 'mkv'
+[٢١:٥١:٣٨:٨٠٧]   video_format: 'h264'
+[٢١:٥١:٣٨:٨٠٧]   audio_format: ''
+[٢١:٥١:٣٨:٨٠٧]   video_bitrate: 0
+[٢١:٥١:٣٨:٨٠٧]   video_fps: '30.000000'
+[٢١:٥١:٣٨:٨٠٧]   audio_bitrate: 0
+[٢١:٥١:٣٨:٨٠٧]   audio_rate: 0
+[٢١:٥١:٣٨:٨٠٧]   audio_nch: 0
+[٢١:٥١:٣٨:٨٠٧]   video_codec: 'h264'
+[٢١:٥١:٣٨:٨٠٧]   audio_codec: ''
+[٢١:٥١:٣٨:٨٠٧] MediaSettings::list
+[٢١:٥١:٣٨:٨٠٧]   current_sec: 0.000000
+[٢١:٥١:٣٨:٨٠٧]   current_subtitle_track: -1000
+[٢١:٥١:٣٨:٨٠٧]   current_secondary_subtitle_track: -1000
+[٢١:٥١:٣٨:٨٠٧]   current_video_id: -1000
+[٢١:٥١:٣٨:٨٠٧]   current_audio_id: -1000
+[٢١:٥١:٣٨:٨٠٧]   current_title_id: -1000
+[٢١:٥١:٣٨:٨٠٧]   current_angle_id: -1000
+[٢١:٥١:٣٨:٨٠٧]   aspect_ratio_id: 1
+[٢١:٥١:٣٨:٨٠٧]   volume: 40
+[٢١:٥١:٣٨:٨٠٧]   mute: 0
+[٢١:٥١:٣٨:٨٠٧]   external_subtitles: ''
+[٢١:٥١:٣٨:٨٠٧]   external_subtitles_fps: '0'
+[٢١:٥١:٣٨:٨٠٧]   external_audio: ''
+[٢١:٥١:٣٨:٨٠٧]   sub_delay: 0
+[٢١:٥١:٣٨:٨٠٧]   audio_delay: 0
+[٢١:٥١:٣٨:٨٠٧]   sub_pos: 100
+[٢١:٥١:٣٨:٨٠٧]   sub_scale: 5.000000
+[٢١:٥١:٣٨:٨٠٧]   sub_scale_ass: 1.000000
+[٢١:٥١:٣٨:٨٠٧]   closed_caption_channel: 0
+[٢١:٥١:٣٨:٨٠٧]   brightness: 0
+[٢١:٥١:٣٨:٨٠٧]   contrast: 0
+[٢١:٥١:٣٨:٨٠٧]   gamma: 0
+[٢١:٥١:٣٨:٨٠٧]   hue: 0
+[٢١:٥١:٣٨:٨٠٧]   saturation: 0
+[٢١:٥١:٣٨:٨٠٧]   speed: 1.000000
+[٢١:٥١:٣٨:٨٠٧]   phase_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   deblock_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   dering_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   gradfun_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   noise_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   postprocessing_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   upscaling_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   current_denoiser: 0
+[٢١:٥١:٣٨:٨٠٧]   current_unsharp: 0
+[٢١:٥١:٣٨:٨٠٧]   stereo3d_in: none
+[٢١:٥١:٣٨:٨٠٧]   stereo3d_out: 
+[٢١:٥١:٣٨:٨٠٧]   current_deinterlacer: 0
+[٢١:٥١:٣٨:٨٠٧]   add_letterbox: 0
+[٢١:٥١:٣٨:٨٠٧]   karaoke_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   extrastereo_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   volnorm_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   earwax_filter: 0
+[٢١:٥١:٣٨:٨٠٧]   audio_use_channels: 0
+[٢١:٥١:٣٨:٨٠٧]   stereo_mode: 0
+[٢١:٥١:٣٨:٨٠٧]   zoom_factor: 1.000000
+[٢١:٥١:٣٨:٨٠٧]   rotate: -1
+[٢١:٥١:٣٨:٨٠٧]   flip: 0
+[٢١:٥١:٣٨:٨٠٧]   mirror: 0
+[٢١:٥١:٣٨:٨٠٧]   loop: 0
+[٢١:٥١:٣٨:٨٠٧]   A_marker: -1
+[٢١:٥١:٣٨:٨٠٧]   B_marker: -1
+[٢١:٥١:٣٨:٨٠٧]   current_demuxer: 'mkv'
+[٢١:٥١:٣٨:٨٠٧]   forced_demuxer: ''
+[٢١:٥١:٣٨:٨٠٧]   forced_video_codec: ''
+[٢١:٥١:٣٨:٨٠٨]   forced_audio_codec: ''
+[٢١:٥١:٣٨:٨٠٨]   original_demuxer: ''
+[٢١:٥١:٣٨:٨٠٨]   original_video_codec: ''
+[٢١:٥١:٣٨:٨٠٨]   original_audio_codec: ''
+[٢١:٥١:٣٨:٨٠٨]   mplayer_additional_options: ''
+[٢١:٥١:٣٨:٨٠٨]   mplayer_additional_video_filters: ''
+[٢١:٥١:٣٨:٨٠٨]   mplayer_additional_audio_filters: ''
+[٢١:٥١:٣٨:٨٠٨]   win_width: 1280
+[٢١:٥١:٣٨:٨٠٨]   win_height: 775
+[٢١:٥١:٣٨:٨٠٨]   win_aspect(): 1.651613
+[٢١:٥١:٣٨:٨٠٨]   is264andHD: 0
+[٢١:٥١:٣٨:٨٠٨]   Videos:
+[٢١:٥١:٣٨:٨٠٨]   Audios:
+[٢١:٥١:٣٨:٨٠٨]   Subtitles:
+[٢١:٥١:٣٨:٨٠٨] Core::newMediaPlaying: --- end ---
+[٢١:٥١:٣٨:٨٠٨] Core::changeAspectRatio: 1
+[٢١:٥١:٣٨:٨٠٨] Core::displayMessage
+[٢١:٥١:٣٨:٨٠٨] AudioEqualizer::setValues
+[٢١:٥١:٣٨:٨٠٨] Core::changeZoom: 1.000000
+[٢١:٥١:٣٨:٨٠٨] Core::displayMessage
+[٢١:٥١:٣٨:٨٠٨] Core::changeSubVisilibity: 1
+[٢١:٥١:٣٨:٨٠٨] PlayerProcess::writeToStdin: no-osd set sub-visibility yes
+[٢١:٥١:٣٨:٨٠٨] Core::displayMessage
+[٢١:٥١:٣٨:٨٠٨] DefaultGui::enableActionsOnPlaying
+[٢١:٥١:٣٨:٨٠٨] BaseGui::enableActionsOnPlaying
+[٢١:٥١:٣٨:٨١٠] BaseGui::autosaveMplayerLog
+[٢١:٥١:٣٨:٨١٠] Core::sendMediaInfo
+[٢١:٥١:٣٨:٨١٠] Favorites::getCurrentMedia: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv', 'log.mkv'
+[٢١:٥١:٣٨:٨١١] Favorites::getCurrentMedia: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv', 'log.mkv'
+[٢١:٥١:٣٨:٨١١] Favorites::getCurrentMedia: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv', 'log.mkv'
+[٢١:٥١:٣٨:٨١١] BaseGuiPlus::updateMediaInfo
+[٢١:٥١:٣٨:٨١١] BaseGui::updateMediaInfo
+[٢١:٥١:٣٨:٨١١] TimeSliderAction::setDuration: 56.633
+[٢١:٥١:٣٨:٨١١] Playlist::getMediaInfo
+[٢١:٥١:٣٨:٨١١] Core::updateWidgets
+[٢١:٥١:٣٨:٨١١] DefaultGui::updateWidgets
+[٢١:٥١:٣٨:٨١١] BaseGuiPlus::updateWidgets
+[٢١:٥١:٣٨:٨١١] BaseGui::updateWidgets
+[٢١:٥١:٣٨:٨١٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٣٨:٨١٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٣٨:٨١٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٣٨:٨١٢] Core::finishRestart: --- end ---
+[٢١:٥١:٣٨:٨١٢] BaseGui::checkStayOnTop
+[٢١:٥١:٣٨:٨١٤] MPVProcess::parseLine: "INFO_TRACK_0: video 1 '' '' yes"
+[٢١:٥١:٣٨:٨١٤] MPVProcess::parseLine: ID: 1 type: "video" name: "" lang: "" selected: "yes"
+[٢١:٥١:٣٨:٨١٤] MPVProcess::updateVideoTrack: ID: 1
+[٢١:٥١:٣٨:٨١٤] BaseGui::enterFullscreenOnPlay: arg_start_in_fullscreen: -1, pref->start_in_fullscreen: 0
+[٢١:٥١:٣٨:٨١٤] BaseGui::newMediaLoaded
+[٢١:٥١:٣٨:٨١٤] BaseGui::newMediaLoaded: mdat.stream_title: 
+[٢١:٥١:٣٨:٨١٥] Recents::addItem: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥١:٣٨:٨١٥] BaseGui::updateRecents
+[٢١:٥١:٣٨:٨١٦] BaseGui::checkPendingActionsToRun
+[٢١:٥١:٣٨:٨١٦] BaseGui::checkMplayerVersion
+[٢١:٥١:٣٨:٨١٦] MplayerVersion::isMplayerAtLeast: comparing 25158 with 33472
+[٢١:٥١:٣٨:٨١٦] Core::checkIfVideoIsHD
+[٢١:٥١:٣٨:٨٢١] MPVProcess::parseLine: video_info_changed
+[٢١:٥١:٣٨:٨٢١] Core::initVideoTrack: selected_id: 1
+[٢١:٥١:٣٨:٨٢١] Core::initializeMenus
+[٢١:٥١:٣٨:٨٢١] BaseGui::initializeMenus
+[٢١:٥١:٣٨:٨٢١] BaseGui::updateBookmarks
+[٢١:٥١:٣٨:٨٢١] Core::updateWidgets
+[٢١:٥١:٣٨:٨٢١] DefaultGui::updateWidgets
+[٢١:٥١:٣٨:٨٢٢] BaseGuiPlus::updateWidgets
+[٢١:٥١:٣٨:٨٢٢] BaseGui::updateWidgets
+[٢١:٥١:٣٨:٨٢٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٣٨:٨٢٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٣٨:٨٢٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥١:٤٢:١٢٣] Core::play_or_pause
+[٢١:٥١:٤٢:١٢٣] Core::pause: current state: "Playing"
+[٢١:٥١:٤٢:١٢٤] PlayerProcess::writeToStdin: set pause yes
+[٢١:٥١:٤٢:١٢٥] MPVProcess::parseLine: paused
+[٢١:٥١:٤٢:١٢٥] Core::changePause
+[٢١:٥١:٤٢:١٢٥] Core::changePause: mplayer reports that it's paused
+[٢١:٥١:٤٢:١٢٥] BaseGui::displayState: "Paused"
+[٢١:٥١:٤٢:١٢٥] DefaultGui::togglePlayAction
+[٢١:٥١:٤٢:١٢٥] BaseGui::togglePlayAction
+[٢١:٥١:٤٢:١٢٦] StateWidget::watchState: 2
+[٢١:٥١:٤٢:١٢٦] BaseGui::checkStayOnTop
+[٢١:٥١:٤٣:٠٧٥] MplayerWindow::mouseReleaseEvent
+[٢١:٥١:٤٣:٠٧٥] BaseGui::rightClickFunction
+[٢١:٥١:٤٣:٠٧٥] BaseGui::processFunction: 'show_context_menu'
+[٢١:٥١:٤٣:٠٧٦] BaseGui::processFunction: action found
+[٢١:٥١:٥٠:١٨٠] BaseGui::loadSub
+[٢١:٥٢:١٣:٢٠٥] PlayerProcess::writeToStdin: sub_add "/home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3"
+[٢١:٥٢:١٣:٢٠٥] PlayerProcess::writeToStdin: print_text "INFO_TRACKS_COUNT=${=track-list/count}"
+[٢١:٥٢:١٣:٢٣٣] MPVProcess::parseLine: "No sub streams in file /home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3."
+[٢١:٥٢:١٣:٢٣٣] MPVProcess::parseLine: "Can not open external file /home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3."
+[٢١:٥٢:١٣:٢٣٣] MPVProcess::parseLine: "INFO_TRACKS_COUNT=1"
+[٢١:٥٢:١٣:٢٣٣] PlayerProcess::writeToStdin: print_text "INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}"
+[٢١:٥٢:١٣:٢٣٤] MPVProcess::parseLine: "INFO_TRACK_0: video 1 '' '' yes"
+[٢١:٥٢:١٣:٢٣٤] MPVProcess::parseLine: ID: 1 type: "video" name: "" lang: "" selected: "yes"
+[٢١:٥٢:١٣:٢٣٤] MPVProcess::updateVideoTrack: ID: 1
+[٢١:٥٢:١٥:٣٦٨] TimeSlider::checkDragging: 52
+[٢١:٥٢:١٥:٣٧٧] TimeSlider::checkDragging: 51
+[٢١:٥٢:١٥:٣٨٥] TimeSlider::checkDragging: 50
+[٢١:٥٢:١٥:٣٩٣] TimeSlider::checkDragging: 47
+[٢١:٥٢:١٥:٤٠١] TimeSlider::checkDragging: 43
+[٢١:٥٢:١٥:٤٠٨] TimeSlider::checkDragging: 40
+[٢١:٥٢:١٥:٤١٧] TimeSlider::checkDragging: 35
+[٢١:٥٢:١٥:٤٢٤] TimeSlider::checkDragging: 31
+[٢١:٥٢:١٥:٤٣٣] TimeSlider::checkDragging: 29
+[٢١:٥٢:١٥:٤٤٠] TimeSlider::checkDragging: 25
+[٢١:٥٢:١٥:٤٤٩] TimeSlider::checkDragging: 20
+[٢١:٥٢:١٥:٤٥٦] TimeSlider::checkDragging: 16
+[٢١:٥٢:١٥:٤٦١] TimeSlider::sendDelayedPos: 16
+[٢١:٥٢:١٥:٤٦٥] TimeSlider::checkDragging: 14
+[٢١:٥٢:١٥:٤٧٢] TimeSlider::checkDragging: 10
+[٢١:٥٢:١٥:٤٨١] TimeSlider::checkDragging: 9
+[٢١:٥٢:١٥:٤٨٨] TimeSlider::checkDragging: 7
+[٢١:٥٢:١٥:٤٩٦] TimeSlider::checkDragging: 5
+[٢١:٥٢:١٥:٥٠٥] TimeSlider::checkDragging: 1
+[٢١:٥٢:١٥:٥١٢] TimeSlider::checkDragging: 0
+[٢١:٥٢:١٥:٥٦٠] TimeSlider::sendDelayedPos: 0
+[٢١:٥٢:١٥:٩٢٨] Core::goToPosition: value: 0
+[٢١:٥٢:١٥:٩٢٨] Core::goToSec: 0.000000
+[٢١:٥٢:١٥:٩٢٩] PlayerProcess::writeToStdin: seek 0 absolute exact
+[٢١:٥٢:١٥:٩٣٠] BaseGui::displayState: "Playing"
+[٢١:٥٢:١٥:٩٣٠] DefaultGui::togglePlayAction
+[٢١:٥٢:١٥:٩٣٠] BaseGui::togglePlayAction
+[٢١:٥٢:١٥:٩٣٢] StateWidget::watchState: 1
+[٢١:٥٢:١٥:٩٣٢] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٢:١٥:٩٣٢] Core::changePause
+[٢١:٥٢:١٥:٩٣٢] Core::changePause: mplayer reports that it's paused
+[٢١:٥٢:١٥:٩٣٢] BaseGui::displayState: "Paused"
+[٢١:٥٢:١٥:٩٣٢] DefaultGui::togglePlayAction
+[٢١:٥٢:١٥:٩٣٢] BaseGui::togglePlayAction
+[٢١:٥٢:١٥:٩٣٣] StateWidget::watchState: 2
+[٢١:٥٢:١٥:٩٣٣] BaseGui::checkStayOnTop
+[٢١:٥٢:١٥:٩٣٣] BaseGui::checkStayOnTop
+[٢١:٥٢:١٥:٩٣٤] MPVProcess::parseLine: "[mkv] Discarding potentially broken or useless index."
+[٢١:٥٢:١٥:٩٥٩] BaseGui::displayState: "Playing"
+[٢١:٥٢:١٥:٩٥٩] DefaultGui::togglePlayAction
+[٢١:٥٢:١٥:٩٥٩] BaseGui::togglePlayAction
+[٢١:٥٢:١٥:٩٦٠] StateWidget::watchState: 1
+[٢١:٥٢:١٥:٩٦٠] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٢:١٥:٩٦٠] Core::changePause
+[٢١:٥٢:١٥:٩٦٠] Core::changePause: mplayer reports that it's paused
+[٢١:٥٢:١٥:٩٦٠] BaseGui::displayState: "Paused"
+[٢١:٥٢:١٥:٩٦٠] DefaultGui::togglePlayAction
+[٢١:٥٢:١٥:٩٦٠] BaseGui::togglePlayAction
+[٢١:٥٢:١٥:٩٦١] StateWidget::watchState: 2
+[٢١:٥٢:١٥:٩٦١] BaseGui::checkStayOnTop
+[٢١:٥٢:١٥:٩٦٢] BaseGui::checkStayOnTop
+[٢١:٥٢:١٦:٧٢٠] Core::play_or_pause
+[٢١:٥٢:١٦:٧٢٠] Core::pause: current state: "Paused"
+[٢١:٥٢:١٦:٧٢٠] PlayerProcess::writeToStdin: set pause no
+[٢١:٥٢:١٦:٧٢٢] BaseGui::displayState: "Playing"
+[٢١:٥٢:١٦:٧٢٢] DefaultGui::togglePlayAction
+[٢١:٥٢:١٦:٧٢٢] BaseGui::togglePlayAction
+[٢١:٥٢:١٦:٧٢٢] StateWidget::watchState: 1
+[٢١:٥٢:١٦:٧٢٢] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٢:١٦:٧٢٢] BaseGui::checkStayOnTop
+[٢١:٥٢:٢٤:٢٢٥] Core::sforward
+[٢١:٥٢:٢٤:٢٢٥] Core::seek: 10
+[٢١:٥٢:٢٤:٢٢٥] PlayerProcess::writeToStdin: seek 10 relative exact
+[٢١:٥٢:٢٤:٢٧٧] MPVProcess::parseLine: idle
+[٢١:٥٢:٢٤:٢٧٧] BaseGui::displayState: "Unknown"
+[٢١:٥٢:٢٤:٢٧٧] DefaultGui::togglePlayAction
+[٢١:٥٢:٢٤:٢٧٧] BaseGui::togglePlayAction
+[٢١:٥٢:٢٤:٢٧٧] StateWidget::watchState: 3
+[٢١:٥٢:٢٤:٢٧٨] BaseGui::checkStayOnTop
+[٢١:٥٢:٢٤:٤٦٥] BaseGui::displayState: "Playing"
+[٢١:٥٢:٢٤:٤٦٥] DefaultGui::togglePlayAction
+[٢١:٥٢:٢٤:٤٦٥] BaseGui::togglePlayAction
+[٢١:٥٢:٢٤:٤٦٥] StateWidget::watchState: 1
+[٢١:٥٢:٢٤:٤٦٥] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٢:٢٤:٤٦٥] BaseGui::checkStayOnTop
+[٢١:٥٢:٢٦:١٩٢] Core::sforward
+[٢١:٥٢:٢٦:١٩٢] Core::seek: 10
+[٢١:٥٢:٢٦:١٩٢] PlayerProcess::writeToStdin: seek 10 relative exact
+[٢١:٥٢:٢٦:٢٤٦] MPVProcess::parseLine: idle
+[٢١:٥٢:٢٦:٢٤٦] BaseGui::displayState: "Unknown"
+[٢١:٥٢:٢٦:٢٤٦] DefaultGui::togglePlayAction
+[٢١:٥٢:٢٦:٢٤٦] BaseGui::togglePlayAction
+[٢١:٥٢:٢٦:٢٤٧] StateWidget::watchState: 3
+[٢١:٥٢:٢٦:٢٥٨] BaseGui::checkStayOnTop
+[٢١:٥٢:٢٦:٤٧٧] BaseGui::displayState: "Playing"
+[٢١:٥٢:٢٦:٤٧٨] DefaultGui::togglePlayAction
+[٢١:٥٢:٢٦:٤٧٨] BaseGui::togglePlayAction
+[٢١:٥٢:٢٦:٤٧٩] StateWidget::watchState: 1
+[٢١:٥٢:٢٦:٤٧٩] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٢:٢٦:٤٧٩] BaseGui::checkStayOnTop
+[٢١:٥٢:٢٧:١٣٦] Core::sforward
+[٢١:٥٢:٢٧:١٣٦] Core::seek: 10
+[٢١:٥٢:٢٧:١٣٦] PlayerProcess::writeToStdin: seek 10 relative exact
+[٢١:٥٢:٢٧:١٨٨] MPVProcess::parseLine: idle
+[٢١:٥٢:٢٧:١٨٨] BaseGui::displayState: "Unknown"
+[٢١:٥٢:٢٧:١٨٨] DefaultGui::togglePlayAction
+[٢١:٥٢:٢٧:١٨٨] BaseGui::togglePlayAction
+[٢١:٥٢:٢٧:١٨٩] StateWidget::watchState: 3
+[٢١:٥٢:٢٧:١٩٠] BaseGui::checkStayOnTop
+[٢١:٥٢:٢٧:٢٣٨] BaseGui::displayState: "Playing"
+[٢١:٥٢:٢٧:٢٣٨] DefaultGui::togglePlayAction
+[٢١:٥٢:٢٧:٢٣٨] BaseGui::togglePlayAction
+[٢١:٥٢:٢٧:٢٣٩] StateWidget::watchState: 1
+[٢١:٥٢:٢٧:٢٣٩] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٢:٢٧:٢٣٩] BaseGui::checkStayOnTop
+[٢١:٥٢:٢٨:٤٩٩] Core::goToPosition: value: 146
+[٢١:٥٢:٢٨:٤٩٩] Core::goToSec: 8.000000
+[٢١:٥٢:٢٨:٤٩٩] PlayerProcess::writeToStdin: seek 8 absolute exact
+[٢١:٥٢:٢٨:٥٥١] MPVProcess::parseLine: idle
+[٢١:٥٢:٢٨:٥٥١] BaseGui::displayState: "Unknown"
+[٢١:٥٢:٢٨:٥٥١] DefaultGui::togglePlayAction
+[٢١:٥٢:٢٨:٥٥١] BaseGui::togglePlayAction
+[٢١:٥٢:٢٨:٥٥١] StateWidget::watchState: 3
+[٢١:٥٢:٢٨:٥٥٣] BaseGui::checkStayOnTop
+[٢١:٥٢:٢٨:٦٥٠] BaseGui::displayState: "Playing"
+[٢١:٥٢:٢٨:٦٥٠] DefaultGui::togglePlayAction
+[٢١:٥٢:٢٨:٦٥٠] BaseGui::togglePlayAction
+[٢١:٥٢:٢٨:٦٥١] StateWidget::watchState: 1
+[٢١:٥٢:٢٨:٦٥١] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٢:٢٨:٦٥١] BaseGui::checkStayOnTop
+[٢١:٥٢:٢٩:٢١١] Core::goToPosition: value: 78
+[٢١:٥٢:٢٩:٢١١] Core::goToSec: 4.000000
+[٢١:٥٢:٢٩:٢١١] PlayerProcess::writeToStdin: seek 4 absolute exact
+[٢١:٥٢:٢٩:٢٦٣] MPVProcess::parseLine: idle
+[٢١:٥٢:٢٩:٢٦٣] BaseGui::displayState: "Unknown"
+[٢١:٥٢:٢٩:٢٦٣] DefaultGui::togglePlayAction
+[٢١:٥٢:٢٩:٢٦٣] BaseGui::togglePlayAction
+[٢١:٥٢:٢٩:٢٦٤] StateWidget::watchState: 3
+[٢١:٥٢:٢٩:٢٧٠] BaseGui::checkStayOnTop
+[٢١:٥٢:٢٩:٣١١] BaseGui::displayState: "Playing"
+[٢١:٥٢:٢٩:٣١١] DefaultGui::togglePlayAction
+[٢١:٥٢:٢٩:٣١١] BaseGui::togglePlayAction
+[٢١:٥٢:٢٩:٣١٢] StateWidget::watchState: 1
+[٢١:٥٢:٢٩:٣١٢] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٢:٢٩:٣١٢] BaseGui::checkStayOnTop
+[٢١:٥٢:٣٠:٤٦٣] MplayerWindow::mouseReleaseEvent
+[٢١:٥٢:٣٠:٤٦٣] BaseGui::rightClickFunction
+[٢١:٥٢:٣٠:٤٦٣] BaseGui::processFunction: 'show_context_menu'
+[٢١:٥٢:٣٠:٤٦٤] BaseGui::processFunction: action found
+[٢١:٥٢:٣٤:٥٩٢] BaseGui::loadAudioFile
+[٢١:٥٢:٤٨:٦٤٤] Core::initPlaying
+[٢١:٥٢:٤٨:٦٤٤] MplayerWindow::setLogoVisible: false
+[٢١:٥٢:٤٨:٦٤٤] Core::stopMplayer
+[٢١:٥٢:٤٨:٦٤٤] PlayerProcess::writeToStdin: quit 0
+[٢١:٥٢:٤٨:٦٤٤] Core::stopMplayer: Waiting mplayer to finish...
+[٢١:٥٢:٤٨:٦٤٧] MPVProcess::parseLine: "Exiting... (Quit)"
+[٢١:٥٢:٤٨:٦٧٩] MyProcess::procFinished
+[٢١:٥٢:٤٨:٦٧٩] MyProcess::procFinished: Bytes available:  0
+[٢١:٥٢:٤٨:٦٧٩] MPVProcess::processFinished: exitCode: 0, status: 0
+[٢١:٥٢:٤٨:٦٧٩] MplayerLayer::playingStopped
+[٢١:٥٢:٤٨:٦٧٩] Screen::playingStopped
+[٢١:٥٢:٤٨:٦٧٩] Screen::setAutoHideCursor: 0
+[٢١:٥٢:٤٨:٦٧٩] Screen::playingStopped
+[٢١:٥٢:٤٨:٦٧٩] Screen::setAutoHideCursor: 0
+[٢١:٥٢:٤٨:٦٧٩] Core::stopMplayer: Finished.
+[٢١:٥٢:٤٨:٦٧٩] Core::startMplayer: file: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv" seek: 23
+[٢١:٥٢:٤٨:٦٧٩] Core::startMplayer: checking if stream is a playlist
+[٢١:٥٢:٤٨:٦٧٩] Core::startMplayer: url path: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥٢:٤٨:٦٨٠] Core::startMplayer: url_is_playlist: 0
+[٢١:٥٢:٤٨:٦٨٠] Core::startMplayer: edl file: ''
+[٢١:٥٢:٤٨:٦٨٠] Core::startMplayer: extra_params: ()
+[٢١:٥٢:٤٨:٦٨٠] MplayerLayer::playingStarted
+[٢١:٥٢:٤٨:٦٨٠] Screen::playingStarted
+[٢١:٥٢:٤٨:٦٨٠] Screen::setAutoHideCursor: 1
+[٢١:٥٢:٤٨:٦٨٠] Screen::playingStarted
+[٢١:٥٢:٤٨:٦٨٠] Screen::setAutoHideCursor: 1
+[٢١:٥٢:٤٨:٦٨٠] Core::startMplayer: command: '/usr/bin/mpv --no-config --no-quiet --terminal --no-msg-color --input-file=/dev/stdin --msg-level=ffmpeg/demuxer=error --no-fs --hwdec=no --sub-auto=fuzzy --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=62914613 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --vid=1 --sub-file=/home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3 --audio-file=/home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3 --sub-pos=100 --volume=55 --cache=auto --start=23 --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/jad/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --term-playing-msg=MPV_VERSION=${=mpv-version:}
+INFO_VIDEO_WIDTH=${=width}
+INFO_VIDEO_HEIGHT=${=height}
+INFO_VIDEO_ASPECT=${=video-params/aspect}
+INFO_VIDEO_FPS=${=container-fps:${=fps}}
+INFO_VIDEO_FORMAT=${=video-format}
+INFO_VIDEO_CODEC=${=video-codec}
+INFO_AUDIO_FORMAT=${=audio-codec-name}
+INFO_AUDIO_CODEC=${=audio-codec}
+INFO_AUDIO_RATE=${=audio-params/samplerate}
+INFO_AUDIO_NCH=${=audio-params/channel-count}
+INFO_LENGTH=${=duration:${=length}}
+INFO_DEMUXER=${=current-demuxer:${=demuxer}}
+INFO_SEEKABLE=${=seekable}
+INFO_TITLES=${=disc-titles}
+INFO_CHAPTERS=${=chapters}
+INFO_TRACKS_COUNT=${=track-list/count}
+METADATA_TITLE=${metadata/by-key/title:}
+METADATA_ARTIST=${metadata/by-key/artist:}
+METADATA_ALBUM=${metadata/by-key/album:}
+METADATA_GENRE=${metadata/by-key/genre:}
+METADATA_DATE=${metadata/by-key/date:}
+METADATA_TRACK=${metadata/by-key/track:}
+METADATA_COPYRIGHT=${metadata/by-key/copyright:}
+INFO_MEDIA_TITLE=${=media-title:}
+INFO_STREAM_PATH=${stream-path}
+ --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} /home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥٢:٤٨:٦٨٣] Core::processFinished
+[٢١:٥٢:٤٨:٦٨٣] Core::processFinished: we_are_restarting: 1
+[٢١:٥٢:٤٨:٦٨٣] Core::processFinished: exit_code: 0
+[٢١:٥٢:٤٨:٨٤٢] MPVProcess::parseLine: "Warning: option --input-file is deprecated and might be removed in the future (use --input-ipc-server)."
+[٢١:٥٢:٤٨:٩٠٥] MPVProcess::parseLine: "No sub streams in file /home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3."
+[٢١:٥٢:٤٨:٩٠٦] MPVProcess::parseLine: "Can not open external file /home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3."
+[٢١:٥٢:٤٨:٩٠٦] MPVProcess::parseLine: " (+) Video --vid=1 (*) (h264 1280x775 30.000fps)"
+[٢١:٥٢:٤٨:٩٠٦] MPVProcess::parseLine: " (+) Audio --aid=1 'ˈħɛ.lɔw.mp3' (mp3 1ch 22050Hz) (external)"
+[٢١:٥٢:٤٨:٩٠٦] MPVProcess::parseLine: audio id: 1 lang: "" name: "ˈħɛ.lɔw.mp3"
+[٢١:٥٢:٤٨:٩٠٦] MPVProcess::updateAudioTrack: ID: 1
+[٢١:٥٢:٤٨:٩٤١] MPVProcess::parseLine: "[mkv] Discarding potentially broken or useless index."
+[٢١:٥٢:٤٩:٠١١] MPVProcess::parseLine: "AO: [pulse] 22050Hz mono 1ch float"
+[٢١:٥٢:٤٩:٠١٢] Core::gotAO: "pulse"
+[٢١:٥٢:٤٩:٢٥٥] MPVProcess::parseLine: "VO: [gpu] 1280x775 yuv444p"
+[٢١:٥٢:٤٩:٢٥٥] Core::gotVO: "gpu"
+[٢١:٥٢:٤٩:٢٥٥] PlayerProcess::writeToStdin: print_text INFO_VIDEO_DSIZE=${=dwidth}x${=dheight}
+[٢١:٥٢:٤٩:٢٦٧] MPVProcess::parseLine: "INFO_VIDEO_DSIZE=1280x775"
+[٢١:٥٢:٤٩:٢٦٧] Core::gotWindowResolution: 1280, 775
+[٢١:٥٢:٤٩:٢٦٧] BaseGui::resizeWindow: 1280, 775
+[٢١:٥٢:٤٩:٢٦٧] BaseGui::centerWindow
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "MPV_VERSION=mpv 0.32.0"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: mpv version: "0.32.0"
+[٢١:٥٢:٤٩:٢٦٩] MplayerVersion::mplayerVersion: mpv version found: "0.32.0"
+[٢١:٥٢:٤٩:٢٦٩] MplayerVersion::mplayerVersion: mplayer_svn: 33472
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=1280"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: md.video_width set to 1280
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=775"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: md.video_height set to 775
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_VIDEO_ASPECT=1.651613"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: md.video_aspect set to 1.65161
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_VIDEO_FPS=30.000000"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=h264"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_VIDEO_CODEC=h264 (H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10)"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: md.video_codec: "h264"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_AUDIO_FORMAT=mp3"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_AUDIO_CODEC=mp3float (MP3 (MPEG audio layer 3))"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: md.audio_codec: "mp3float"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_AUDIO_RATE=22050"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_AUDIO_NCH=1"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_LENGTH=56.633000"
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: md.duration set to 56.633
+[٢١:٥٢:٤٩:٢٦٩] MPVProcess::parseLine: "INFO_DEMUXER=mkv"
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "INFO_TITLES="
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "INFO_CHAPTERS=0"
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "INFO_TRACKS_COUNT=2"
+[٢١:٥٢:٤٩:٢٧٠] PlayerProcess::writeToStdin: print_text "INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}"
+[٢١:٥٢:٤٩:٢٧٠] PlayerProcess::writeToStdin: print_text "INFO_TRACK_1: ${track-list/1/type} ${track-list/1/id} '${track-list/1/lang:}' '${track-list/1/title:}' ${track-list/1/selected}"
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "METADATA_TITLE="
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "METADATA_ARTIST="
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "METADATA_ALBUM="
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "METADATA_GENRE="
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "METADATA_DATE="
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "METADATA_TRACK="
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "METADATA_COPYRIGHT="
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "INFO_MEDIA_TITLE=log.mkv"
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "INFO_STREAM_PATH=/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv"
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: "INFO_TRACK_0: video 1 '' '' yes"
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::parseLine: ID: 1 type: "video" name: "" lang: "" selected: "yes"
+[٢١:٥٢:٤٩:٢٧٠] MPVProcess::updateVideoTrack: ID: 1
+[٢١:٥٢:٤٩:٢٧١] MPVProcess::parseLine: "INFO_TRACK_1: audio 1 '' 'ˈħɛ.lɔw.mp3' yes"
+[٢١:٥٢:٤٩:٢٧١] MPVProcess::parseLine: ID: 1 type: "audio" name: "ˈħɛ.lɔw.mp3" lang: "" selected: "yes"
+[٢١:٥٢:٤٩:٢٧١] MPVProcess::updateAudioTrack: ID: 1
+[٢١:٥٢:٤٩:٢٧٢] MPVProcess::parseLine: starting sec: 23.167
+[٢١:٥٢:٤٩:٢٧٢] Core::gotStartingTime: 23.167000
+[٢١:٥٢:٤٩:٢٧٢] Core::gotStartingTime: current_sec: 23.467000
+[٢١:٥٢:٤٩:٢٧٢] Core::finishRestart: --- start ---
+[٢١:٥٢:٤٩:٢٧٢] Core::changeAspectRatio: 1
+[٢١:٥٢:٤٩:٢٧٢] Core::displayMessage
+[٢١:٥٢:٤٩:٢٧٣] AudioEqualizer::setValues
+[٢١:٥٢:٤٩:٢٧٣] Core::changeZoom: 1.000000
+[٢١:٥٢:٤٩:٢٧٣] Core::displayMessage
+[٢١:٥٢:٤٩:٢٧٣] Core::changeSubVisilibity: 1
+[٢١:٥٢:٤٩:٢٧٣] PlayerProcess::writeToStdin: no-osd set sub-visibility yes
+[٢١:٥٢:٤٩:٢٧٣] Core::displayMessage
+[٢١:٥٢:٤٩:٢٧٣] DefaultGui::enableActionsOnPlaying
+[٢١:٥٢:٤٩:٢٧٣] BaseGui::enableActionsOnPlaying
+[٢١:٥٢:٤٩:٢٧٣] BaseGui::autosaveMplayerLog
+[٢١:٥٢:٤٩:٢٧٣] Core::sendMediaInfo
+[٢١:٥٢:٤٩:٢٧٣] Favorites::getCurrentMedia: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv', 'log.mkv'
+[٢١:٥٢:٤٩:٢٧٣] Favorites::getCurrentMedia: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv', 'log.mkv'
+[٢١:٥٢:٤٩:٢٧٣] Favorites::getCurrentMedia: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv', 'log.mkv'
+[٢١:٥٢:٤٩:٢٧٤] BaseGuiPlus::updateMediaInfo
+[٢١:٥٢:٤٩:٢٧٤] BaseGui::updateMediaInfo
+[٢١:٥٢:٤٩:٢٧٤] TimeSliderAction::setDuration: 56.633
+[٢١:٥٢:٤٩:٢٧٤] Playlist::getMediaInfo
+[٢١:٥٢:٤٩:٢٧٤] Core::updateWidgets
+[٢١:٥٢:٤٩:٢٧٤] DefaultGui::updateWidgets
+[٢١:٥٢:٤٩:٢٧٤] BaseGuiPlus::updateWidgets
+[٢١:٥٢:٤٩:٢٧٤] BaseGui::updateWidgets
+[٢١:٥٢:٤٩:٢٧٤] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٢:٤٩:٢٧٤] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٢:٤٩:٢٧٥] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٢:٤٩:٢٧٥] Core::finishRestart: --- end ---
+[٢١:٥٢:٤٩:٢٧٥] Core::checkIfVideoIsHD
+[٢١:٥٢:٤٩:٣٢٠] MPVProcess::parseLine: audio_info_changed
+[٢١:٥٢:٤٩:٣٢٠] MPVProcess::parseLine: video_info_changed
+[٢١:٥٢:٤٩:٣٢٠] Core::initAudioTrack: num_items: 1 selected_id: 1
+[٢١:٥٢:٤٩:٣٢٠] Core::initAudioTrack: list of audios:
+[٢١:٥٢:٤٩:٣٢٠] Tracks::list: item 1: ID: 1 lang: '' name: 'ˈħɛ.lɔw.mp3'
+[٢١:٥٢:٤٩:٣٢٠] Core::initializeMenus
+[٢١:٥٢:٤٩:٣٢٠] BaseGui::initializeMenus
+[٢١:٥٢:٤٩:٣٢١] BaseGui::updateBookmarks
+[٢١:٥٢:٤٩:٣٢١] Core::updateWidgets
+[٢١:٥٢:٤٩:٣٢١] DefaultGui::updateWidgets
+[٢١:٥٢:٤٩:٣٢١] BaseGuiPlus::updateWidgets
+[٢١:٥٢:٤٩:٣٢١] BaseGui::updateWidgets
+[٢١:٥٢:٤٩:٣٢١] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٢:٤٩:٣٢١] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٢:٤٩:٣٢١] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٢:٤٩:٣٢١] Core::initAudioTrack: preferred audio track: 0 previous_selected_id: -1000
+[٢١:٥٢:٤٩:٣٢١] DefaultGui::enableActionsOnPlaying
+[٢١:٥٢:٤٩:٣٢١] BaseGui::enableActionsOnPlaying
+[٢١:٥٢:٤٩:٣٢٢] Core::initAudioTrack: current_audio_id: 1
+[٢١:٥٢:٤٩:٣٢٢] Core::initVideoTrack: selected_id: 1
+[٢١:٥٢:٤٩:٣٢٢] Core::initializeMenus
+[٢١:٥٢:٤٩:٣٢٢] BaseGui::initializeMenus
+[٢١:٥٢:٤٩:٣٢٢] BaseGui::updateBookmarks
+[٢١:٥٢:٤٩:٣٢٢] Core::updateWidgets
+[٢١:٥٢:٤٩:٣٢٢] DefaultGui::updateWidgets
+[٢١:٥٢:٤٩:٣٢٢] BaseGuiPlus::updateWidgets
+[٢١:٥٢:٤٩:٣٢٢] BaseGui::updateWidgets
+[٢١:٥٢:٤٩:٣٢٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٢:٤٩:٣٢٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٢:٤٩:٣٢٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٣:١٩:٩٩١] Core::goToPosition: value: 955
+[٢١:٥٣:١٩:٩٩١] Core::goToSec: 53.000000
+[٢١:٥٣:١٩:٩٩١] PlayerProcess::writeToStdin: seek 53 absolute exact
+[٢١:٥٣:٢٠:٠٤٢] MPVProcess::parseLine: idle
+[٢١:٥٣:٢٠:٠٤٢] BaseGui::displayState: "Unknown"
+[٢١:٥٣:٢٠:٠٤٢] DefaultGui::togglePlayAction
+[٢١:٥٣:٢٠:٠٤٢] BaseGui::togglePlayAction
+[٢١:٥٣:٢٠:٠٤٣] StateWidget::watchState: 3
+[٢١:٥٣:٢٠:٠٤٦] BaseGui::checkStayOnTop
+[٢١:٥٣:٢٠:١٨٢] BaseGui::displayState: "Playing"
+[٢١:٥٣:٢٠:١٨٣] DefaultGui::togglePlayAction
+[٢١:٥٣:٢٠:١٨٣] BaseGui::togglePlayAction
+[٢١:٥٣:٢٠:١٨٣] StateWidget::watchState: 1
+[٢١:٥٣:٢٠:١٨٤] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٣:٢٠:١٨٤] BaseGui::checkStayOnTop
+[٢١:٥٣:٢١:٥٤٢] Core::goToPosition: value: 2
+[٢١:٥٣:٢١:٥٤٣] Core::goToSec: 0.000000
+[٢١:٥٣:٢١:٥٤٣] PlayerProcess::writeToStdin: seek 0 absolute exact
+[٢١:٥٣:٢١:٥٥٩] MPVProcess::parseLine: idle
+[٢١:٥٣:٢١:٥٥٩] BaseGui::displayState: "Unknown"
+[٢١:٥٣:٢١:٥٥٩] DefaultGui::togglePlayAction
+[٢١:٥٣:٢١:٥٥٩] BaseGui::togglePlayAction
+[٢١:٥٣:٢١:٥٦٠] StateWidget::watchState: 3
+[٢١:٥٣:٢١:٥٦١] BaseGui::checkStayOnTop
+[٢١:٥٣:٢١:٥٩٧] BaseGui::displayState: "Playing"
+[٢١:٥٣:٢١:٥٩٧] DefaultGui::togglePlayAction
+[٢١:٥٣:٢١:٥٩٧] BaseGui::togglePlayAction
+[٢١:٥٣:٢١:٥٩٨] StateWidget::watchState: 1
+[٢١:٥٣:٢١:٥٩٨] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٣:٢١:٥٩٨] BaseGui::checkStayOnTop
+[٢١:٥٣:٢٥:٤١٩] Core::play_or_pause
+[٢١:٥٣:٢٥:٤١٩] Core::pause: current state: "Playing"
+[٢١:٥٣:٢٥:٤١٩] PlayerProcess::writeToStdin: set pause yes
+[٢١:٥٣:٢٥:٤٢١] MPVProcess::parseLine: paused
+[٢١:٥٣:٢٥:٤٢١] Core::changePause
+[٢١:٥٣:٢٥:٤٢١] Core::changePause: mplayer reports that it's paused
+[٢١:٥٣:٢٥:٤٢١] BaseGui::displayState: "Paused"
+[٢١:٥٣:٢٥:٤٢٢] DefaultGui::togglePlayAction
+[٢١:٥٣:٢٥:٤٢٢] BaseGui::togglePlayAction
+[٢١:٥٣:٢٥:٤٢٣] StateWidget::watchState: 2
+[٢١:٥٣:٢٥:٤٢٣] BaseGui::checkStayOnTop
+[٢١:٥٣:٢٥:٩٣١] Core::play_or_pause
+[٢١:٥٣:٢٥:٩٣١] Core::pause: current state: "Paused"
+[٢١:٥٣:٢٥:٩٣١] PlayerProcess::writeToStdin: set pause no
+[٢١:٥٣:٢٥:٩٣٣] BaseGui::displayState: "Playing"
+[٢١:٥٣:٢٥:٩٣٤] DefaultGui::togglePlayAction
+[٢١:٥٣:٢٥:٩٣٤] BaseGui::togglePlayAction
+[٢١:٥٣:٢٥:٩٣٦] StateWidget::watchState: 1
+[٢١:٥٣:٢٥:٩٣٦] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٣:٢٥:٩٣٦] BaseGui::checkStayOnTop
+[٢١:٥٣:٢٨:٠٠٢] TimeSlider::checkDragging: 88
+[٢١:٥٣:٢٨:٠١٠] TimeSlider::checkDragging: 87
+[٢١:٥٣:٢٨:٠٣٤] TimeSlider::checkDragging: 83
+[٢١:٥٣:٢٨:٠٥٠] TimeSlider::checkDragging: 79
+[٢١:٥٣:٢٨:٠٥٨] TimeSlider::checkDragging: 78
+[٢١:٥٣:٢٨:٠٦٠] TimeSlider::sendDelayedPos: 78
+[٢١:٥٣:٢٨:٠٦٦] TimeSlider::checkDragging: 76
+[٢١:٥٣:٢٨:٠٧٤] TimeSlider::checkDragging: 71
+[٢١:٥٣:٢٨:٠٩١] TimeSlider::checkDragging: 67
+[٢١:٥٣:٢٨:١٠٦] TimeSlider::checkDragging: 65
+[٢١:٥٣:٢٨:١١٤] TimeSlider::checkDragging: 63
+[٢١:٥٣:٢٨:١٢٢] TimeSlider::checkDragging: 61
+[٢١:٥٣:٢٨:١٣١] TimeSlider::checkDragging: 58
+[٢١:٥٣:٢٨:١٣٨] TimeSlider::checkDragging: 56
+[٢١:٥٣:٢٨:١٤٦] TimeSlider::checkDragging: 55
+[٢١:٥٣:٢٨:١٥٤] TimeSlider::checkDragging: 52
+[٢١:٥٣:٢٨:١٦٠] TimeSlider::sendDelayedPos: 52
+[٢١:٥٣:٢٨:١٦٢] TimeSlider::checkDragging: 51
+[٢١:٥٣:٢٨:١٧٠] TimeSlider::checkDragging: 48
+[٢١:٥٣:٢٨:١٧٨] TimeSlider::checkDragging: 46
+[٢١:٥٣:٢٨:١٨٧] TimeSlider::checkDragging: 45
+[٢١:٥٣:٢٨:١٩٤] TimeSlider::checkDragging: 42
+[٢١:٥٣:٢٨:٢٠٣] TimeSlider::checkDragging: 41
+[٢١:٥٣:٢٨:٢١٠] TimeSlider::checkDragging: 38
+[٢١:٥٣:٢٨:٢١٨] TimeSlider::checkDragging: 37
+[٢١:٥٣:٢٨:٢٢٦] TimeSlider::checkDragging: 35
+[٢١:٥٣:٢٨:٢٣٤] TimeSlider::checkDragging: 33
+[٢١:٥٣:٢٨:٢٤٢] TimeSlider::checkDragging: 32
+[٢١:٥٣:٢٨:٢٥٠] TimeSlider::checkDragging: 30
+[٢١:٥٣:٢٨:٢٥٨] TimeSlider::checkDragging: 27
+[٢١:٥٣:٢٨:٢٦٠] TimeSlider::sendDelayedPos: 27
+[٢١:٥٣:٢٨:٢٦٦] TimeSlider::checkDragging: 25
+[٢١:٥٣:٢٨:٢٧٤] TimeSlider::checkDragging: 24
+[٢١:٥٣:٢٨:٢٨٢] TimeSlider::checkDragging: 21
+[٢١:٥٣:٢٨:٢٩٠] TimeSlider::checkDragging: 20
+[٢١:٥٣:٢٨:٣٠٦] TimeSlider::checkDragging: 19
+[٢١:٥٣:٢٨:٣٣٠] TimeSlider::checkDragging: 17
+[٢١:٥٣:٢٨:٣٤٦] TimeSlider::checkDragging: 16
+[٢١:٥٣:٢٨:٣٦١] TimeSlider::sendDelayedPos: 16
+[٢١:٥٣:٢٨:٣٧٠] TimeSlider::checkDragging: 15
+[٢١:٥٣:٢٨:٣٧٨] TimeSlider::checkDragging: 14
+[٢١:٥٣:٢٨:٤٠٢] TimeSlider::checkDragging: 11
+[٢١:٥٣:٢٨:٤١٠] TimeSlider::checkDragging: 10
+[٢١:٥٣:٢٨:٤٢٦] TimeSlider::checkDragging: 9
+[٢١:٥٣:٢٨:٤٤٢] TimeSlider::checkDragging: 6
+[٢١:٥٣:٢٨:٤٥٠] TimeSlider::checkDragging: 5
+[٢١:٥٣:٢٨:٤٥٨] TimeSlider::checkDragging: 4
+[٢١:٥٣:٢٨:٤٦١] TimeSlider::sendDelayedPos: 4
+[٢١:٥٣:٢٨:٤٦٦] TimeSlider::checkDragging: 1
+[٢١:٥٣:٢٨:٤٧٤] TimeSlider::checkDragging: 0
+[٢١:٥٣:٢٨:٥٦٠] TimeSlider::sendDelayedPos: 0
+[٢١:٥٣:٢٩:٢٦٦] Core::goToPosition: value: 0
+[٢١:٥٣:٢٩:٢٦٦] Core::goToSec: 0.000000
+[٢١:٥٣:٢٩:٢٦٦] PlayerProcess::writeToStdin: seek 0 absolute exact
+[٢١:٥٣:٢٩:٢٨٨] MPVProcess::parseLine: idle
+[٢١:٥٣:٢٩:٢٨٨] BaseGui::displayState: "Unknown"
+[٢١:٥٣:٢٩:٢٨٨] DefaultGui::togglePlayAction
+[٢١:٥٣:٢٩:٢٨٨] BaseGui::togglePlayAction
+[٢١:٥٣:٢٩:٢٨٩] StateWidget::watchState: 3
+[٢١:٥٣:٢٩:٢٩٣] BaseGui::checkStayOnTop
+[٢١:٥٣:٢٩:٢٩٩] BaseGui::displayState: "Playing"
+[٢١:٥٣:٢٩:٢٩٩] DefaultGui::togglePlayAction
+[٢١:٥٣:٢٩:٢٩٩] BaseGui::togglePlayAction
+[٢١:٥٣:٢٩:٣٠٠] StateWidget::watchState: 1
+[٢١:٥٣:٢٩:٣٠٠] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٣:٢٩:٣٠٠] BaseGui::checkStayOnTop
+[٢١:٥٤:٢٥:٨٦٢] MPVProcess::parseLine: "Exiting... (End of file)"
+[٢١:٥٤:٢٥:٨٦٢] MVPProcess::parseLine: detected end of file
+[٢١:٥٤:٢٥:٩١٠] MyProcess::procFinished
+[٢١:٥٤:٢٥:٩١٠] MyProcess::procFinished: Bytes available:  0
+[٢١:٥٤:٢٥:٩١٠] MPVProcess::processFinished: exitCode: 0, status: 0
+[٢١:٥٤:٢٥:٩١٠] MplayerLayer::playingStopped
+[٢١:٥٤:٢٥:٩١٠] Screen::playingStopped
+[٢١:٥٤:٢٥:٩١٠] Screen::setAutoHideCursor: 0
+[٢١:٥٤:٢٥:٩١٠] Screen::playingStopped
+[٢١:٥٤:٢٥:٩١٠] Screen::setAutoHideCursor: 0
+[٢١:٥٤:٢٥:٩١٠] Core::processFinished
+[٢١:٥٤:٢٥:٩١٠] Core::processFinished: we_are_restarting: 0
+[٢١:٥٤:٢٥:٩١٠] Core::processFinished: play has finished!
+[٢١:٥٤:٢٥:٩١١] BaseGui::displayState: "Stopped"
+[٢١:٥٤:٢٥:٩١١] DefaultGui::togglePlayAction
+[٢١:٥٤:٢٥:٩١١] BaseGui::togglePlayAction
+[٢١:٥٤:٢٥:٩١٢] StateWidget::watchState: 0
+[٢١:٥٤:٢٥:٩١٢] Core::processFinished: exit_code: 0
+[٢١:٥٤:٢٥:٩١٢] Core::updateWidgets
+[٢١:٥٤:٢٥:٩١٢] DefaultGui::updateWidgets
+[٢١:٥٤:٢٥:٩١٢] BaseGuiPlus::updateWidgets
+[٢١:٥٤:٢٥:٩١٢] BaseGui::updateWidgets
+[٢١:٥٤:٢٥:٩١٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٤:٢٥:٩١٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٤:٢٥:٩١٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٤:٢٥:٩١٢] DefaultGui::disableActionsOnStop
+[٢١:٥٤:٢٥:٩١٢] BaseGui::disableActionsOnStop
+[٢١:٥٤:٢٥:٩٢٠] BaseGui::checkStayOnTop
+[٢١:٥٤:٢٥:٩٢٠] Playlist::playNextAuto
+[٢١:٥٤:٢٥:٩٢٠] Playlist::playNext
+[٢١:٥٤:٢٥:٩٢٠] Playlist::playItem: 1 (count: 1)
+[٢١:٥٤:٢٥:٩٢١] Playlist::playItem: out of range
+[٢١:٥٤:٢٥:٩٢١] BaseGui::playlistHasFinished
+[٢١:٥٤:٢٥:٩٢١] Core::stop: state: "Stopped"
+[٢١:٥٤:٢٥:٩٢١] Core::stop: mset.current_sec: 0.000000
+[٢١:٥٤:٢٥:٩٢١] Core::stop: mset.current_sec set to 0
+[٢١:٥٤:٢٥:٩٢١] Core::stopMplayer
+[٢١:٥٤:٢٥:٩٢١] WARNING: Core::stopMplayer: mplayer is not running!
+[٢١:٥٤:٢٥:٩٢١] MplayerWindow::setLogoVisible: true
+[٢١:٥٤:٢٥:٩٢١] DefaultGui::disableActionsOnStop
+[٢١:٥٤:٢٥:٩٢١] BaseGui::disableActionsOnStop
+[٢١:٥٤:٢٥:٩٢٥] BaseGui::playlistHasFinished: arg_close_on_finish: -1, pref->close_on_finish: 0
+[٢١:٥٤:٢٥:٩٢٥] MplayerWindow::setLogoVisible: true
+[٢١:٥٤:٢٧:١٦٦] MplayerWindow::mouseReleaseEvent
+[٢١:٥٤:٢٧:١٦٦] BaseGui::rightClickFunction
+[٢١:٥٤:٢٧:١٦٦] BaseGui::processFunction: 'show_context_menu'
+[٢١:٥٤:٢٧:١٦٦] BaseGui::processFunction: action found
+[٢١:٥٥:٣١:٦٣٢] BaseGui::hideEvent
+[٢١:٥٥:٥٩:٧٦٠] Playlist::maybeSaveSettings
+[٢١:٥٦:٠٧:٠٠٣] BaseGui::showEvent
+[٢١:٥٦:٠٩:١٥١] BaseGui::showLog
+[٢١:٥٦:١٥:٤١٤] BaseGui::hideEvent
+[٢١:٥٦:٣٢:٧٢٤] BaseGui::showEvent
+[٢١:٥٧:٠٧:٤٤٠] MplayerWindow::mouseReleaseEvent
+[٢١:٥٧:٠٧:٤٤٠] BaseGui::rightClickFunction
+[٢١:٥٧:٠٧:٤٤٠] BaseGui::processFunction: 'show_context_menu'
+[٢١:٥٧:٠٧:٤٤٠] BaseGui::processFunction: action found
+[٢١:٥٨:٠٢:٤٤٤] BaseGui::hideEvent
+[٢١:٥٨:٢٠:٨٨٢] BaseGui::showEvent
+[٢١:٥٩:٠٤:٢٦٢] Favorites::save
+[٢١:٥٩:٠٨:٢٣٨] BaseGui::openFavorite
+[٢١:٥٩:٠٨:٢٣٨] BaseGui::openFiles
+[٢١:٥٩:٠٨:٢٣٩] Playlist::setModified: 0
+[٢١:٥٩:٠٨:٢٣٩] Playlist::updateWindowTitle: "Untitled playlist"
+[٢١:٥٩:٠٨:٢٣٩] Playlist::addFiles
+[٢١:٥٩:٠٨:٢٣٩] Playlist::addFiles: latest_dir: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND"
+[٢١:٥٩:٠٨:٢٣٩] BaseGui::open: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥٩:٠٨:٢٣٩] Core::open: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥٩:٠٨:٢٣٩] Core::open: * identified as local file
+[٢١:٥٩:٠٨:٢٣٩] Core::openFile: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥٩:٠٨:٢٣٩] Core::playNewFile: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥٩:٠٨:٢٣٩] Core::saveMediaInfo
+[٢١:٥٩:٠٨:٢٣٩] FileSettingsHash::saveSettingsFor: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv" type: 0
+[٢١:٥٩:٠٨:٢٤١] FileSettingsHash::saveSettingsFor: config_file: "/home/jad/.config/smplayer/file_settings/3/32e690e672bdd270.ini"
+[٢١:٥٩:٠٨:٢٤١] FileSettingsHash::saveSettingsFor: output_dir: "3"
+[٢١:٥٩:٠٨:٢٤١] MediaSettings::save
+[٢١:٥٩:٠٨:٣٣٤] MediaSettings::reset
+[٢١:٥٩:٠٨:٣٣٤] FileSettingsHash::existSettingsFor: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv"
+[٢١:٥٩:٠٨:٣٣٦] FileSettingsHash::existSettingsFor: config_file: "/home/jad/.config/smplayer/file_settings/3/32e690e672bdd270.ini"
+[٢١:٥٩:٠٨:٣٣٦] Core::playNewFile: we have settings for this file
+[٢١:٥٩:٠٨:٣٣٦] Core::restoreSettingsForMedia: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv" type: 0
+[٢١:٥٩:٠٨:٣٣٦] FileSettings::loadSettingsFor: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv" type: 0
+[٢١:٥٩:٠٨:٣٣٨] FileSettingsHash::loadSettingsFor: config_file: "/home/jad/.config/smplayer/file_settings/3/32e690e672bdd270.ini"
+[٢١:٥٩:٠٨:٣٣٨] MediaSettings::reset
+[٢١:٥٩:٠٨:٣٣٨] MediaSettings::load
+[٢١:٥٩:٠٨:٣٣٨] MediaSettings::load: demuxer_section: demuxer_mkv
+[٢١:٥٩:٠٨:٣٣٨] MediaSettings::load: list of video tracks:
+[٢١:٥٩:٠٨:٣٣٨] Tracks::list: item 1: ID: 1 lang: '' name: ''
+[٢١:٥٩:٠٨:٣٣٨] MediaSettings::load: list of audio tracks:
+[٢١:٥٩:٠٨:٣٣٨] Tracks::list: item 1: ID: 1 lang: '' name: 'ˈħɛ.lɔw.mp3'
+[٢١:٥٩:٠٨:٣٣٨] MediaSettings::load: list of subtitle tracks:
+[٢١:٥٩:٠٨:٣٣٨] Core::restoreSettingsForMedia: media settings read
+[٢١:٥٩:٠٨:٣٣٨] BaseGui::resizeWindow: 1280, 775
+[٢١:٥٩:٠٨:٣٣٨] BaseGui::centerWindow
+[٢١:٥٩:٠٨:٣٣٨] Core::changeAspectRatio: 1
+[٢١:٥٩:٠٨:٣٣٨] Core::displayMessage
+[٢١:٥٩:٠٨:٣٣٨] Core::playNewFile: volume: 40, old_volume: 40
+[٢١:٥٩:٠٨:٣٣٩] Core::initPlaying
+[٢١:٥٩:٠٨:٣٣٩] MplayerWindow::setLogoVisible: false
+[٢١:٥٩:٠٨:٣٣٩] Core::startMplayer: file: "/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv" seek: 0
+[٢١:٥٩:٠٨:٣٣٩] Core::startMplayer: checking if stream is a playlist
+[٢١:٥٩:٠٨:٣٣٩] Core::startMplayer: url path: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥٩:٠٨:٣٣٩] Core::startMplayer: url_is_playlist: 0
+[٢١:٥٩:٠٨:٣٣٩] Core::startMplayer: edl file: ''
+[٢١:٥٩:٠٨:٣٣٩] Core::startMplayer: extra_params: ()
+[٢١:٥٩:٠٨:٣٣٩] MplayerLayer::playingStarted
+[٢١:٥٩:٠٨:٣٣٩] Screen::playingStarted
+[٢١:٥٩:٠٨:٣٣٩] Screen::setAutoHideCursor: 1
+[٢١:٥٩:٠٨:٣٣٩] Screen::playingStarted
+[٢١:٥٩:٠٨:٣٣٩] Screen::setAutoHideCursor: 1
+[٢١:٥٩:٠٨:٣٤٠] Core::startMplayer: command: '/usr/bin/mpv --no-config --no-quiet --terminal --no-msg-color --input-file=/dev/stdin --msg-level=ffmpeg/demuxer=error --no-fs --hwdec=no --sub-auto=fuzzy --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=62914613 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --vid=1 --sub-file=/home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3 --audio-file=/home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3 --sub-pos=100 --volume=55 --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/jad/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --term-playing-msg=MPV_VERSION=${=mpv-version:}
+INFO_VIDEO_WIDTH=${=width}
+INFO_VIDEO_HEIGHT=${=height}
+INFO_VIDEO_ASPECT=${=video-params/aspect}
+INFO_VIDEO_FPS=${=container-fps:${=fps}}
+INFO_VIDEO_FORMAT=${=video-format}
+INFO_VIDEO_CODEC=${=video-codec}
+INFO_AUDIO_FORMAT=${=audio-codec-name}
+INFO_AUDIO_CODEC=${=audio-codec}
+INFO_AUDIO_RATE=${=audio-params/samplerate}
+INFO_AUDIO_NCH=${=audio-params/channel-count}
+INFO_LENGTH=${=duration:${=length}}
+INFO_DEMUXER=${=current-demuxer:${=demuxer}}
+INFO_SEEKABLE=${=seekable}
+INFO_TITLES=${=disc-titles}
+INFO_CHAPTERS=${=chapters}
+INFO_TRACKS_COUNT=${=track-list/count}
+METADATA_TITLE=${metadata/by-key/title:}
+METADATA_ARTIST=${metadata/by-key/artist:}
+METADATA_ALBUM=${metadata/by-key/album:}
+METADATA_GENRE=${metadata/by-key/genre:}
+METADATA_DATE=${metadata/by-key/date:}
+METADATA_TRACK=${metadata/by-key/track:}
+METADATA_COPYRIGHT=${metadata/by-key/copyright:}
+INFO_MEDIA_TITLE=${=media-title:}
+INFO_STREAM_PATH=${stream-path}
+ --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} /home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥٩:٠٨:٤٧٣] MPVProcess::parseLine: "Warning: option --input-file is deprecated and might be removed in the future (use --input-ipc-server)."
+[٢١:٥٩:٠٨:٥٣٣] MPVProcess::parseLine: "No sub streams in file /home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3."
+[٢١:٥٩:٠٨:٥٣٤] MPVProcess::parseLine: "Can not open external file /home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3."
+[٢١:٥٩:٠٨:٥٣٤] MPVProcess::parseLine: " (+) Video --vid=1 (*) (h264 1280x775 30.000fps)"
+[٢١:٥٩:٠٨:٥٣٤] MPVProcess::parseLine: " (+) Audio --aid=1 'ˈħɛ.lɔw.mp3' (mp3 1ch 22050Hz) (external)"
+[٢١:٥٩:٠٨:٥٣٤] MPVProcess::parseLine: audio id: 1 lang: "" name: "ˈħɛ.lɔw.mp3"
+[٢١:٥٩:٠٨:٥٣٤] MPVProcess::updateAudioTrack: ID: 1
+[٢١:٥٩:٠٨:٦٤٧] MPVProcess::parseLine: "AO: [pulse] 22050Hz mono 1ch float"
+[٢١:٥٩:٠٨:٦٤٨] Core::gotAO: "pulse"
+[٢١:٥٩:٠٨:٦٥٣] MPVProcess::parseLine: "VO: [gpu] 1280x775 yuv444p"
+[٢١:٥٩:٠٨:٦٥٣] Core::gotVO: "gpu"
+[٢١:٥٩:٠٨:٦٥٣] PlayerProcess::writeToStdin: print_text INFO_VIDEO_DSIZE=${=dwidth}x${=dheight}
+[٢١:٥٩:٠٨:٦٧٣] MPVProcess::parseLine: "INFO_VIDEO_DSIZE=1280x775"
+[٢١:٥٩:٠٨:٦٧٣] Core::gotWindowResolution: 1280, 775
+[٢١:٥٩:٠٨:٦٧٣] BaseGui::resizeWindow: 1280, 775
+[٢١:٥٩:٠٨:٦٧٣] BaseGui::centerWindow
+[٢١:٥٩:٠٨:٦٧٥] MPVProcess::parseLine: "MPV_VERSION=mpv 0.32.0"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: mpv version: "0.32.0"
+[٢١:٥٩:٠٨:٦٧٦] MplayerVersion::mplayerVersion: mpv version found: "0.32.0"
+[٢١:٥٩:٠٨:٦٧٦] MplayerVersion::mplayerVersion: mplayer_svn: 33472
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=1280"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: md.video_width set to 1280
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=775"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: md.video_height set to 775
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_VIDEO_ASPECT=1.651613"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: md.video_aspect set to 1.65161
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_VIDEO_FPS=30.000000"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=h264"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_VIDEO_CODEC=h264 (H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10)"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: md.video_codec: "h264"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_AUDIO_FORMAT=mp3"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_AUDIO_CODEC=mp3float (MP3 (MPEG audio layer 3))"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: md.audio_codec: "mp3float"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_AUDIO_RATE=22050"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_AUDIO_NCH=1"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_LENGTH=56.633000"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: md.duration set to 56.633
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_DEMUXER=mkv"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_TITLES="
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_CHAPTERS=0"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "INFO_TRACKS_COUNT=2"
+[٢١:٥٩:٠٨:٦٧٦] PlayerProcess::writeToStdin: print_text "INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}"
+[٢١:٥٩:٠٨:٦٧٦] PlayerProcess::writeToStdin: print_text "INFO_TRACK_1: ${track-list/1/type} ${track-list/1/id} '${track-list/1/lang:}' '${track-list/1/title:}' ${track-list/1/selected}"
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "METADATA_TITLE="
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "METADATA_ARTIST="
+[٢١:٥٩:٠٨:٦٧٦] MPVProcess::parseLine: "METADATA_ALBUM="
+[٢١:٥٩:٠٨:٦٧٧] MPVProcess::parseLine: "METADATA_GENRE="
+[٢١:٥٩:٠٨:٦٧٧] MPVProcess::parseLine: "METADATA_DATE="
+[٢١:٥٩:٠٨:٦٧٧] MPVProcess::parseLine: "METADATA_TRACK="
+[٢١:٥٩:٠٨:٦٧٧] MPVProcess::parseLine: "METADATA_COPYRIGHT="
+[٢١:٥٩:٠٨:٦٧٧] MPVProcess::parseLine: "INFO_MEDIA_TITLE=log.mkv"
+[٢١:٥٩:٠٨:٦٧٧] MPVProcess::parseLine: "INFO_STREAM_PATH=/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv"
+[٢١:٥٩:٠٨:٦٧٨] MPVProcess::parseLine: starting sec: 0
+[٢١:٥٩:٠٨:٦٧٨] Core::gotStartingTime: 0.000000
+[٢١:٥٩:٠٨:٦٧٨] Core::gotStartingTime: current_sec: 0.000000
+[٢١:٥٩:٠٨:٦٧٨] BaseGui::displayState: "Playing"
+[٢١:٥٩:٠٨:٦٧٨] DefaultGui::togglePlayAction
+[٢١:٥٩:٠٨:٦٧٨] BaseGui::togglePlayAction
+[٢١:٥٩:٠٨:٦٧٩] StateWidget::watchState: 1
+[٢١:٥٩:٠٨:٦٧٩] Core::changeCurrentSec: mplayer reports that now it's playing
+[٢١:٥٩:٠٨:٦٧٩] MPVProcess::parseLine: "INFO_TRACK_0: video 1 '' '' yes"
+[٢١:٥٩:٠٨:٦٧٩] MPVProcess::parseLine: ID: 1 type: "video" name: "" lang: "" selected: "yes"
+[٢١:٥٩:٠٨:٦٧٩] MPVProcess::updateVideoTrack: ID: 1
+[٢١:٥٩:٠٨:٦٧٩] Core::finishRestart: --- start ---
+[٢١:٥٩:٠٨:٦٧٩] Core::newMediaPlaying: --- start ---
+[٢١:٥٩:٠٨:٦٧٩] Core::initializeMenus
+[٢١:٥٩:٠٨:٦٧٩] BaseGui::initializeMenus
+[٢١:٥٩:٠٨:٦٧٩] BaseGui::updateBookmarks
+[٢١:٥٩:٠٨:٦٧٩] MediaData::list
+[٢١:٥٩:٠٨:٦٧٩]   filename: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥٩:٠٨:٦٧٩]   duration: 56.633000
+[٢١:٥٩:٠٨:٦٧٩]   video_width: 1280
+[٢١:٥٩:٠٨:٦٧٩]   video_height: 775
+[٢١:٥٩:٠٨:٦٧٩]   video_aspect: 1.651613
+[٢١:٥٩:٠٨:٦٧٩]   type: 0
+[٢١:٥٩:٠٨:٦٧٩]   novideo: 0
+[٢١:٥٩:٠٨:٦٧٩]   dvd_id: ''
+[٢١:٥٩:٠٨:٦٧٩]   initialized: 1
+[٢١:٥٩:٠٨:٦٨٠]   chapters: 0
+[٢١:٥٩:٠٨:٦٨٠]   Titles:
+[٢١:٥٩:٠٨:٦٨٠]   demuxer: 'mkv'
+[٢١:٥٩:٠٨:٦٨٠]   video_format: 'h264'
+[٢١:٥٩:٠٨:٦٨٠]   audio_format: 'mp3'
+[٢١:٥٩:٠٨:٦٨٠]   video_bitrate: 0
+[٢١:٥٩:٠٨:٦٨٠]   video_fps: '30.000000'
+[٢١:٥٩:٠٨:٦٨٠]   audio_bitrate: 0
+[٢١:٥٩:٠٨:٦٨٠]   audio_rate: 22050
+[٢١:٥٩:٠٨:٦٨٠]   audio_nch: 1
+[٢١:٥٩:٠٨:٦٨٠]   video_codec: 'h264'
+[٢١:٥٩:٠٨:٦٨٠]   audio_codec: 'mp3float'
+[٢١:٥٩:٠٨:٦٨٠] MediaSettings::list
+[٢١:٥٩:٠٨:٦٨٠]   current_sec: 0.000000
+[٢١:٥٩:٠٨:٦٨٠]   current_subtitle_track: -1000
+[٢١:٥٩:٠٨:٦٨٠]   current_secondary_subtitle_track: -1000
+[٢١:٥٩:٠٨:٦٨٠]   current_video_id: 1
+[٢١:٥٩:٠٨:٦٨٠]   current_audio_id: 1
+[٢١:٥٩:٠٨:٦٨٠]   current_title_id: -1000
+[٢١:٥٩:٠٨:٦٨٠]   current_angle_id: -1000
+[٢١:٥٩:٠٨:٦٨٠]   aspect_ratio_id: 1
+[٢١:٥٩:٠٨:٦٨٠]   volume: 40
+[٢١:٥٩:٠٨:٦٨٠]   mute: 0
+[٢١:٥٩:٠٨:٦٨٠]   external_subtitles: '/home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3'
+[٢١:٥٩:٠٨:٦٨٠]   external_subtitles_fps: '0'
+[٢١:٥٩:٠٨:٦٨٠]   external_audio: '/home/jad/env/org/the lowball/Where Merlin Played/landsbyen/landsbyen/lives at the beginning/ˈħɛ.lɔw.mp3'
+[٢١:٥٩:٠٨:٦٨٠]   sub_delay: 0
+[٢١:٥٩:٠٨:٦٨٠]   audio_delay: 0
+[٢١:٥٩:٠٨:٦٨٠]   sub_pos: 100
+[٢١:٥٩:٠٨:٦٨٠]   sub_scale: 5.000000
+[٢١:٥٩:٠٨:٦٨٠]   sub_scale_ass: 1.000000
+[٢١:٥٩:٠٨:٦٨٠]   closed_caption_channel: 0
+[٢١:٥٩:٠٨:٦٨٠]   brightness: 0
+[٢١:٥٩:٠٨:٦٨٠]   contrast: 0
+[٢١:٥٩:٠٨:٦٨٠]   gamma: 0
+[٢١:٥٩:٠٨:٦٨٠]   hue: 0
+[٢١:٥٩:٠٨:٦٨٠]   saturation: 0
+[٢١:٥٩:٠٨:٦٨١]   speed: 1.000000
+[٢١:٥٩:٠٨:٦٨١]   phase_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   deblock_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   dering_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   gradfun_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   noise_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   postprocessing_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   upscaling_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   current_denoiser: 0
+[٢١:٥٩:٠٨:٦٨١]   current_unsharp: 0
+[٢١:٥٩:٠٨:٦٨١]   stereo3d_in: none
+[٢١:٥٩:٠٨:٦٨١]   stereo3d_out: 
+[٢١:٥٩:٠٨:٦٨١]   current_deinterlacer: 0
+[٢١:٥٩:٠٨:٦٨١]   add_letterbox: 0
+[٢١:٥٩:٠٨:٦٨١]   karaoke_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   extrastereo_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   volnorm_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   earwax_filter: 0
+[٢١:٥٩:٠٨:٦٨١]   audio_use_channels: 0
+[٢١:٥٩:٠٨:٦٨١]   stereo_mode: 0
+[٢١:٥٩:٠٨:٦٨١]   zoom_factor: 1.000000
+[٢١:٥٩:٠٨:٦٨١]   rotate: -1
+[٢١:٥٩:٠٨:٦٨١]   flip: 0
+[٢١:٥٩:٠٨:٦٨١]   mirror: 0
+[٢١:٥٩:٠٨:٦٨١]   loop: 0
+[٢١:٥٩:٠٨:٦٨١]   A_marker: -1
+[٢١:٥٩:٠٨:٦٨١]   B_marker: -1
+[٢١:٥٩:٠٨:٦٨١]   current_demuxer: 'mkv'
+[٢١:٥٩:٠٨:٦٨١]   forced_demuxer: ''
+[٢١:٥٩:٠٨:٦٨١]   forced_video_codec: ''
+[٢١:٥٩:٠٨:٦٨١]   forced_audio_codec: ''
+[٢١:٥٩:٠٨:٦٨١]   original_demuxer: ''
+[٢١:٥٩:٠٨:٦٨١]   original_video_codec: ''
+[٢١:٥٩:٠٨:٦٨١]   original_audio_codec: ''
+[٢١:٥٩:٠٨:٦٨١]   mplayer_additional_options: ''
+[٢١:٥٩:٠٨:٦٨١]   mplayer_additional_video_filters: ''
+[٢١:٥٩:٠٨:٦٨١]   mplayer_additional_audio_filters: ''
+[٢١:٥٩:٠٨:٦٨١]   win_width: 1280
+[٢١:٥٩:٠٨:٦٨١]   win_height: 775
+[٢١:٥٩:٠٨:٦٨١]   win_aspect(): 1.651613
+[٢١:٥٩:٠٨:٦٨١]   is264andHD: 0
+[٢١:٥٩:٠٨:٦٨١]   Videos:
+[٢١:٥٩:٠٨:٦٨١] Tracks::list: item 1: ID: 1 lang: '' name: ''
+[٢١:٥٩:٠٨:٦٨١]   Audios:
+[٢١:٥٩:٠٨:٦٨١] Tracks::list: item 1: ID: 1 lang: '' name: 'ˈħɛ.lɔw.mp3'
+[٢١:٥٩:٠٨:٦٨١]   Subtitles:
+[٢١:٥٩:٠٨:٦٨١] Core::newMediaPlaying: --- end ---
+[٢١:٥٩:٠٨:٦٨١] Core::changeAspectRatio: 1
+[٢١:٥٩:٠٨:٦٨١] Core::displayMessage
+[٢١:٥٩:٠٨:٦٨٢] AudioEqualizer::setValues
+[٢١:٥٩:٠٨:٦٨٢] Core::changeZoom: 1.000000
+[٢١:٥٩:٠٨:٦٨٢] Core::displayMessage
+[٢١:٥٩:٠٨:٦٨٢] Core::changeSubVisilibity: 1
+[٢١:٥٩:٠٨:٦٨٢] PlayerProcess::writeToStdin: no-osd set sub-visibility yes
+[٢١:٥٩:٠٨:٦٨٢] Core::displayMessage
+[٢١:٥٩:٠٨:٦٨٢] DefaultGui::enableActionsOnPlaying
+[٢١:٥٩:٠٨:٦٨٢] BaseGui::enableActionsOnPlaying
+[٢١:٥٩:٠٨:٦٨٣] BaseGui::autosaveMplayerLog
+[٢١:٥٩:٠٨:٦٨٣] Core::sendMediaInfo
+[٢١:٥٩:٠٨:٦٨٣] Favorites::getCurrentMedia: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv', 'log.mkv'
+[٢١:٥٩:٠٨:٦٨٣] Favorites::getCurrentMedia: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv', 'log.mkv'
+[٢١:٥٩:٠٨:٦٨٣] Favorites::getCurrentMedia: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv', 'log.mkv'
+[٢١:٥٩:٠٨:٦٨٤] BaseGuiPlus::updateMediaInfo
+[٢١:٥٩:٠٨:٦٨٤] BaseGui::updateMediaInfo
+[٢١:٥٩:٠٨:٦٨٤] TimeSliderAction::setDuration: 56.633
+[٢١:٥٩:٠٨:٦٨٤] Playlist::getMediaInfo
+[٢١:٥٩:٠٨:٦٨٤] Core::updateWidgets
+[٢١:٥٩:٠٨:٦٨٤] DefaultGui::updateWidgets
+[٢١:٥٩:٠٨:٦٨٤] BaseGuiPlus::updateWidgets
+[٢١:٥٩:٠٨:٦٨٤] BaseGui::updateWidgets
+[٢١:٥٩:٠٨:٦٨٤] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٩:٠٨:٦٨٥] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٩:٠٨:٦٨٥] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٩:٠٨:٦٨٥] Core::finishRestart: --- end ---
+[٢١:٥٩:٠٨:٦٨٥] BaseGui::checkStayOnTop
+[٢١:٥٩:٠٨:٦٨٨] BaseGui::enterFullscreenOnPlay: arg_start_in_fullscreen: -1, pref->start_in_fullscreen: 0
+[٢١:٥٩:٠٨:٦٨٨] BaseGui::newMediaLoaded
+[٢١:٥٩:٠٨:٦٨٨] BaseGui::newMediaLoaded: mdat.stream_title: 
+[٢١:٥٩:٠٨:٦٨٨] Recents::addItem: '/home/jad/env/org/the lowball/players/New Zealand/NEWZEALAND/log.mkv'
+[٢١:٥٩:٠٨:٦٨٨] BaseGui::updateRecents
+[٢١:٥٩:٠٨:٦٨٩] BaseGui::checkPendingActionsToRun
+[٢١:٥٩:٠٨:٦٨٩] BaseGui::checkMplayerVersion
+[٢١:٥٩:٠٨:٦٨٩] MplayerVersion::isMplayerAtLeast: comparing 25158 with 33472
+[٢١:٥٩:٠٨:٦٨٩] Core::checkIfVideoIsHD
+[٢١:٥٩:٠٨:٦٩٠] MPVProcess::parseLine: "INFO_TRACK_1: audio 1 '' 'ˈħɛ.lɔw.mp3' yes"
+[٢١:٥٩:٠٨:٦٩٠] MPVProcess::parseLine: ID: 1 type: "audio" name: "ˈħɛ.lɔw.mp3" lang: "" selected: "yes"
+[٢١:٥٩:٠٨:٦٩٠] MPVProcess::updateAudioTrack: ID: 1
+[٢١:٥٩:٠٨:٧٠٧] MPVProcess::parseLine: video_info_changed
+[٢١:٥٩:٠٨:٧٠٧] Core::initVideoTrack: selected_id: 1
+[٢١:٥٩:٠٨:٧٠٧] Core::initializeMenus
+[٢١:٥٩:٠٨:٧٠٧] BaseGui::initializeMenus
+[٢١:٥٩:٠٨:٧٠٧] BaseGui::updateBookmarks
+[٢١:٥٩:٠٨:٧٠٨] Core::updateWidgets
+[٢١:٥٩:٠٨:٧٠٨] DefaultGui::updateWidgets
+[٢١:٥٩:٠٨:٧٠٨] BaseGuiPlus::updateWidgets
+[٢١:٥٩:٠٨:٧٠٨] BaseGui::updateWidgets
+[٢١:٥٩:٠٨:٧٠٨] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٩:٠٨:٧٠٨] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٩:٠٨:٧٠٨] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٩:٠٩:١٠٥] MPVProcess::parseLine: audio_info_changed
+[٢١:٥٩:٠٩:١٠٥] Core::initAudioTrack: num_items: 1 selected_id: 1
+[٢١:٥٩:٠٩:١٠٥] Core::initAudioTrack: list of audios:
+[٢١:٥٩:٠٩:١٠٥] Tracks::list: item 1: ID: 1 lang: '' name: 'ˈħɛ.lɔw.mp3'
+[٢١:٥٩:٠٩:١٠٥] Core::initializeMenus
+[٢١:٥٩:٠٩:١٠٥] BaseGui::initializeMenus
+[٢١:٥٩:٠٩:١٠٥] BaseGui::updateBookmarks
+[٢١:٥٩:٠٩:١٠٥] Core::updateWidgets
+[٢١:٥٩:٠٩:١٠٥] DefaultGui::updateWidgets
+[٢١:٥٩:٠٩:١٠٥] BaseGuiPlus::updateWidgets
+[٢١:٥٩:٠٩:١٠٥] BaseGui::updateWidgets
+[٢١:٥٩:٠٩:١٠٥] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٩:٠٩:١٠٥] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٩:٠٩:١٠٥] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢١:٥٩:٠٩:١٠٥] Core::initAudioTrack: preferred audio track: 0 previous_selected_id: 1
+[٢١:٥٩:٠٩:١٠٥] DefaultGui::enableActionsOnPlaying
+[٢١:٥٩:٠٩:١٠٥] BaseGui::enableActionsOnPlaying
+[٢١:٥٩:٠٩:١٠٥] Core::initAudioTrack: current_audio_id: 1
+[٢١:٥٩:٥٩:٤٩٢] BaseGui::showLog
+[٢٢:٠٠:٠٥:٢٤٥] MPVProcess::parseLine: "Exiting... (End of file)"
+[٢٢:٠٠:٠٥:٢٤٧] MVPProcess::parseLine: detected end of file
+[٢٢:٠٠:٠٥:٢٩٢] MyProcess::procFinished
+[٢٢:٠٠:٠٥:٢٩٢] MyProcess::procFinished: Bytes available:  0
+[٢٢:٠٠:٠٥:٢٩٣] MPVProcess::processFinished: exitCode: 0, status: 0
+[٢٢:٠٠:٠٥:٢٩٣] MplayerLayer::playingStopped
+[٢٢:٠٠:٠٥:٢٩٣] Screen::playingStopped
+[٢٢:٠٠:٠٥:٢٩٣] Screen::setAutoHideCursor: 0
+[٢٢:٠٠:٠٥:٢٩٤] Screen::playingStopped
+[٢٢:٠٠:٠٥:٢٩٤] Screen::setAutoHideCursor: 0
+[٢٢:٠٠:٠٥:٢٩٤] Core::processFinished
+[٢٢:٠٠:٠٥:٢٩٥] Core::processFinished: we_are_restarting: 0
+[٢٢:٠٠:٠٥:٢٩٥] Core::processFinished: play has finished!
+[٢٢:٠٠:٠٥:٢٩٦] BaseGui::displayState: "Stopped"
+[٢٢:٠٠:٠٥:٢٩٦] DefaultGui::togglePlayAction
+[٢٢:٠٠:٠٥:٢٩٧] BaseGui::togglePlayAction
+[٢٢:٠٠:٠٥:٢٩٨] StateWidget::watchState: 0
+[٢٢:٠٠:٠٥:٢٩٩] Core::processFinished: exit_code: 0
+[٢٢:٠٠:٠٥:٣٠٠] Core::updateWidgets
+[٢٢:٠٠:٠٥:٣٠٠] DefaultGui::updateWidgets
+[٢٢:٠٠:٠٥:٣٠١] BaseGuiPlus::updateWidgets
+[٢٢:٠٠:٠٥:٣٠١] BaseGui::updateWidgets
+[٢٢:٠٠:٠٥:٣٠٢] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢٢:٠٠:٠٥:٣٠٣] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢٢:٠٠:٠٥:٣٠٣] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[٢٢:٠٠:٠٥:٣٠٤] DefaultGui::disableActionsOnStop
+[٢٢:٠٠:٠٥:٣٠٤] BaseGui::disableActionsOnStop
+[٢٢:٠٠:٠٥:٣١١] BaseGui::checkStayOnTop
+[٢٢:٠٠:٠٥:٣١٢] Playlist::playNextAuto
+[٢٢:٠٠:٠٥:٣١٣] Playlist::playNext
+[٢٢:٠٠:٠٥:٣١٣] Playlist::playItem: 1 (count: 1)
+[٢٢:٠٠:٠٥:٣١٣] Playlist::playItem: out of range
+[٢٢:٠٠:٠٥:٣١٣] BaseGui::playlistHasFinished
+[٢٢:٠٠:٠٥:٣١٣] Core::stop: state: "Stopped"
+[٢٢:٠٠:٠٥:٣١٤] Core::stop: mset.current_sec: 0.000000
+[٢٢:٠٠:٠٥:٣١٤] Core::stop: mset.current_sec set to 0
+[٢٢:٠٠:٠٥:٣١٤] Core::stopMplayer
+[٢٢:٠٠:٠٥:٣١٤] WARNING: Core::stopMplayer: mplayer is not running!
+[٢٢:٠٠:٠٥:٣١٤] MplayerWindow::setLogoVisible: true
+[٢٢:٠٠:٠٥:٣١٥] DefaultGui::disableActionsOnStop
+[٢٢:٠٠:٠٥:٣١٥] BaseGui::disableActionsOnStop
+[٢٢:٠٠:٠٥:٣١٧] BaseGui::playlistHasFinished: arg_close_on_finish: -1, pref->close_on_finish: 0
+[٢٢:٠٠:٠٥:٣١٧] MplayerWindow::setLogoVisible: true

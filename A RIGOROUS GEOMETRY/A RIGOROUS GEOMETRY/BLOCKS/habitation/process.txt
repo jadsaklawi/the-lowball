@@ -1,0 +1,42 @@
+*** process
+****  A RIGOROUS GEOMETRY                                              :card:
+*****  A RIGOROUS GEOMETRY                                          :subcard:
+****** STRUCTURE
+******* SPACES
+******** channels
+***** Unit Structures
+****** Units
+****** Steps
+****** Whisps
+******* Surveying;
+******* Whisps
+****** Blocks
+********* habitation
+***** BLOCKS
+****** BLOCK
+       habitation
+******* 
+********* habitation
+******* habitation in days and hours
+********  habitation in days and hours and seconds, planet earth
+********* days
+********** habitation in days and hours and seconds
+********* hours
+********** habitation in days and hours and seconds
+********* days and hours
+********** habitation in days and hours and seconds
+
+******* habitation in days and hours
+********* days
+********** habitation in days and hours and seconds
+********* hours
+********** habitation in days and hours and seconds
+********* days and hours
+********** habitation in days and hours and seconds
+********* 
+******* 
+********* 
+******** 
+********* 
+******* 
+

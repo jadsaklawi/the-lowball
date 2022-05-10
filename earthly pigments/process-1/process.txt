@@ -1,0 +1,130 @@
+** process
+*** earthly pigments                                                   :card:
+***** lowball                                                       :subcard:
+****** game that combines elements of chance and strategy.
+******** skirmish
+********* brisk conflict or encounter
+
+
+***** non-positional games                                          :subcard:
+
+********* 
+************* the action or fact of occupying a place
+************* observing or finding something unknown
+********* 
+
+********* 
+
+********* positionals
+********** position: relative;
+********** position: absolute;
+
+********** position: dependent;
+********** position: indepndent;
+
+********** connected
+*********** a real;
+*********** positions; political calculations;
+
+********** visual rhyhtm
+*********** ɪnfəˈmeɪʃ(ə)n;
+*********** a visual pieace of information;
+*********** a position;
+
+********* STRUCTURE
+************* SPACES
+
+********* (play)
+
+
+***** positionals                                                   :subcard:
+
+****** positionals
+******* positions
+******** relative;
+******** absolute;
+
+******* positions
+******** dependent;
+******** independent;
+
+******* non-positions
+******** zero knowledge;
+
+******* positionals
+
+
+****** attacks
+********* positionals;
+********* information; matter;
+********* events;
+
+
+****** positional warfare
+******* information
+********** with and without
+*********** with
+************** information; matter
+*********** with and without
+************** positionals
+*********** with and without
+************ non-positions
+************* zero knowledge;
+******* matter
+
+
+***** distributed consensus                                         :subcard:
+****** information
+****** Sync
+****** Consistency
+****** Identity validation
+****** Common Knowledge
+****** so
+******** STRUCTURE
+************ SPACES
+******* achipelago
+
+
+***** so distributed                                                :subcard:
+****** distributed consensus                                  :forces:fronts:
+****** so
+******** STRUCTURE
+************ SPACES
+******* achipelago
+******** island chains strategy
+
+
+***** achipelago                                                    :subcard:
+****** island chains strategy
+******* chain, cluster , or collection of islands
+******* scattered islands
+******* artificial islands
+******** not artificial;
+******* targets and events;
+******** targets
+************ depth
+************* degrees
+************* points
+************ positionals
+******** events
+********* plane
+************ points
+************** date; time;
+****** chain of trust
+****** mechanism of control
+****** Logic
+******* embedded information
+****** spoofing
+******* 
+
+***** information                                                   :subcard:
+******* embedded information
+******** a syllabic abbreviation of its original name,
+********* syllabic
+********** the way the word sounds and wanted to know different 
+******************* suggestive of life or vital energy
+**************** actuality
+***************** quality of being actual or factual;
+************* embedded information
+
+

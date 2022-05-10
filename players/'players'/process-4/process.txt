@@ -1,0 +1,20 @@
+** process
+*** /players/
+**** Planet Earth                              :forces:fronts:botanical:unit:
+**** SPACES                                                   :forces:fronts:
+***** Space                                                   :forces:fronts:
+****** 
+
+******* 
+
+********* 
+
+**********  Planet Earth                                :forces:fronts:alive:
+*********** THE NEW PANGAEA                             :space:fronts:SPACES:
+
+
+
+
+
+
+

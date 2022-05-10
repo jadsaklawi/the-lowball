@@ -1,0 +1,28 @@
+*** Concentric Circles                                                 :card:
+**** ALIGNMENTS
+
+***** STRUCTURAL ALIGNMENTS
+****** apriori knowledge
+******* equivalent patterns;
+******* equivalent positions;
+****** ˈzɛm əlˌvaɪsɪs
+******* zero knowledge;
+
+***** STRUCTURAL ABSTRACTIONS
+****** ALIGNMENT
+********** SIGHT
+************** INSTANCES
+
+***** ALIGNMENT
+****** SIGHT
+******* the power or faculty of seeing
+******** the act of directing to perceive
+******** faculty
+******* vision
+******* simplifying the complex
+******** simplicity;
+******* localities
+******** proximity of elements
+******** equiexistiniatilies
+************ instances;
+********** INSTANCES

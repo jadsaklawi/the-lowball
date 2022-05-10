@@ -1,0 +1,19 @@
+** process
+*** SIGHTS ALIGNED                                                  :subcard:
+**** ALIGNMENTS
+***** ALIGNMENTS
+****** INTENT
+******* equiexistiniatilies
+*********** instances;
+********* INSTANCES
+********** intent
+************* INTENT
+********************* INSTANCES
+****************** intent patterns
+********** points
+************** intent
+****************** destinations;
+****************** order; meanings;
+
+
+

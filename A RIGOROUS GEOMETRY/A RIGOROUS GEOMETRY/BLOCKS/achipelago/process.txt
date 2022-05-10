@@ -1,0 +1,39 @@
+*** process
+**** A RIGOROUS GEOMETRY                                            :subcard:
+***** STRUCTURE
+****** SPACES
+******* channels
+
+***** Unit Structures
+****** Units
+****** Steps
+****** Whisps
+******* Surveying;
+******* Whisps
+****** Blocks
+********* habitation
+********* shrinkage
+********* achipelago͞
+***** BLOCKS
+****** BLOCK
+       achipelago
+******* achipelago͞
+******** island chains strategy
+********* chain, cluster , or collection of islands
+********* scattered islands
+********* artificial islands
+********** not artificial;
+********* targets and events
+******** chain of trust
+******** mechanism of control
+******** Logic
+********* embedded information
+******** spoofing
+********* 
+
+
+
+
+
+
+

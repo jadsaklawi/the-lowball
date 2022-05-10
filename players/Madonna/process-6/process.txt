@@ -1,0 +1,38 @@
+*** process
+   [2022-01-31 Mon 07:08]
+**** Madonna
+***** Embed
+***** שלום
+****** לנם
+******* log
+         - translates, To them
+         - https://translate.google.com/?sl=auto&tl=en&text=%D7%9C%D7%A0%D7%9D&op=translate
+         - https://www.facebook.com/watch/?v=4728241973935380
+       + לנם
+ 	+ information: https://www.facebook.com/watch/?v=4728241973935380
+	  * 0:10
+****** לום
+******* weave
+******** Mesmerize India
+           - https://mesmerizeindia.com/products/regular-ruby-red-diamond-satin-scrunchie
+           - has been embedded
+  	+ לום, weave
+	  * information: https://mesmerizeindia.com/products/regular-ruby-red-diamond-satin-scrunchie
+******* log
+         - transaltes, Loom
+         - https://translate.google.com/?sl=auto&tl=en&text=%D7%9C%D7%95%D7%9D&op=translate
+         - Loom
+  	 + https://en.wikipedia.org/wiki/Loom
+ 	   + weave
+         - https://www.facebook.com/watch/?v=4728241973935380
+      + לנם
+	+ information: https://www.facebook.com/watch/?v=4728241973935380
+	  * 0:10
+****** log
+    -  שלום, translates, Hello 
+    - https://translate.google.com/?sl=auto&tl=en&text=%D7%A9%D7%9C%D7%95%D7%9D&op=translate
+    - https://www.facebook.com/watch/?v=4728241973935380
+      + שלום
+	+ information: https://www.facebook.com/watch/?v=4728241973935380
+	  * 0:09
+    - [2022-01-31 Mon 06:39]

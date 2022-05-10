@@ -1,0 +1,103 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=imapFlags)(B9=charSetOverride)(BA=charSet)(BB=highestRecordedUID)
+  (BC=ns:msg:db:row:scope:pending:all)(BD=ns:msg:db:table:kind:pending)
+  (BE=dateReceived)(BF=ProtoThreadFlags)(C0=X-GM-MSGID)(C1=X-GM-THRID)
+  (C2=X-GM-LABELS)(C3=keywords)(C4=imageSize)(C5=junkscore)
+  (C6=recipient_names)(C7=folderName)(C8=storeToken)(C9=gloda-id)
+  (CA=gloda-dirty)(80=ns:msg:db:row:scope:msgs:all)(81=subject)
+  (82=sender)(83=message-id)(84=references)(85=recipients)(86=date)
+  (87=size)(88=flags)(89=priority)(8A=label)(8B=statusOfset)(8C=numLines)
+  (8D=ccList)(8E=bccList)(8F=msgThreadId)(90=threadId)(91=threadFlags)
+  (92=threadNewestMsgDate)(93=children)(94=unreadChildren)
+  (95=threadSubject)(96=msgCharSet)(97=ns:msg:db:table:kind:msgs)
+  (98=ns:msg:db:table:kind:thread)(99=ns:msg:db:table:kind:allthreads)
+  (9A=ns:msg:db:row:scope:threads:all)(9B=threadParent)(9C=threadRoot)
+  (9D=msgOffset)(9E=offlineMsgSize)
+  (9F=ns:msg:db:row:scope:dbfolderinfo:all)
+  (A0=ns:msg:db:table:kind:dbfolderinfo)(A1=numMsgs)(A2=numNewMsgs)
+  (A3=folderSize)(A4=expungedBytes)(A5=folderDate)(A6=highWaterKey)
+  (A7=mailboxName)(A8=UIDValidity)(A9=totPendingMsgs)
+  (AA=unreadPendingMsgs)(AB=expiredMark)(AC=version)(AD=forceReparse)
+  (AE=fixedBadRefThreading)(AF=onlineName)(B0=MRUTime)(B1=sortType)
+  (B2=sortOrder)(B3=viewFlags)(B4=viewType)(B5=sortColumns)
+  (B6=columnStates)(B7=highestModSeq)>
+<(80=1)(93=fffffffe)(8E=61d3f696)(81=0)>
+[1:m(^9C=1)(^90^93)(^92^8E)(^91=0)(^93=1)]
+<(9B=2)(99=61d684c1)>[2:m(^9C=2)(^90=2)(^92^99)(^91=0)(^93=1)]
+<(A4=3)(A1=61dd42f0)>[3:m(^9C=3)(^90=3)(^92^A1)(^91=0)(^93=1)]
+<(B6=b)(AF=a)(AB=61ef95ec)>[4:m(^9C=b)(^90=a)(^92^AB)(^91=0)(^93=2)]
+<(BD=e)(BB=61fa780f)>[5:m(^9C=e)(^90=e)(^92^BB)(^91=0)(^93=1)]
+<(C5=18)(C2=6208a8f7)>[6:m(^9C=18)(^90=18)(^92^C2)(^91=0)(^93=1)]
+
+<(91=10000001)(8B=Jad Saklawi <jad.saklawi@gmail.com>)(8C
+    =the lowball, origins)(8D
+    =CAMd7mzVd4=vee=xr8SmUWet8iCLi=x42qy1d+V4Ac8o-s3BtWQ@mail.gmail.com)
+  (90=3c194)(92=ffffffff)(94=1721008048895845389)(95=1721007995401977024)
+  (96="\\\\Important" "\\\\Sent" "the lowball/process")(CA=0|Jad Saklawi)
+  (97=Where Merlin Played)(98
+    =CAMd7mzVuXd=H6bG5HvNSuS2eUctuRzaWGExTGdR_XTMvMPvXaw@mail.gmail.com)
+  (9A=17d617)(9C=1721183651615141403)(9D=1721183285247853580)(9E
+    ="\\\\Important" "\\\\Sent")(A3=10000003)(9F
+    =Chance in the House of Fate)(A0
+    =CAMd7mzUBgqnW4jBjpMe-p8tp+2tViyDFCHhq0c2mgP0de0Si-A@mail.gmail.com)
+  (A2=13d325)(A5=1721647020225728415)(A6=1721646876111529248)(CD=10000093)
+  (A8=process)(A9
+    =CAMd7mzVfnpJ3bSPJDRKe2BXjbJgKM5w+Z9mvEq2xngw7eXkoZg@mail.gmail.com)
+  (AA=<CAMd7mzWGXxdfOLouH8G4U5Dk678VF5z2LN414K4gxGuOOABi9w@mail.gmail.com>)
+  (CC=4908)(B1=1722906245509646585)(B2=1722367376753281313)(CE=495b)
+  (CF=102)(B3
+    =CAMd7mzWGXxdfOLouH8G4U5Dk678VF5z2LN414K4gxGuOOABi9w@mail.gmail.com)
+  (B4=61e7bf00)(B5=58522)(B8=1722367518583854123)(B9=A RIGOROUS GEOMETRY)
+  (BA=CAMd7mzWhSWDxzyh5_CLVydTApJCfu6M6FT36RHqwGDTigyUDjQ@mail.gmail.com)
+  (BC=85fc3)(BF=1723654144800281488)(C0=1723653947604458092)(C4=10000005)
+  (82=the lowball)(C1
+    =CAMd7mzUwQ+N=m3tuYwzDGQBWpTgdt98D-74+CKzq0FG=zVNpNQ@mail.gmail.com)
+  (C3=501ad)(C7=1724629345696743077)(C8=1720727161682942129)(C9
+    ="\\\\Draft" "\\\\Starred")(CB=0|)>
+{1:^80 {(k^97:c)(s=9)} 
+  [1(^88^91)(^82^8B)(^85^8B)(^81^8C)(^83^8D)(^BE^8E)(^86^8E)(^89=1)
+    (^87^90)(^9B^92)(^8F^93)(^BF=0)(^C0^94)(^C1^95)(^C2^96)(^C6^CA)]
+  [2(^88^91)(^82^8B)(^85^8B)(^81^97)(^83^98)(^BE^99)(^86^99)(^89=1)
+    (^87^9A)(^9B^92)(^8F=2)(^BF=0)(^C0^9C)(^C1^9D)(^C2^9E)(^C6^CA)]
+  [3(^88^A3)(^82^8B)(^85^8B)(^81^9F)(^83^A0)(^BE^A1)(^86^A1)(^89=1)
+    (^87^A2)(^9B^92)(^8F=3)(^BF=0)(^C0^A5)(^C1^A6)(^C2^9E)(^C6^CA)]
+  [A(^88^CD)(^82^8B)(^85^8B)(^81^A8)(^83^A9)(^84^AA)(^BE^AB)(^86^AB)
+    (^89=1)(^87^CC)(^9B=b)(^8F=a)(^BF=0)(^C0^B1)(^C1^B2)(^C2^9E)(^C6^CA)
+    (^9D=0)(^C8=0)(^9E^CE)(^8C^CF)]
+  [B(^88^A3)(^82^8B)(^85^8B)(^81^A8)(^83^B3)(^BE^B4)(^86^B4)(^89=1)
+    (^87^B5)(^9B^92)(^8F=a)(^BF=0)(^C0^B8)(^C1^B2)(^C2^96)(^C6^CA)]
+  [E(^88^91)(^82^8B)(^85^8B)(^81^B9)(^83^BA)(^BE^BB)(^86^BB)(^89=1)
+    (^87^BC)(^9B^92)(^8F=e)(^BF=0)(^C0^BF)(^C1^C0)(^C2^9E)(^C6^CA)]
+  [18(^88^C4)(^82^8B)(^81^82)(^83^C1)(^BE^C2)(^86^C2)(^89=1)(^87^C3)
+    (^9B^92)(^8F=18)(^BF=0)(^C0^C7)(^C1^C8)(^C2^C9)(^C6=0|)]}
+{18:^80 {(k^98:c)(s=9)6:m } 18 }
+{2:^80 {(k^98:c)(s=9)2:m } 2 }
+{FFFFFFFE:^80 {(k^98:c)(s=9)1:m } 1 }
+{E:^80 {(k^98:c)(s=9)5:m } E }
+{3:^80 {(k^98:c)(s=9)3:m } 3 }
+{A:^80 {(k^98:c)(s=9)4:m } B A }
+{FFFFFFFD:^9A {(k^99:c)(s=9)} [FFFFFFFE(^95^8C)]
+  [2(^95^97)]
+  [3(^95^9F)]
+  [A(^95^A8)]
+  [E(^95^B9)]
+  [18(^95^82)]}
+
+<(83=8082014)(84=1644852575)(85=12)(86=)(87
+    ={"threadCol":{"visible":true},"attachmentCol":{"visible":true},"flaggedCo\
+l":{"visible":true},"subjectCol":{"visible":true},"unreadButtonColHeader":{"vi\
+sible":true},"senderCol":{"visible":false},"recipientCol":{"visible":false},"c\
+orrespondentCol":{"visible":true},"junkStatusCol":{"visible":true},"dateCol":{\
+"visible":true},"locationCol":{"visible":false}})(89=ee00)(8A=7d)(C6=7)>
+{1:^9F {(k^A0:c)(s=9)} 
+  [1(^AC=1)(^AD=0)(^AE=1)(^AF^82)(^88^83)(^A7^82)(^B0^84)(^B1=12)(^B2=1)
+    (^B3=0)(^B4=0)(^B5=)(^B6^87)(^B7=)(^B8^89)(^A8=7d)(^BB=18)(^A1=7)
+    (^A6=18)]}
+
+@$${2{@
+<(D0=339)>[A:^80(^C9^D0)]
+@$$}2}@
+
+@$${3{@
+@$$}3}@

@@ -1,0 +1,39 @@
+**** process                                                 :unit:botanical:
+***** Greece
+********* Unit Structures
+********** Units
+*********** UNIT
+             ήτα , heta
+*********** UNIT
+	    ή  
+	  ή,h,e,e
+************ ή
+*********** STEP
+************   ήτα    
+************ approximates;
+*************** approximates;
+****************** gaps
+****************** anonmics
+******************* frequency devices;
+*********** BLOCK
+             ʋ
+********** STEPS
+*********** UNIT
+	    ή
+*********** STEP
+	    ήτα  
+************ WHISP
+	  rise to H
+************ WHISP
+*************** representing three-dimensional objects in two dimensions.
+********** Whisps
+************ flames
+************** STEP
+		flames
+****************** Whisps
+******************** BLOCKS
+*************** flames
+****************** dots
+********************** circles
+
+

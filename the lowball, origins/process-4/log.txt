@@ -1,0 +1,23 @@
+***** log
+     - https://en.wikipedia.org/wiki/Stud_poker (Chicago)
+       - In Chicago by night the Deuces and One-eyed jacks are usually called as wild cards.
+       - Dueces
+	 + https://en.wikipedia.org/wiki/List_of_playing-card_nicknames#Single_cards
+	   + No-Spotter
+	     + https://startpage.com/row/search?q=%22No+Spotter%22&l=english ([2022-02-01 Tue 07:02])
+	     + https://www.quora.com/In-the-board-game-Stratego-if-you-use-the-spotter-and-guess-incorrectly-and-discover-the-flag-is-under-that-spot-then-who-wins-if-there-is-only-a-movable-pawn-left-for-both-players
+	   + Whiteskin
+	     * https://duckduckgo.com/?t=lm&q=Whiteskin&ia=web  ([2022-02-01 Tue 07:28])
+	       * https://www.urbandictionary.com/define.php?term=whiteskin
+	       * https://en.wikipedia.org/wiki/Logic
+		 * https://en.wikipedia.org/wiki/Logic#Systems_of_logic
+		   - Classical
+		   - Extended
+		   - Deviant
+		   - Informal
+	       * https://en.wikipedia.org/wiki/Logic_(disambiguation)
+		 * embedded information
+       - One-eyed jacks
+	 + https://en.wikipedia.org/wiki/One-eyed_jack
+       - wild cards.
+	 + https://en.wikipedia.org/wiki/Wild_card_(cards)

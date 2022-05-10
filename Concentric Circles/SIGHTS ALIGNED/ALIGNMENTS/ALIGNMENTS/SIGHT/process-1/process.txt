@@ -1,0 +1,36 @@
+** process
+*** Concentric Circles                                                 :card:
+********** SIGHTS ALIGNED                                           :subcard:
+************ ALIGNMENTS
+
+************* STRUCTURAL ALIGNMENTS
+************** apriori knowledge
+************** apriori knowledge
+*************** equivalent patterns;
+*************** equivalent positions;
+************** ˈzɛm əlˌvaɪsɪs
+*************** zero knowledge;
+
+************* STRUCTURAL ABSTRACTIONS
+************** ALIGNMENT
+****************** SIGHT
+********************* VISION
+************************* SIGHT
+************************** INSTANCES
+
+************* ALIGNMENTS
+************** SIGHT
+*************** the power or faculty of seeing
+**************** the act of directing to perceive
+**************** faculty
+****************** VISION
+********************* SIGHT
+*************** simplifying the complex
+**************** simplicity;
+*************** localities
+**************** proximity of elements
+**************** equiexistiniatilies
+******************** instances;
+****************** INSTANCES
+
+
