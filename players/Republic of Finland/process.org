@@ -1,0 +1,55 @@
+**** log
+     [2022-01-15 Sat 07:37]
+     - Vatican, Republic of Finland, New Zealand
+     [2022-01-15 Sat 07:37]
+      - Finland Today
+      - Good News from Finland
+      - thisisFINLAND
+
+**** log
+   [2022-01-21 Fri 17:01]
+***** process
+     [2022-01-15 Sat 07:37]
+      - Finland Today
+      - Good News from Finland
+      - thisisFINLAND
+
+**** process
+***** Republic of Finland
+****** bilabiaalinen nenä
+***** date
+    [2022-01-27 Thu 20:45]
+
+**** process
+***** Republic of Finland
+****** involves a happy encounter.
+       - Tammikuussa (In January)
+     
+****** Mahdollisuus kohtalon talossa
+        Date added, [2022-01-15 Sat 13:52]
+
+****** Lapsen oikeuksien juhla
+******* Lapsen oikeuksien juhla
+     [2022-01-13 Thu 17:44]
+       - Lapsen_oikeuksien_juhla_19.11.2021_(51690056891)_(cropped).jpg'
+         - Lapsen oikeuksien juhla  Celebration of the rights of the child
+     [2022-01-14 Fri 09:39]
+     Source 	Lapsen oikeuksien juhla 19.11.2021
+     Author 	FinnishGovernment
+******* notes
+      - [2022-01-15 Sat 10:53], Lapsen oikeuksien juhla, google translate
+      - [2022-01-17 Mon 06:26]
+	- by children and now involves a happy encounter.
+	- Lapsen oikeuksien juhla
+	- Jan 15 11:47 'Lapsen oikeuksien juhla.mp3'
+
+**** process
+***** Republic of Finland
+****** IS
+***** [2022-02-03 Thu 20:40]
+
+**** process
+***** Republic of Finland
+****** œʏland
+******* ABSTRACTION
+
