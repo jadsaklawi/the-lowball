@@ -67,33 +67,31 @@ the lowball
 ****** Deviant
 ****** Informal
 
+*** Deuces
 
-*** log
-**** Chicago
-***** Chicago by night
-****** Deuces
+**** No-Spotter
+***** There is no spotter in standard Stratego.
+***** If your spotter incorrectly guesses the flag, then the spotter
+     is revealed to your enemy, the enemy’s flag is revealed to you, and
+     both of them remain in play as normal.
+***** You’d simply keep playing after this.
+***** Of course, you now know exactly where the enemy’s flag is, and your spotter is right next to it:
 
-******* No-Spotter
-******** There is no spotter in standard Stratego.
-******** If your spotter incorrectly guesses the flag, then the spotter
-        is revealed to your enemy, the enemy’s flag is revealed to you, and
-        both of them remain in play as normal.
-******** You’d simply keep playing after this.
-******** Of course, you now know exactly where the enemy’s flag is, and your spotter is right next to it:
+**** Whiteskin
+***** and Logic
+****** Logic
+******* Classical
+******* Extended
+******* Deviant
+******* Informal
 
-******* Whiteskin
-******** and Logic
-********* Logic
-********** Classical
-********** Extended
-********** Deviant
-********** Informal
-****** One-eyed jacks
-******* are shown in profile, resulting in only one eye being visible.
+*** One-eyed jacks
+**** are shown in profile, resulting in only one eye being visible.
 
-****** wild cards.
-******* one that may be used to represent any other playing card, sometimes with certain restrictions.
-******* however, may also have other uses, such as being a permanent top trump.
+*** wild cards.
+**** one that may be used to represent any other playing card, sometimes with certain restrictions.
+**** however, may also have other uses, such as being a permanent top trump.
+
 
 ** Eagle Fountain                                                   :subcard:
 * Where Merlin Played                                                  :card:
