@@ -15,14 +15,21 @@
 \theoremstyle{example}
 \newtheorem{example}{Example}[section]
 
+* Observations
+
 \begin{observation}
 Waves are carriers of information, coordinates.
 \end{observation}
 
 
 \begin{observation}
-Given a wave burst emitted on an antenna, exactly one wave is read. % \textbf{Date}: \textit{[2018-08-15 Wed]} \par
+Given a wave burst emitted on an antenna, exactly one wave is read. % \textbf{Date}: \textit{[2018-08-15 Wed]} 
 \end{observation}
+
+\begin{observation} \footnotetext{Experimentation required for the case of equally distant poles.}
+Given a wave burst emitted on a multi-polar antenna, wave is read % \textbf{Date}: \textit{[2018-08-15 Wed]} 
+   by pole closest to burst. 
+\end{observation} 
 
 
 \newpage
@@ -41,15 +48,9 @@ Consider a click sound. Wave burst would be collection of waves emitted carrying
 * Hypotheses
   - Waves are carriers of information, an identifier.
     + Waves emitted by the same burst carry the same identifier.
-* Further Observations
- - Given a wave burst emitted on a multi-polar antenna, wave is read
-   by pole closest to burst.[fn:4]
-
 * Footnotes
 
 [fn:5] For other kinds it is: waves drop waves, of the same type and at same frequency.
 
-[fn:4] Experimentation required for the case of equally
-distant poles.
 
 [fn:2] For example emitted in a beam, spherical, random, etc..
