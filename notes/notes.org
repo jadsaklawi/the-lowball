@@ -852,6 +852,9 @@ A RIGOROUS GEOMETRY
    *~ Pyramid ~*
        ~(* new world order *)~
                    <https://github.com/jadsaklawi/the-lowball/blob/main/A%20RIGOROUS%20GEOMETRY/Pyramid/process-3/process-2.png>
+** Swinging Gait                                                        :log:
+   [2022-05-14 Sat 07:59]
+    involuntary swinging of the arms forward and backward while walking.
 * log
 ** Common Knowledge
 *** Common Knowledge                                                :subcard:
