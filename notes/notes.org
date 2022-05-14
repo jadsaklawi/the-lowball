@@ -897,7 +897,6 @@ A RIGOROUS GEOMETRY
  ~*~ Open Problems, Hypotheses, and Further Observation ~*~
 
        < https://github.com/jadsaklawi/the-lowball/issues/4 >
-
 ** Of Waves                                                       :log:notes:
   [2022-05-14 Sat 11:15]
   - Waves are carriers of information, coordinates.
@@ -909,7 +908,44 @@ A RIGOROUS GEOMETRY
     [2022-05-14 Sat 11:16]
 ***** Planet Earth
      always to the right.
+** Carlo Rovelli
+  [2022-05-14 Sat 11:31]
+***  rovelli.carlo@gmail.com
+   Subject: Observations
+        *~ Observations on Sound *~
+                  < https://github.com/jadsaklawi/the-lowball/blob/main/notes/Observations/Observations%20On%20Sound/Observations%20On%20Sound.pdf >
 
+          *~ Of Waves ~*
+              < https://github.com/jadsaklawi/the-lowball/blob/main/notes/Observations/Of%20Waves/Of%20Waves.pdf >
+     
+--
+Jad 
+** David Gross
+  [2022-05-14 Sat 11:40]
+***  gross@kitp.ucsb.edu
+    *~ Observations on Sound *~
+                  < https://github.com/jadsaklawi/the-lowball/blob/main/notes/Observations/Observations%20On%20Sound/Observations%20On%20Sound.pdf >
+
+          *~ Of Waves ~*
+              < https://github.com/jadsaklawi/the-lowball/blob/main/notes/Observations/Of%20Waves/Of%20Waves.pdf >
+     
+== < https://github.com/jadsaklawi/the-lowball/issues/5 >==
+
+--
+Jad
+** Steven Weinberg
+  [2022-05-14 Sat 11:43]
+*** weinberg@physics.utexas.edu
+     *~ Observations on Sound *~
+                   < https://github.com/jadsaklawi/the-lowball/blob/main/notes/Observations/Observations%20On%20Sound/Observations%20On%20Sound.pdf >
+
+           *~ Of Waves ~*
+               < https://github.com/jadsaklawi/the-lowball/blob/main/notes/Observations/Of%20Waves/Of%20Waves.pdf >
+     
+ == < https://github.com/jadsaklawi/the-lowball/issues/5 >==
+
+ --
+ Jad
 * log
 ** Common Knowledge
 *** Common Knowledge                                                :subcard:
