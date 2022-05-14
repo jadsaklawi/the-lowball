@@ -861,7 +861,6 @@ A RIGOROUS GEOMETRY
      ~*~ Swinging Gait ~*~
 
   < https://github.com/jadsaklawi/the-lowball/issues/1 >
-
 ** An Observation on Sound                                        :log:notes:
   [2022-05-14 Sat 08:43]
   Sound is a carrier of information, coordinates.
@@ -882,6 +881,23 @@ A RIGOROUS GEOMETRY
      by pole closest to burst.
    - Sound drops sound.
    - The auditory system in biological organisms is a sound antenna.
+
+** White House                                                    :log:notes:
+  [2022-05-14 Sat 09:15]
+*** whitehouse.gov
+                                  ~*~ An Observation on Sound  ~*~
+
+  < https://github.com/jadsaklawi/the-lowball/issues/2 >
+      
+                              ~*~ Of Waves and Antennas ~*~
+
+     < https://github.com/jadsaklawi/the-lowball/issues/3 >
+
+
+ ~*~ Open Problems, Hypotheses, and Further Observation ~*~
+
+       < https://github.com/jadsaklawi/the-lowball/issues/4 >
+
 
 * log
 ** Common Knowledge
