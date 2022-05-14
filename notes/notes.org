@@ -898,6 +898,17 @@ A RIGOROUS GEOMETRY
 
        < https://github.com/jadsaklawi/the-lowball/issues/4 >
 
+** Of Waves                                                       :log:notes:
+  [2022-05-14 Sat 11:15]
+  - Waves are carriers of information, coordinates.
+*** [2022-05-14 Sat 11:15]
+  Given a wave burst emitted on an antenna, exactly one wave is read.
+*** [2022-05-14 Sat 11:15]
+   Given a wave burst emitted on a multi-polar antenna, wave is read by pole closest to burst. 
+**** notes
+    [2022-05-14 Sat 11:16]
+***** Planet Earth
+     always to the right.
 
 * log
 ** Common Knowledge
