@@ -1,0 +1,55 @@
+#+TITLE: Of Waves
+#+AUTHOR: Jad Saklawi
+#+DATE: [2022-05-14 Sat]
+
+#+LaTeX_HEADER: \usepackage{amsthm}
+#+LaTeX_HEADER: \usepackage{mdframed}
+
+#+OPTIONS: toc:nil
+
+\newtheorem*{observation}{Observation}
+\newmdtheoremenv{observation}{}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+
+\theoremstyle{example}
+\newtheorem{example}{Example}[section]
+
+\begin{observation}
+Waves are carriers of information, coordinates.
+\end{observation}
+
+
+\begin{observation}
+Given a wave burst emitted on an antenna, exactly one wave is read. % \textbf{Date}: \textit{[2018-08-15 Wed]} \par
+\end{observation}
+
+
+\newpage
+\appendix
+
+* Definitions
+\begin{definition}{Wave Burst:}
+The collection of waves emitted by the same trigger.
+\end{definition}
+\begin{example}
+Consider a click sound. Wave burst would be collection of waves emitted carrying the sound "click".
+\end{example}
+* Open Problems
+  - Number of waves emitted per burst.
+  - Direction of waves emitted by a burst.[fn:2]
+* Hypotheses
+  - Waves are carriers of information, an identifier.
+    + Waves emitted by the same burst carry the same identifier.
+* Further Observations
+ - Given a wave burst emitted on a multi-polar antenna, wave is read
+   by pole closest to burst.[fn:4]
+
+* Footnotes
+
+[fn:5] For other kinds it is: waves drop waves, of the same type and at same frequency.
+
+[fn:4] Experimentation required for the case of equally
+distant poles.
+
+[fn:2] For example emitted in a beam, spherical, random, etc..
