@@ -1,0 +1,32 @@
+\begin{flushleft}
+\textbf{From}: Jad Saklawi \par
+\textbf{To}: Leonard Susskind, Kip Thorne, and Frank Wilczek \par
+\textbf{Date}: \textit{[2018-11-27 Tue]} \par
+\textbf{Subject}: Open Problems, Hypotheses, and Further Observations\\
+\end{flushleft}
+#+OPTIONS: toc:nil
+
+* Open Problems
+  - Number of waves emitted per burst.
+  - How much sound can a single sound wave carry.[fn:1]
+  - Direction of waves emitted from a burst.[fn:2]
+* Hypotheses
+  - Waves are carriers of information, an identifier.
+    + Waves emitted by the same burst carry the same identifier.
+* Further Observations
+ - Given a wave burst emitted on a multi-polar antenna, wave is read
+   by pole closest to burst.[fn:4]
+ - Sound drops sound.[fn:5]
+ - The auditory system in biological organisms is a sound antenna.
+\pagenumbering{gobble}
+
+* Footnotes
+
+[fn:5] For other kinds it is: waves drop waves, of the same type and at same frequency.
+
+[fn:4] Experimentation required for the case of equally
+distant poles.
+
+[fn:2] For example emitted in a beam, spherical, random, etc..
+
+[fn:1] Abstracts to: how much load can a single wave carry.

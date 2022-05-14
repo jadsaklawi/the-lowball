@@ -1,0 +1,34 @@
+#+LaTeX_HEADER: \usepackage{amsthm}
+#+LaTeX_HEADER: \usepackage{mdframed}
+
+#+OPTIONS: toc:nil
+
+\newtheorem*{observation}{Observation}
+\newmdtheoremenv{observation}{}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+
+\theoremstyle{example}
+\newtheorem{example}{Example}[section]
+
+\begin{flushleft}
+\textbf{From}: Jad Saklawi \par
+\textbf{To}: Michio Kaku \par
+\textbf{Date}: \textit{[2018-08-15 Wed]} \par
+\textbf{Subject}: Of Waves and Antennas\\
+\end{flushleft}
+
+
+
+\begin{observation}
+Given a wave burst emitted on an antenna, exactly one wave is read.
+\end{observation}
+\newpage
+\appendix
+* Definitions
+\begin{definition}{Wave Burst:}
+The collection of waves emitted by the same trigger.
+\end{definition}
+\begin{example}
+Consider a click sound. Wave burst would be collection of waves emitted carrying the sound "click".
+\end{example}

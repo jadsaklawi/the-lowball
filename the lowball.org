@@ -1432,7 +1432,6 @@ the lowball
 ***************** BLOCK
 ****************** SPACES
 
-
 **   ήτα                                                            :subcard:
 *** حدث
 **** reflected on earth.                                      :forces:fronts:

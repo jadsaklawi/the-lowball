@@ -861,6 +861,28 @@ A RIGOROUS GEOMETRY
      ~*~ Swinging Gait ~*~
 
   < https://github.com/jadsaklawi/the-lowball/issues/1 >
+
+** An Observation on Sound                                        :log:notes:
+  [2022-05-14 Sat 08:43]
+  Sound is a carrier of information, coordinates.
+** Of Waves and Antennas                                          :log:notes:
+  [2022-05-14 Sat 08:44]
+  Given a wave burst emitted on an antenna, exactly one wave is read.
+** Open Problems, Hypotheses, and Further Observations            :log:notes:
+   [2022-05-14 Sat 08:50]
+*** Open Problems
+    - Number of waves emitted per burst.
+    - How much sound can a single sound wave carry.
+    - Direction of waves emitted from a burst.
+*** Hypotheses
+    - Waves are carriers of information, an identifier.
+      + Waves emitted by the same burst carry the same identifier.
+*** Further Observations
+   - Given a wave burst emitted on a multi-polar antenna, wave is read
+     by pole closest to burst.
+   - Sound drops sound.
+   - The auditory system in biological organisms is a sound antenna.
+
 * log
 ** Common Knowledge
 *** Common Knowledge                                                :subcard:

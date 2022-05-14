@@ -1,0 +1,21 @@
+\newtheorem*{observation}{Observation}
+\newmdtheoremenv{observation}{}
+
+\begin{flushleft}
+\textbf{From}: Jad Saklawi \par
+\textbf{To}: Michio Kaku \par
+\textbf{Date}: \textit{[2018-07-23 Mon]} \par
+\textbf{Subject}: An Observation on Sound\\
+\end{flushleft}
+
+
+
+\begin{observation}
+Sound is a carrier of information, coordinates.
+\end{observation}
+\pagenumbering{gobble}
+
+#+LaTeX_HEADER: \usepackage{amsthm}
+#+LaTeX_HEADER: \usepackage{mdframed}
+
+#+OPTIONS: toc:nil
