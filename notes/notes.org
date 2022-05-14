@@ -855,6 +855,12 @@ A RIGOROUS GEOMETRY
 ** Swinging Gait                                                        :log:
    [2022-05-14 Sat 07:59]
     involuntary swinging of the arms forward and backward while walking.
+** White House                                                    :log:notes:
+   [2022-05-14 Sat 08:13]
+*** whitehouse.gov
+     ~*~ Swinging Gait ~*~
+
+  < https://github.com/jadsaklawi/the-lowball/issues/1 >
 * log
 ** Common Knowledge
 *** Common Knowledge                                                :subcard:
