@@ -1,0 +1,42 @@
+#+TITLE: Observations on Sound
+#+AUTHOR: Jad Saklawi
+#+LaTeX_HEADER: \usepackage{amsthm}
+#+LaTeX_HEADER: \usepackage{mdframed}
+
+#+OPTIONS: toc:nil
+#+DATE: [2018-07-23 Mon]
+
+\newtheorem*{observation}{Observation}
+\newmdtheoremenv{observation}{}
+
+
+
+\begin{observation}
+Sound is a carrier of information, coordinates.
+\end{observation}
+\pagenumbering{gobble}
+
+\begin{observation}
+Sound drops sound.
+\end{observation}
+
+\begin{observation}
+The auditory system in biological organisms is a sound antenna.
+\end{observation}
+
+\pagenumbering{gobble}
+
+\newpage
+\appendix
+
+* Open Problems
+  - How much sound can a single sound wave carry.[fn:1]
+
+
+\pagenumbering{gobble}
+
+* Footnotes
+
+
+[fn:1] Abstracts to: how much load can a single wave carry.
+
