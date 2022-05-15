@@ -937,19 +937,6 @@ Jad
 
 --
 Jad
-** Steven Weinberg
-  [2022-05-14 Sat 11:43]
-*** weinberg@physics.utexas.edu
-     *~ Observations on Sound *~
-                   < https://github.com/jadsaklawi/the-lowball/blob/main/notes/Observations/Observations%20On%20Sound/Observations%20On%20Sound.pdf >
-
-           *~ Of Waves ~*
-               < https://github.com/jadsaklawi/the-lowball/blob/main/notes/Observations/Of%20Waves/Of%20Waves.pdf >
-     
- == < https://github.com/jadsaklawi/the-lowball/issues/5 >==
-
- --
- Jad
 * log
 ** Common Knowledge
 *** Common Knowledge                                                :subcard:
