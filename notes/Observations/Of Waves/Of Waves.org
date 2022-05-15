@@ -26,14 +26,10 @@ Waves are carriers of information, coordinates.
 Given a wave burst emitted on an antenna, exactly one wave is read. % \textbf{Date}: \textit{[2018-08-15 Wed]} 
 \end{observation}
 
-\begin{observation} \footnotetext{Experimentation required for the case of equally distant poles.}
+\begin{observation} \footnotetext{Planet Earth, wave always read by the right antenna for the case of equally distant antennas.} %\textbf{Date}: \textit{[2022-05-14 Sat 11:16]}
 Given a wave burst emitted on a multi-polar antenna, wave is read % \textbf{Date}: \textit{[2018-08-15 Wed]} 
    by pole closest to burst. 
 \end{observation} 
-
-
-\newpage
-\appendix
 
 * Definitions
 \begin{definition}{Wave Burst:}
