@@ -1129,6 +1129,12 @@ the lowball
 ***** a sphere
 ****** brain
 ******* mind
+********** rail
+************* DEPTH
+************** points
+*************** time
+
+
 *** BLOCKS
 **** BLOCK
      perception
@@ -1218,7 +1224,12 @@ the lowball
 ******** mind 
 ******* brain of type body
 ******* brain is a body
-****** 
+******** 
+******* 
+********** rail
+************* DEPTH
+************** points
+*************** time
 
 ** Pyramid                                                          :subcard:
 *** Unit Structures
@@ -1381,6 +1392,7 @@ the lowball
 ******* shrinkage
 ******* achipelago͞
 ******* association
+******* rail
 *** BLOCKS
 **** BLOCK
      habitation
@@ -1447,6 +1459,17 @@ the lowball
 ************* hello—chào—but thank you, cảm ơn, is harder.
 ***************** BLOCK
 ****************** SPACES
+**** BLOCK
+    rail
+***** rail
+***** BLOCK
+********* rail
+************ DEPTH
+************* degrees
+************* points
+************** time; SPACES;
+
+
 
 **   ήτα                                                            :subcard:
 *** حدث
