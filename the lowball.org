@@ -971,13 +971,28 @@ the lowball
 ******** 𐩢
 
 
-*** ♫🎵
+*** ♫🎵, Notes
 **** Water
 ***** Notes
 ***** Patterns
 ***** Classes
 ***** Rhythm
-
+***** Chord
+****** divide
+******* Notes
+******** divisions
+********* phonetics; alphabet; meanings;
+********** phonetics
+*********** alphabet
+************ meanings
+************* illuminations
+************** meanings; alphabet;
+***************** DEPTH
+****************** degrees
+********************* Chord
+****************** points
+******************* Notes
+******************* Patterns
 *** notes
 **** dot
 ***** notes
