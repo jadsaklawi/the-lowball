@@ -17,19 +17,26 @@
 
 * Observations
 
+#+COMMENT: {Date}: \textit{[2022-05-14 Sat]}
 \begin{observation}
-Waves are carriers of information, coordinates.
+** Waves are carriers of information, coordinates.
 \end{observation}
 
-
+#+COMMENT: {Date}: \textit{[2018-08-15 Wed]}
 \begin{observation}
-Given a wave burst emitted on an antenna, exactly one wave is read. % \textbf{Date}: \textit{[2018-08-15 Wed]} 
+** Given a wave burst emitted on an antenna, exactly one wave is read.
 \end{observation}
 
-\begin{observation} \footnotetext{Planet Earth, wave always read by the right antenna for the case of equally distant antennas.} %\textbf{Date}: \textit{[2022-05-14 Sat 11:16]}
-Given a wave burst emitted on a multi-polar antenna, wave is read % \textbf{Date}: \textit{[2018-08-15 Wed]} 
-   by pole closest to burst. 
+#+COMMENT: {Date}: \textit{[2018-08-15 Wed]}
+\begin{observation}
+** Given a wave burst emitted on a multi-polar antenna, wave is read  by pole closest to burst. [fn:1]
 \end{observation} 
+
+#+COMMENT: {Date}: \textit{[2022-05-16 Mon]}
+\begin{observation}
+** Waves are carriers of information, an identifier.
+*** Waves emitted by the same burst carry the same identifier.
+\end{observation}
 
 * Definitions
 \begin{definition}{Wave Burst:}
@@ -41,10 +48,10 @@ Consider a click sound. Wave burst would be collection of waves emitted carrying
 * Open Problems
   - Number of waves emitted per burst.
   - Direction of waves emitted by a burst.[fn:2]
-* Hypotheses
-  - Waves are carriers of information, an identifier.
-    + Waves emitted by the same burst carry the same identifier.
 * Footnotes
+
+#+COMMENT: {Date}: \textit{[2022-05-14 Sat 11:16]}
+[fn:1] Planet Earth, wave always read by the right antenna for the case of equally distant antennas.
 
 [fn:5] For other kinds it is: waves drop waves, of the same type and at same frequency.
 
