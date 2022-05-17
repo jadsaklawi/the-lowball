@@ -1168,7 +1168,6 @@ the lowball
 ******** 
 ******* 
 
-
 ****** perceptions
 ******* 
 ******** 
@@ -3655,6 +3654,11 @@ the lowball
 ************* points
 ************** time; SPACES;
 ************** UNIVERSES
+**************** rail
+***************** DEPTH
+****************** degrees
+****************** points
+********************* time; shrinkage;
 ***** taut
 ****** points
 ******* tightly drawn;tense;not slack;
@@ -3672,6 +3676,7 @@ the lowball
 **********************  ———           o degrees;
 *********************** taut line
 ************************* Colors of the Moon
+
 
 *** Republic of Lebanon
 **** heterogeneous borders
