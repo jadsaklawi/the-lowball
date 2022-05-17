@@ -1470,7 +1470,6 @@ the lowball
 ************** time; SPACES;
 
 
-
 **   ήτα                                                            :subcard:
 *** حدث
 **** reflected on earth.                                      :forces:fronts:
@@ -3645,8 +3644,34 @@ the lowball
 *************** ———
 ********************** circle
 **************** ———
-
-
+*** NASA
+   National Aeronautics and Space Administration
+**** taut line
+***** Colors of the Moon
+****** positional colors
+********* rail
+************ DEPTH
+************* degrees
+************* points
+************** time; SPACES;
+************** UNIVERSES
+***** taut
+****** points
+******* tightly drawn;tense;not slack;
+********* slack
+********** not slack
+******* strained;
+******* in order;tidy; neat;
+******** order
+********* points
+********** a coordinated space;
+************* coordinated
+************** coordinates;
+*************** ———                                 ｜
+************************ positionals;
+**********************  ———           o degrees;
+*********************** taut line
+************************* Colors of the Moon
 
 *** Republic of Lebanon
 **** heterogeneous borders
