@@ -1071,6 +1071,45 @@ the lowball
 ********** strokes
 **************** splitting;
 **************** layering;
+
+******* border notations
+
+********* borders
+********** constituet, cōnstituō
+*********** establish; build; lay;
+
+********* notations
+*********** points;
+*************** temporals and spatial boundaries
+******************* temporals
+******************* temporal dimensions
+******************* boundaries
+
+*************** points
+**************** ability; dispositions; intellect; traits;
+***************** articulations
+****************** with clarity;
+******************* points
+******************** Notes
+********************* Chord
+********************** divide
+*********************** Notes
+************************ divisions
+************************* Water
+************************** articulations
+*************************** with clarity
+**************************** points
+***************************** articulation points
+****************************** time points
+******************************* valid; invalid;
+************************* traits
+************************** Water
+*************************** articulations
+**************************** with clarity
+***************************** points
+****************************** articulation points
+******************************* time points
+******************************** yes; no;
 ** ♡
 **** ♡
 * A RIGOROUS GEOMETRY                                                  :card:
