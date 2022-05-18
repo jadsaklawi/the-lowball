@@ -993,6 +993,34 @@ the lowball
 ****************** points
 ******************* Notes
 ******************* Patterns
+**** Sands
+***** Strings
+****** Chord
+******* illuminations;
+******** Notes; Chord
+********* illuminations
+********** destinations
+*********** points
+************ Notes; Chord
+************* divide
+************** divisions
+*************** recognizability
+**************** patterns
+***************** points
+****************** Patterns; Classes;
+**************** recognizabile
+***************** degreess
+****************** Strings
+******************* DEPTH
+******************** degrees
+********** order
+*********** points
+************ Notes; Chord; Strings;
+************* plane
+************** points
+********** meanings
+*********** Notes
+
 *** notes
 **** dot
 ***** notes
