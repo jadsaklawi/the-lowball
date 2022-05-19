@@ -898,31 +898,6 @@ the lowball
 
 
 **** log
-    [2022-01-29 Sat 16:37]
-***** alicorn
-**** log
-      - dot
-	- https://en.wikipedia.org/wiki/Dot_(diacritic)
-	  - https://en.wikipedia.org/wiki/Dotted_and_dotless_I
-	    - Dotted and dotless I
-	      - Dotted İ i and dotless I ı
-	    - [2022-02-04 Fri 17:54]
-      - The Dot
-	+ https://www.amazon.com/Dot-Peter-H-Reynolds/dp/0763619612/
-
-**** log
-     - https://www.google.com/search?tbs=sbi:AMhZZiuXeNTZGBAs8n5jdBClGAA8_1woFu5PsvqeDBypZFCM5pCcTvACT2JYInniTPE_16Kf3ZaNHOQyIL6eP2JD_1T0m8ot_1miTVe4v6zX1a0EoZpBY7ziW-SY49CUWUF6yiahA-9VdrDcjlnpuNyEEep9Ve_1zTiXPXP4Cq8o8FYppsWbWPXjE7f0hcx0Xy4CjTF8rKV16Y0DtG_1yXVJ_1AB55ylR32-x7OxOorWJj_1v07PzSTC7KYIBevjGCxHQVOIfwYFqn_1q_1wRfrUzch13T3oddFJBca4Z9nmE52IzDcHlbPSLAvaKGNo-vDUxbyd96pBmlBYogv82L&hl=en-LB
-       - [2022-02-04 Fri 17:50]
-**** log
-     - MDNA - Give Me All Your Luvin'
-       - [2022-02-04 Fri 18:25]
-       - process, information
-
-**** log
-    - [2022-02-08 Tue 10:03]
-      + https://www.amazon.com/gp/product/B07BMLQBM1/
-	+ unstable unicorns
-**** log
 ***** https://www.facebook.com/events/1291258688046047/?ref=newsfeed
 ***** https://startpage.com/row/search?q=%5C&l=english
 ****** \
@@ -935,10 +910,6 @@ the lowball
 ***** [2022-02-08 Tue 11:08]
 ****** https://en.wikipedia.org/wiki/Eta
 ***** [2022-02-08 Tue 11:09]
-
-**** log
-    - 20220206_104354_1.m4a
-    - process, information
 
 **** notes
 ***** notes
@@ -2416,7 +2387,7 @@ the lowball
 **************** 
 ***************** 
 ****************** 
-******************* legistlation
+******************* legislation
 ****************** 
 ***************** 
 ****************** Harp
