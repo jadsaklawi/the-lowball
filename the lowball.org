@@ -2088,7 +2088,6 @@ the lowball
 ***** skirmish
 ****** brisk conflict or encounter
 
-
 ** non-positional games                                             :subcard:
 
 ****** 
@@ -2118,7 +2117,6 @@ the lowball
 ********** SPACES
 
 ****** (play)
-
 
 ** positionals                                                      :subcard:
 *** positionals
@@ -2152,7 +2150,6 @@ the lowball
 ********** zero knowledge;
 **** matter
 
-
 ** distributed consensus                                            :subcard:
 *** information
 *** Sync
@@ -2164,7 +2161,6 @@ the lowball
 ********* SPACES
 **** achipelago
 
-
 ** so distributed                                                   :subcard:
 *** distributed consensus                                     :forces:fronts:
 *** so
@@ -2172,7 +2168,6 @@ the lowball
 ********* SPACES
 **** achipelago
 ***** island chains strategy
-
 
 ** achipelago                                                       :subcard:
 *** island chains strategy
@@ -2196,7 +2191,6 @@ the lowball
 **** embedded information
 *** spoofing
 **** 
-
 
 ** information                                                      :subcard:
 *** embedded information
