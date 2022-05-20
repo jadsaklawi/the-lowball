@@ -4110,6 +4110,154 @@ the lowball
 ******** endear
 ********* esteemed
 **** Flag of Silver Ferns
+
+*** KVENLAND
+**** /ˈħɛ.lɔw/
+**** Unit Structures
+***** Unit
+****** VISION
+******** abstractions
+********** shapes;
+*********** articulations
+************ with clarity
+************* points
+************** articulation points
+*************** time points
+**************** yes; no;
+********** points;
+********** constructions;
+*********** strokes
+************ splitting
+************* divisions
+************** degrees
+*************** shapes
+**************** articulations
+***************** with clarity
+****************** points
+******************* articulation points
+******************** time points
+********************* points
+********************** line
+************ layering
+************* Strings
+************** Chord
+*************** illuminations;
+**************** Notes; Shapes
+***************** divide
+****************** divisions
+******************* recognizability
+******************** patterns
+********************* points
+********************** Patterns;Classes;
+******************** recognizabile
+********************* degrees
+********************** Strings
+*********************** DEPTH
+************************ degrees
+********** centers;
+******** articulations
+********* with clarity
+********** points
+*********** articulation points
+************ time points
+************* shapes
+
+***** STEPS
+****** Alternation
+********* shapes
+********* points
+***** Whisps
+****** VISION
+******* • KVENLAND •
+******** kven
+********* effortlessly translates to "woman"
+********** STEP
+                  vision
+*********** Whisps
+************ BLOCKS
+************* STEP
+
+***** Tales
+****** Alternation
+******* |
+********* postionals
+********** Lightly Touching
+************* Whisps
+************** VISION
+
+***** BLOCKS
+****** BLOCK
+******* female
+********* rail
+********** |
+*********** Tales
+************ |
+************* positionals
+************** Lightly Touching
+*************** Whisps
+**************** VISION
+***************** DEPTH
+****************** points
+******************* Tales
+**** gates
+***** points
+****** beginnings
+******* Tales
+******** |
+********** postionals
+*********** Lightly Touching
+************** Whisps
+*************** VISION
+**************** female
+
+**** beginnings
+***** points
+****** gates
+******* beginnings
+******** Tales
+**** cradles
+***** centers
+****** positional colors;
+******* she
+******** VISION
+********* KVENLAND
+********** she
+*********** egg calculus
+************ ----
+*********** female
+************ ----
+********** female
+**** celestial glory
+***** degrees
+****** kven
+***** formations
+****** Tales
+******* gates
+******** Whisps
+********* cradles
+***** traces
+****** Tales
+******* Alternation
+******** |
+********** postionals
+*********** Lightly Touching
+************** Whisps
+*************** VISION
+**************** points
+***************** Whisps
+****************** BLOCKS
+******************* points
+******************** female
+***** deaths
+****** rings
+******* gates
+******** comprehensions;
+********* understandings;
+********* interpretations;
+******** rings;
+
+
+
 ** SPACES                                                     :forces:fronts:
 *** Space                                                     :forces:fronts:
 **** 
