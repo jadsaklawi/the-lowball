@@ -2698,6 +2698,78 @@ the lowball
 ******* מדינת יהודה
 
 **** Opening Book of Numbers
+***** םכגרת
+****** method of punishment for criminals
+******* Tales
+******** Alternations
+********* |
+********** positionals
+*********** lines
+************ WHISPS
+************* VISION
+************** BLOCK
+***************  םכגרת
+******* BLOCKS
+******** BLOCK
+*********  םכגרת
+********** STEP
+*********** Tales
+************ Alternations
+************* STEPS
+************** Alternation
+*************** lines
+**************** articulations
+***************** with clarity
+****************** points
+******************* articulation points
+******************** time points
+********************* points
+********************** yes; no;
+************* UNITS
+************** UNIT
+*************** kill
+**************** articulations
+***************** with clarity
+****************** points
+******************* articulation points
+******************** time points
+********************* points
+********************** line
+************** Whisps
+*************** VISION
+**************** כִּנּוֹר
+***************** Strings
+****************** Chord
+******************* illuminations
+******************** kill; lines;
+********************* divide
+********************** divisions
+*********************** recognizability
+************************ patterns
+************************* points
+**************************  םכגרת
+***** Books
+****** 1
+******* א
+********* Opening
+********** Opening Book of Numbers
+*********** Whisps
+************ points
+************* Set
+************** elements
+*************** 0, kill; [9-10];
+**************** 0, kill
+***************** points
+******************  םכגרת
+**************** [א,ט]
+***************** Opening
+****************** Opening Book of Numbers
+******************* DEPTH
+******************** degree
+
+
+
+
 **** May 14
 ***** precepts of liberty, justice and peace;
 ****** without distinction
