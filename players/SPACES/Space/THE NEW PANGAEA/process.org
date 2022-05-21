@@ -159,6 +159,122 @@
 ************ notes
 *************** SPACES                                        :forces:fronts:
 **************** Space                                        :forces:fronts:
+* process
+** THE NEW PANGAEA
+*** Point Counter Point                                  :front:space:SPACES:
+***** divisions
+***** invisibility
+****** a state that cannot be seen.
+****** recognizability
+************ Point Counter Point                                     :fronts:
+************** recognizable
+***************** counter
+****************** not recognizable
+***** recognizability
+****** representing three-dimensional objects in two dimensions.
+************* points
+***************** gates
+****************** ———
+************************* circles
+************************* curves
+************************* lines
+******************* ———
+******************** SIGHTS
+********************* Point Counter Point
+********************** sphere;
+********************** circle;
+********************* with and without
+********************* orthographic depth
+****** Flatland
+******** circle
+********* degrees:
+********* center;
+********* Concentric Circles
+********** representing three-dimensional objects in two dimensions.
+***************** points
+********************* gates
+********************** ———
+***************************** line
+*********************** ———
+***************** corners
+*********** degrees;
+*********** center;
+************ 
+************* Concentric Circles
+*************** curve
+**************** line
+***************** degrees
+******** BLOCKS
+********* BLOCK
+************ Concentric Circles
+************* degrees
+************* recognizability
+************** temporal dimensions
+*************** valid; invalid;
+**************** invalid
+
+
+*** gates
+**** recognizability
+***** points
+****** gates
+******* ———
+******** Alternation
+********* circles
+********* curves
+******* ———
+******** SIGHTS
+********* invalid
+********** Alternation
+*********** lines
+************ ariculations
+************* with clarity
+************** points
+*************** articulation points
+**************** points
+***************** yes;no;
+*********** invalid
+************ Chord
+************* divide
+************** Notes
+*************** divisions
+**************** Notes; meanings;
+***************** Notes
+****************** points
+******************* yes;
+******************** meanings
+********************* illuminations
+********************** meanings;yes;
+*********************** DEPTH
+************************ degrees
+************************* Chord
+*********************** points
+************************ Notes
+************************ meanings;
+******** VISION
+********* SIGHT
+********** 
+*********** 
+************ curves
+************* 
+************** 
+*************** 
+************** 
+*************** zero knowledge;
+************** 
+************* 
+*************** VISION
+**************** abstraction
+***************** shapes;
+****************** curves;
+******************* representing three-dimensional objects in two dimensions.
+******************** curves;
+********************* SIGHTS
+********************** curve
+*********************** line
+************************ degrees
+
+
 
 
 					
