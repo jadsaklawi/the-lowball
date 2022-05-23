@@ -938,6 +938,10 @@ Jad
 
 --
 Jad
+** On Pain                                                        :log:notes:
+    [2022-05-23 Mon 09:19]
+*** [[file:Observations/On Pain/On Pain.org][Pain]]
+
 * log
 ** Common Knowledge
 *** Common Knowledge                                                :subcard:
