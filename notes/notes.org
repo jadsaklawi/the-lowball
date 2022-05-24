@@ -949,6 +949,19 @@ Jad
 ****** yay or nay
 ******* notes
 ******** yay when number of yes; time points greater or equal to no; time points.
+** Lebanon                                                        :log:notes:
+    [2022-05-24 Tue 10:13]
+*** الامن العام
+     General Security Directorate
+     La Sûreté Générale
+**** العميد عصام حمية 
+      Brigadier General Issam Hamieh
+***** Where Merlin Played
+****** <https://github.com/jadsaklawi/the-lowball/blob/main/Where%20Merlin%20Played/landsbyen/process-1/process.png>
+***** A STORY IS KIND OF A MAP
+****** <https://github.com/jadsaklawi/the-lowball/blob/main/A%20RIGOROUS%20GEOMETRY/A%20STORY%20IS%20A%20KIND%20OF%20A%20MAP/process-8/process.png>
+***** non-positional games
+****** <https://github.com/jadsaklawi/the-lowball/blob/main/the%20lowball%2C%20origins/non-positional%20games/process-7/process.png>
 
 * log
 ** Common Knowledge
