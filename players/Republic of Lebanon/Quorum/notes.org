@@ -1,0 +1,76 @@
+Republic of Lebaon
+* process
+** Republic of Lebanon
+*** Quorum
+**** sensing
+**** paralysis
+**** busting
+***** break, split, or burst.;
+
+**** Quorum
+***** expressions
+****** properties
+*******  characterizations that permit a property to be decomposed 
+	into safety and liveness properties whose conjunction
+	(and) is the original.
+****** properties
+******* safety
+******** something (bad) will not happen
+******* liveness
+******** something (good) will eventually happen
+********* forms of liveness
+********** freedom of deadlock
+*********** deadlock
+************ safety
+************* it should never occur that unable to continue because of waiting for action from.
+************ liveness
+************* unable to continue because of waiting for action from.
+********** freedom of starvation
+*********** freedom of deadlock (and) freedom of starvation
+************ freedom of starvation
+************* liveness
+************** all unable to continue because of waiting for action from.
+************* safety
+************** deadlock
+*************** safety
+
+
+***** Consensus
+
+**** Consensus
+***** consesus
+****** pigments
+******* pigment
+******** dot
+********* consesus
+********** Notes
+*********** divisions
+************ lines;
+************* agreement
+******* pigment
+******** agreement
+********* consensus
+********** agreement
+*********** lines;lines;
+******* pigment
+******** consensus
+********* Notes
+********** divisions
+*********** agreement;lines;accords;
+************ accords
+************* articulations
+************** with clarity;
+*************** points
+**************** articulation points
+***************** time points
+****************** agreement;lines;
+******* pigment
+******** lines
+********* articulations
+********** with clarity;
+*********** points
+************ articulation points
+************* time points
+************** yes; no;
+
+

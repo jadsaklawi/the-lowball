@@ -4193,6 +4193,41 @@ the lowball
 ****** Consensus
 
 ***** Consensus
+****** consesus
+******* pigments
+******** pigment
+********* dot
+********** consesus
+*********** Notes
+************ divisions
+************* lines;
+************** agreement
+******** pigment
+********* agreement
+********** consensus
+*********** agreement
+************ lines;lines;
+******** pigment
+********* consensus
+********** Notes
+*********** divisions
+************ agreement;lines;accords;
+************* accords
+************** articulations
+*************** with clarity;
+**************** points
+***************** articulation points
+****************** time points
+******************* agreement;lines;
+******** pigment
+********* lines
+********** articulations
+*********** with clarity;
+************ points
+************* articulation points
+************** time points
+*************** yes; no;
+
 
 *** Evelina
 **** trenches
