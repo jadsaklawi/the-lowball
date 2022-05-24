@@ -149,6 +149,10 @@ the lowball
 ********** divisions
 *********** technologies
 ************* divisions
+************** knowledge; foundations; validity;
+*************** knowledge
+**************** foundations
+***************** validity
 
 ***** divisions
 ********** degrees
@@ -160,6 +164,7 @@ the lowball
 ***** recognizability
 ****** patterns
 ****** recognizable
+******* validity
 ****** recognizability
 ************ Point Counter Point
 ************** recognizable
@@ -172,6 +177,35 @@ the lowball
 ****** invisibility
 ******* a state that cannot be seen.
 ********* recognizability
+
+***** validity
+******* invalid
+******** Alternation
+********* lines
+********** ariculations
+*********** with clarity
+************ points
+************* articulation points
+************** points
+*************** yes;no;
+********* invalid
+********** Chord
+*********** divide
+************ Notes
+************* divisions
+************** Notes; meanings;
+*************** Notes
+**************** points
+***************** yes;
+****************** meanings
+******************* illuminations
+******************** meanings;yes;
+********************* DEPTH
+********************** degrees
+*********************** Chord
+********************* points
+********************** Notes
+********************** meanings;
 
 ** THE NEW PANGAEA                                                  :subcard:
 *** THE NEW PANGAEA                                     :space:fronts:SPACES:
