@@ -1168,9 +1168,13 @@ the lowball
 ****** brain
 ******* mind
 ********** rail
-************* DEPTH
-************** points
-*************** time
+*********** DEPTH
+************ degrees
+************** rail
+***************** DEPTH
+****************** points
+******************* time
+
 
 
 *** BLOCKS
@@ -1263,10 +1267,19 @@ the lowball
 ******* brain is a body
 ******** 
 ******* 
-********** rail
-************* DEPTH
-************** points
-*************** time
+********* rail
+********** DEPTH
+*********** degrees
+************* rail
+**************** DEPTH
+***************** points
+****************** time
+******************* points
+******************** spheres
+********************* tick; Chord; Strings;
+********************** Creatio ex nihilo
+*********************** Genesis 1:1
+
 
 ** Pyramid                                                          :subcard:
 *** Unit Structures
