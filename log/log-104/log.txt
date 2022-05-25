@@ -1,0 +1,12 @@
+**  "willfully chosen";                                           :log:notes:
+   [2022-05-25 Wed 19:27]
+*** automata
+**** Manuel Blum  
+      <mblum@cs.cmu.edu>,
+**** Leslie Lamport  
+       <lamport@microsoft.com>,
+**** "E. Allen Emerson" 
+        <emerson@cs.utexas.edu>
+*** [[https://github.com/jadsaklawi/the-lowball/commit/076ae528470582a6ed1ee618b36bb7c164bc3e6a][commit 076ae52]]
+**** "willfully chosen";
+
