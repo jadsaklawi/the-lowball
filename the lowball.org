@@ -63,9 +63,45 @@ the lowball
 **** and Logic
 ***** Logic
 ****** Classical
+******* statement
+******** line
+********* articulations
+********** with clarity
+*********** points
+************ articulation points
+************* true;false;
 ****** Extended
+******* statement
+******** points
+********* meanings;statement;
+********** articulations
+*********** with clarity
+************ points
+************* articulation points
+************** meanings;line;
+*************** meanings
+**************** divide
+***************** Notes
+****************** divisions
+******************* invalid;statement;
 ****** Deviant
+******* statement
+******** points
+********* false;true;
+********** false
+*********** statement
+*********** points
+************ meanings;statement;
+************* points
+************** false;false;
+*************** points
+**************** false;false;
+***************** Alternation
+****************** invalid
 ****** Informal
+******* statement
+******** points
+********* meanings;false;true;
 
 *** Deuces
 
