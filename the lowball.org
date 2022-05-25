@@ -1609,7 +1609,7 @@ the lowball
 **** Surveying;
 **** Whisps
 *** Tales
-**** Strcuture Whisps;
+**** Structure Whisps;
 **** Tales
 *** Blocks
 
@@ -2501,10 +2501,54 @@ the lowball
 ************ Genesis 1:1
 ******** meanings
 ********* tick
-
-
-
-
+*** Adam and Eve
+**** free will
+***** "willfully chosen" disobedience to God;
+***** will
+****** STRUCTURE
+******* SPACES
+******** channels
+****** STRUCTURE
+******* computation
+******** points
+********* articulation points
+********** read;write;
+*********** divide
+************ divisions
+************* points
+************** Let there be light; will;
+*************** Jad, tick, spheres
+**************** Strings
+***************** Chord
+****************** illuminations;
+******************* tick; Chord
+******************** divide
+********************* divisions
+********************** recognizability
+*********************** patterns
+************************ points
+************************* Patterns; Classes;
+********************** recognizabile
+*********************** degrees
+************************ Strings
+************************* DEPTH
+************************** degrees
+***************** order
+****************** points
+******************* tick; Chord; Strings;
+******************** Creatio ex nihilo
+********************* Genesis 1:1
+***************** meanings
+****************** tick
+**** automata
+***** self-acting;self-willed;self-moving
+****** free will
+*** Genesis 1:26
+**** Let us make man in our image
+***** Adam and Eve
+****** rail
+******* DEPTH
+******** degrees
 
 * /players/
 ** Planet Earth                                :forces:fronts:botanical:unit:
