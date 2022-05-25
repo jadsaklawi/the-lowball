@@ -962,6 +962,16 @@ Jad
 ****** <https://github.com/jadsaklawi/the-lowball/blob/main/A%20RIGOROUS%20GEOMETRY/A%20STORY%20IS%20A%20KIND%20OF%20A%20MAP/process-8/process.png>
 ***** non-positional games
 ****** <https://github.com/jadsaklawi/the-lowball/blob/main/the%20lowball%2C%20origins/non-positional%20games/process-7/process.png>
+** [[https://en.wikipedia.org/w/index.php?title=Knights_and_Knaves&oldid=1084903735][Knights and Knaves]]                                             :log:notes:
+   [2022-05-25 Wed 16:34]
+*** [[https://en.wikipedia.org/w/index.php?title=Logic_puzzle&oldid=1087123973][logic puzzle]]
+**** Whiteskin
+***** and Logic
+****** Logic
+******* Classical
+******* Extended
+******* Deviant
+******* Informal
 
 * log
 ** Common Knowledge

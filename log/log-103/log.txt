@@ -1,0 +1,11 @@
+** [[https://en.wikipedia.org/w/index.php?title=Knights_and_Knaves&oldid=1084903735][Knights and Knaves]]                                             :log:notes:
+   [2022-05-25 Wed 16:34]
+*** [[https://en.wikipedia.org/w/index.php?title=Logic_puzzle&oldid=1087123973][logic puzzle]]
+**** Whiteskin
+***** and Logic
+****** Logic
+******* Classical
+******* Extended
+******* Deviant
+******* Informal
+
