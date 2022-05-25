@@ -1,0 +1,80 @@
+Compositions
+* process
+** Concentric Circles                                                  :card:
+*** Compositions                                                    :subcard:
+**** STRUCTURAL ABSTRACTIONS
+***** ABSTRACTION
+**** ABSTRACTION
+***** invalid
+***** shape notes
+****** curve
+****** line
+***** circle
+**** gates
+***** recognizability
+****** invalid
+******* Alternation
+******** lines
+********* ariculations
+********** with clarity
+*********** points
+************ articulation points
+************* points
+************** yes;no;
+******** invalid
+********* Chord
+********** divide
+*********** Notes
+************ divisions
+************* Notes; meanings;
+************** Notes
+*************** points
+**************** yes;
+***************** meanings
+****************** illuminations
+******************* meanings;yes;
+******************** DEPTH
+********************* degrees
+********************** Chord
+******************** points
+********************* Notes
+********************* meanings;
+
+**** aqueducts
+***** constructions;
+****** shape notes
+******* cruve
+******** line
+********* points
+********** true;flase;
+*********** degrees
+************ aritculations
+************* with clarity
+************** points
+*************** articulation points
+**************** true;false;
+******* line
+******** aritculations
+********* with clarity
+********** points
+*********** articulation points
+************ true;false;
+**** elements
+***** circle
+****** curve
+******* line
+******** degrees
+****** dimensions
+******* 2
+****** center
+******* line
+******** degrees
+********* 360
+****** radius
+******* line
+******** degrees
+
+
+
+
+
