@@ -983,7 +983,11 @@ Jad
         <emerson@cs.utexas.edu>
 *** [[https://github.com/jadsaklawi/the-lowball/commit/076ae528470582a6ed1ee618b36bb7c164bc3e6a][commit 076ae52]]
 **** "willfully chosen";
-
+** log                                                                :notes:
+   [2022-01-23 Sun 22:27]
+*** TODO process
+   [2022-01-21 Fri 06:48]
+**** It appears to you that you accepted
 * log
 ** Common Knowledge
 *** Common Knowledge                                                :subcard:
