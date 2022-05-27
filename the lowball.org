@@ -1389,7 +1389,7 @@ the lowball
 ********************** variations
 ********************** dimensions
 ********************** depth
-
+****** circle
 ***** A New Geometry
 ****** square
 ******** like a square, five corners
@@ -2209,7 +2209,6 @@ the lowball
 ***** radius
 ****** line
 ******* degrees
-
 
 
 
@@ -5112,7 +5111,6 @@ the lowball
 ***************************** curve
 ****************************** line
 ******************************* degrees
-
 
 * the lowball
 ** the lowball

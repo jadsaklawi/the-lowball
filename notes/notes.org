@@ -988,6 +988,42 @@ Jad
 *** TODO process
    [2022-01-21 Fri 06:48]
 **** It appears to you that you accepted
+
+** CERN                                                               :notes:
+   [2022-05-27 Fri 15:25]
+  Conseil européen pour la recherche nucléaire
+*** International Relations
+**** [[About][About]]
+**** PROTOCOL OFFICE
+***** General enquiries
+        protocol.office@cern.ch
+***** Stéphanie Molinari
+        stephanie.molinari@cern.ch
+***** Marina De Piero
+        marina.de.piero@cern.ch
+***** Alexandra Ntintifa
+        alexandra.ntintifa@cern.ch
+**** IR Management
+***** Catherine Brandt
+       catherine.brandt@cern.ch
+*** Lordly Gestures
+**** A STORY IS KIND OF A MAP
+        *~
+        https://github.com/jadsaklawi/the-lowball/blob/main/A%20RIGOROUS%20GEOMETRY/A%20STORY%20IS%20A%20KIND%20OF%20A%20MAP/process-8/process.png 
+       ~*
+**** Creatio ex nihilo
+***** Space
+         *~
+       https://github.com/jadsaklawi/the-lowball/blob/main/Lordly%20Gestures/Creatio%20ex%20nihilo/process-1/process-1.png
+        ~*
+**** earthly pigments
+***** positionals
+****** position
+******* absolute;
+         *~
+         https://github.com/jadsaklawi/the-lowball/blob/main/earthly%20pigments/process-1/process-4.png
+         ~*
+
 * log
 ** Common Knowledge
 *** Common Knowledge                                                :subcard:
