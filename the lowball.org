@@ -2381,6 +2381,53 @@ the lowball
 ********************** patterns
 *********************** points
 ************************  םכגרת
+*** הֲטָיָה
+**** a condition of decline or moral deterioration
+***** Tales
+****** Alternations
+******* |
+******** positional warfare
+********* lines
+********** WHISPS
+*********** VISION
+************ BLOCK
+************* הֲטָיָה
+**** BLOCKS
+***** BLOCK
+****** הֲטָיָה
+******* STEP
+******** Tales
+********* Alternation
+********** lines
+*********** articulation points
+************ with clarity
+************* points
+************** articulation points
+*************** time points
+**************** points
+***************** יְהוּדִים
+***** BLOCK
+****** יְהוּדִים
+******* Jewish People
+******** SIGHTS
+********* vision
+********** elements
+*********** 
+************  בְּנֵי יִשְׂרָאֵל‎
+************* Israelites
+************** SIGHTS
+*************** vision
+**************** --------
+***************** Collective numerals
+****************** together
+******************* Set
+******************** elements
+********************* [(shnenu, שְׁנֵינוּ‎)- (asartenu, עֲשַׂרתֵּנוּ‎)
+********************** Opening
+*********************** 1
+************************ א
+************************* DEPTH
+************************** degrees
 *** Books
 **** 1
 ***** א
@@ -2390,7 +2437,7 @@ the lowball
 ********** points
 *********** Set
 ************ elements
-************* 0, kill; [9-10];
+************* 0, kill; [1-10];
 ************** 0, kill
 *************** points
 ****************  םכגרת
@@ -2399,6 +2446,28 @@ the lowball
 **************** Opening Book of Numbers
 ***************** DEPTH
 ****************** degree
+**** 2
+***** ב
+****** Opening
+******* Opening Book of Numbers
+******** Whisps
+********* points
+********** Set
+*********** elements
+************ [0-12]
+************* (יְהוּדִים, Reuben);(יוֹסֵף‎‎, Joseph);
+************** divide
+*************** divisions
+**************** recognizability
+***************** patterns
+****************** points
+******************* הֲטָיָה
+************ [(אֶפֶס‎,0)-[(תשמ״ד,you will be destroyed)-(תמש״ד‎,end to demon)]]
+************* Opening
+************** Opening
+*************** Opening Book of Numbers
+**************** DEPTH
+***************** degree
 ** Epoch                                                            :subcard:
 *** creation out of nothing;
 **** Epoch 1
@@ -5494,7 +5563,7 @@ the lowball
 ******** vision borders
 ********* Notes
 ********** divisions
-*********** light;darknes;
+*********** light;darkness;
 ******* pigment
 ******** colors
 ********* points
