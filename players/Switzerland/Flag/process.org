@@ -1,0 +1,48 @@
+* process
+** Switzerland
+*** Flag
+**** Swiss cross
+***** red;white
+****** squares
+******* pigments
+******** pigment
+********* dot
+********** cantons
+*********** divide
+************ divisions
+************* squares
+************** points
+*************** intersections;
+******** pigment
+********* cantons
+********** Notes
+*********** divisions
+************ colors
+************* positional colors
+************** pionts
+*************** shades
+**************** red;white;
+******** pigment
+********* shades
+********** Notes
+*********** divisions
+************ divide
+************* Notes
+************** divisions
+*************** cantons
+******** pigment
+********* intersections
+********** pionts
+*********** Peaks;Clocks;Land;
+************ Notes
+************* divisions
+************** shades
+*************** ariticulations
+**************** with clarity
+***************** points
+****************** articulation points
+******************* time points
+******************** yes; no;
+
+
+
