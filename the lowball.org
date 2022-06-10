@@ -2723,6 +2723,23 @@ the lowball
 **** nadir
 ***** points
 ****** good;bad;
+* Color Scales                                                         :card:
+** Spots                                                            :subcard:
+*** colors ~ shapes ~ charachters
+**** wheels
+***** legends ~ colors ~ shapes
+****** harmonies
+******* real ~ perfect
+**** geometries
+***** shapes ~ colors ~ charachters
+****** class ~ effect ~ shades
+******* determinatives
+**** charachters
+***** emotions ~ traits
+****** palettes
+******* depth ~ reflections ~ signs
+******** elements
+
 * /players/
 ** earth                                                     :botanical:unit:
 *** United States of America
