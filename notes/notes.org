@@ -1071,6 +1071,9 @@ Jad
      involuntary swinging of the arms forward and backward while walking.
        * Synchronously when in both arms.
 
+** Republic of Lebanon                                                :notes:
+   لبنان
+   [2022-06-10 Fri 15:20]
 * log
 ** Common Knowledge
 *** Common Knowledge                                                :subcard:

@@ -4773,8 +4773,51 @@ the lowball
 ************* articulation points
 ************** time points
 *************** yes; no;
-
-
+**** بشرى الأرز
+***** Flag of Lebanon
+****** Cedars
+******* touches red
+******** red
+********* blood;pigments;courage;
+********** pigments
+*********** pigment
+************ dot
+************* courage
+************** Notes
+*************** divisions
+**************** divisions
+***************** shape notes
+****************** blood;Cedars;
+*********** pigment
+************ blood
+************* Notes
+************** divisions
+*************** Honor;Sacrifice;Loyalty;
+**************** Loyalty
+***************** divisions
+****************** colors
+******************* positional colors
+******************** points
+********************* shades
+********************** red;white;green;
+******** touches
+********* our maps of are.
+********** points
+*********** starting points
+************ red
+************* dots
+************** positional colors;
+*************** touches
+**************** blood
+************** political calculations;
+*********** objects of reasoning
+************ Cedars
+************ Swords
+************ Laurel branches
+************* branches
+************** Honor;Sacrifice;Loyalty;
+************ Anchor
+************* touches red
 *** Evelina
 **** trenches
 ***** SPACES
