@@ -2,31 +2,25 @@ the lowball
 
 * Acknowledgement
 ** Acknowledgement
- United States of America
- People's Republic of China
- United Kingdom
- Russian Federation
- Vatican City State
- State of Israel
- Islamic Republic of Iran
- Kingdom of Sweden  
- Åland
- Greece
- Canada
- State of Kuwait
- Qatar
- United Arab Emirates
- Japan
- Kingdom of Saudi Arabia
- Republic of Finland
- French Republic
- Republic of Italy
- Federal Republic of Germany
- Comonwealth of Australia
- Republic of India
- Republic of the Philippines
- New Zealand
-
+*** United States of America
+*** People's Republic of China
+*** United Kingdom
+*** Russian Federation
+*** French Republic
+*** Federal Republic of Germany
+*** Republic of India
+*** Greece
+*** Switzerland
+*** Japan
+*** Vatican City State
+*** State of Israel
+*** Islamic Republic of Iran
+*** State of Kuwait
+*** Kingdom of Sweden 
+*** Republic of Finland
+*** Republic of Italy
+*** Republic of South Africa
+*** New Zealand
 * the lowball, origins                                                 :card:
 ** botanical gardens                                                :subcard:
 *** botanical names
