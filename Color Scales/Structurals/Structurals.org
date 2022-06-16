@@ -1,0 +1,114 @@
+* Color Scales
+** Structurals
+*** Black
+**** https://en.wikipedia.org/wiki/Shades_of_gray#Black
+      - "color of objects that do not emit or reflect light in any
+        part of the visible spectrum; they absorb all such frequencies
+        of light. "
+      - "platonic ideal black is never found with actual pigments or
+        other coloring, sufficiently dark items are generally referred
+        to as "black".
+***** https://en.wikipedia.org/wiki/Platonic_ideal
+****** https://en.wikipedia.org/w/index.php?title=Platonic_ideal&redirect=no
+******* https://en.wikipedia.org/wiki/Theory_of_forms#Ideal_state
+********  aspatial (transcendent to space)
+********  atemporal (transcendent to time)
+	 - " atemporal means that it does not exist within any time
+           period, rather it provides the formal basis for time."
+*** increments
+**** https://en.wikipedia.org/wiki/Incrementalism
+    - "a method of working by adding to a project using many small
+      incremental changes instead of a few (extensively planned) large
+      jumps. Logical incrementalism implies that the steps in the
+      process are sensible"
+      - https://www.dictionary.com/browse/sensible
+	- "sound judgment"
+***** Grey
+****** https://en.wikipedia.org/wiki/Grey
+      - "grey is too weak to be considered masculine, but too menacing
+        to be considered a feminine color. It is neither warm nor
+        cold, neither material or spiritual. With grey, nothing seems
+        to be decided."
+	- "it symbolizes the wisdom and dignity that come with experience and age."
+******* increments
+***** https://en.wikipedia.org/wiki/Increment
+     - "Incrementalism, a theory (also used in politics as a synonym for gradualism)"
+       - https://en.wikipedia.org/wiki/Gradualism
+	 - "Gradualism, from the Latin gradus ("step")"
+	 - "s a hypothesis, a theory or a tenet assuming that change
+           comes about gradually or that variation is gradual in
+           nature and happens over time as opposed to in large steps."
+*********** Color Scales
+************ Spots
+************* depth ~ reflections ~ signs
+*** Structurals
+**** https://en.wikipedia.org/wiki/Structural_coloration
+    - "is the production of colour by microscopically structured
+      surfaces fine enough to interfere with visible light, sometimes
+      in combination with pigments"
+      - color
+***** Structure not pigment
+****** https://en.wikipedia.org/wiki/Structural_coloration#Structure_not_pigment
+      - Structural coloration is caused by interference effects rather
+        than by pigments
+******* Color Scales
+******** Spots
+********* class ~ effect ~ shades
+******* Variable structures
+******** https://en.wikipedia.org/wiki/Structural_coloration#Variable_structures
+********* increments
+	 - "contain multiple reflectin layers, the switch changes the
+           layer spacing and hence the colour of light that is
+           reflected"
+	   - color
+************* strokes
+************** increments ~ changes ~ equilibriums
+*** aspatials
+**** https://en.wiktionary.org/wiki/aspatial
+    - "Not spatial"
+      - https://en.wiktionary.org/wiki/spatial
+	- "Pertaining to (the dimension of) space."
+*** atemporals
+**** https://en.wiktionary.org/wiki/atemporal
+    - "atemporal (unaffected by time)"
+*** equilibriums
+**** https://en.wikipedia.org/wiki/Equilibrium
+    - "the condition of a system in which all competing influences are balanced"
+***** Color Scales
+****** Spots
+******* palettes
+******** depth ~ reflections ~ signs
+********* elements
+**** http://www.scholarpedia.org/article/Equilibrium
+    - "Most mathematicians refer to equilibria as time-independent solutions"
+***** atemporals
+****** Color Scales
+******* Spots
+******** legends ~ colors ~ shapes
+**** https://en.wikipedia.org/wiki/Incrementalism#Advantages
+***** steps
+****** changes
+******* dimensions ~ step ~ visions
+****** equilibriums
+******* steps ~ changes ~ space
+****** strokes
+******* increments ~ changes ~ equilibriums
+**** https://en.wikipedia.org/wiki/Gradualism
+    - "Gradualism, from the Latin gradus ("step"), is a hypothesis, a theory
+or a tenet assuming that change comes about gradually or that
+variation is gradual in nature and happens over time as opposed to in
+large steps."
+***** https://en.wikipedia.org/wiki/Gradualism#Politics_and_society
+     - "change can be achieved in small, discrete increments rather
+       than in abrupt strokes"
+******** changes
+********* dimensions ~ step ~ visions
+******** strokes
+********* increments ~ changes ~ equilibriums
+***** https://en.wikipedia.org/wiki/Law_of_gradualness
+      - "the notion" "relationship" "grow in the virtues gradually, and
+        do not jump to perfection in a single step."
+      - ""it is often better to encourage the positive elements""
+        ""rather than to chastise their flaws""
+
+
