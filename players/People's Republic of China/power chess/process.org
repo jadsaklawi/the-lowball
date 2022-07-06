@@ -1,0 +1,46 @@
+* People's Republic of China
+** 權力國際象棋
+*** power chess
+**** borders
+**** pieces
+***** 人們, the people
+***** 派對, the party
+***** 政府, the government
+***** 軍隊, the army
+**** notations
+***** systems
+****** system 1
+******* named ranks
+****** system 2
+******* symbol ranks
+****** system 3
+******* named, symbol ranks
+**** game plays
+***** moves
+****** bad;good;uncertain.;
+****** sequences
+******* moves
+***** tactics
+****** attacks
+****** pinning
+******* cannot move without revealing information
+******** pieces
+****** skewers
+******* when attacked, reveal information
+******** pieces
+****** checks
+******* threats of capture
+******** pieces
+***** openings
+****** centers
+****** coordinations
+******* pieces
+******* moves
+******* tactics
+****** opponents
+**** histories
+***** 時代, eras
+****** equilibrium points
+******* fixed
+******* critical
+******* steady
