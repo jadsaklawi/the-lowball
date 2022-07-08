@@ -237,4 +237,46 @@
 *************************** not recognizable
 ************** recognizability
 ************ process
+** process
+*** the lowball
+**** the lowball
+***** the lowball
+****** "Acknowledgement"
+******* The act of acknowledging;
+****** "Resolution"
+******* process of resolving.
+****** "pərˈso͞oəns"
+******* "pərˈso͞oənt to our agreement";
+******* The state of being pərˈso͞oənt;
+****** "sä(l)m"
+******* To extol in sä(l)ms;
+******** extol
+********* honor;
+******** sä(l)ms
+********* sä(l)ms;
+****** the lowball
+******* /players/
+******* /decks/
+******** /players/
+******* /cards/
+******** /subcards/
+******* /levels/
+******** "Acknowledgement"
+******** "Resolution"
+******** "pərˈso͞oəns"
+******** "sä(l)m"
+
+***** the lowball
+****** Acknowledgement
+****** the lowball, origins                                            :card:
+****** Where Merlin Played                                             :card:
+****** Chance in the House of Fate                                     :card:
+****** A RIGOROUS GEOMETRY                                             :card:
+****** Concentric Circles                                              :card:
+****** earthyl pigments                                                :card:
+****** Earthly Gestures                                                :card:
+****** Color Scales                                                    :card:
+****** /players/
+****** the lowball
+
 

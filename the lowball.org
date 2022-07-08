@@ -5882,14 +5882,8 @@ the lowball
 ***** /players/
 ***** /decks/
 ****** /players/
-****** /levels/
 ***** /cards/
-****** /players/
-****** /decks/
-****** /Subcards/
-******* /decks/
-******* /levels/
-****** /levels/
+****** /subcards/
 ***** /levels/
 ****** "Acknowledgement"
 ****** "Resolution"
@@ -5903,6 +5897,9 @@ the lowball
 **** Chance in the House of Fate                                       :card:
 **** A RIGOROUS GEOMETRY                                               :card:
 **** Concentric Circles                                                :card:
+**** earthyl pigments                                                  :card:
+**** Earthly Gestures                                                  :card:
+**** Color Scales                                                      :card:
 **** /players/
 **** the lowball
 
