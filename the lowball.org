@@ -122,7 +122,6 @@ the lowball
 **** one that may be used to represent any other playing card, sometimes with certain restrictions.
 **** however, may also have other uses, such as being a permanent top trump.
 
-
 ** Eagle Fountain                                                   :subcard:
 * Where Merlin Played                                                  :card:
 ** Where Merlin Played
@@ -1374,7 +1373,6 @@ the lowball
 ********************** Creatio ex nihilo
 *********************** Genesis 1:1
 
-
 ** Pyramid                                                          :subcard:
 *** Unit Structures
 **** Units
@@ -1612,7 +1610,6 @@ the lowball
 ************* degrees
 ************* points
 ************** time; SPACES;
-
 
 **   ήτα                                                            :subcard:
 *** حدث
@@ -2770,7 +2767,7 @@ the lowball
 **** dots
 ***** the Sentate, the House
 ****** Structure
-******* Privelages, Accountabilities, Legislations
+******* Privileges, Accountabilities, Legislations
 ******** Structurals
 ********* dimensions ~ visions ~ changes
 ********** steps
@@ -2779,7 +2776,7 @@ the lowball
 *********** spectrums ~ acts
 ******* Majorty, Consensus
 ******** Majorities
-********* specturums
+********* spectrums
 ********** divisions
 *********** left-right;liberal;moderate;conservative;
 ************ idealogies
@@ -3342,34 +3339,8 @@ the lowball
 ********** meanings
 *********** tick
 
-
-
-
 *** State of Israel
-**** Hand of Isreal
-***** notes
-     - Naftali Bennett
-       [2022-01-03 Mon 18:14]
-       + Dream victims
-	 [2022-01-04 Tue 12:16]
-       + Sound pulsing
-	 [2022-01-05 Wed 15:42]
-       + Seperately, US Defense, other, etc...
-	 [2022-01-07 Fri 12:38]
-       + The forces
-	 [2022-01-07 Fri 12:46]
-     - Benny Gantz (Defense)
-       [2022-01-03 Mon 18:13] (time approximate)
-     - Yair Lapid (Foreign Affairs, Alternate Prime Minister)
-       [2022-01-03 Mon 17:55]
-     - Ayelet Shaked (Interior)
-       [2022-01-03 Mon 17:58]
-     - Avigdor Lieberman (Finance)
-       [2022-01-03 Mon 18:02]
-     - Eli Avidar (PM's Office)
-       [2022-01-03 Mon 18:05]
-     - 
-       
+**** Hand of Israel
 **** Opening Book of Numbers
 ***** נקראו
 ****** Were called
@@ -3461,11 +3432,9 @@ the lowball
 
 
 
-
 **** May 14
 ***** precepts of liberty, justice and peace;
 ****** without distinction
-
 
 *** Islamic Republic of Iran
 **** جمهوریت
@@ -3478,7 +3447,6 @@ the lowball
 ***** ˈsvæ̌rjɛ
 ***** – i tiden
 ****** in time
-
 
 *** Madonna
 **** Madonna
@@ -3621,7 +3589,6 @@ the lowball
 ************ positional colors
 ****** degrees; formations; traces;
 ************** celestial glory
-
 
 *** Greece
 **** Unit Structures
@@ -4047,7 +4014,6 @@ the lowball
 
 ******** ------
 
-
 *** Federal Republic of Germany
 **** THE NEW PANGAEA
 ***** Jagdhund
@@ -4079,7 +4045,6 @@ the lowball
 ********* Nominative
 ********* Accusative
 ********* Genitive
-
 
 *** Republic of India
 **** Mesmerize India
@@ -4464,7 +4429,6 @@ the lowball
 ************** Russian Federation
 ************** United states of America
 
-
 *** Republic of Finland
 **** involves a happy encounter.
      Date added, [2022-01-15 Sat 13:51]
@@ -4533,8 +4497,6 @@ the lowball
 ****** traits
 ******* graphic traits;
 ******* attributes;
-
-
 
 *** Åland
 ***** leafs
@@ -4751,8 +4713,6 @@ the lowball
 ***************** time points
 ******************* he; she;
 
-
-
 *** NASA
    National Aeronautics and Space Administration
 **** taut line
@@ -4786,7 +4746,6 @@ the lowball
 **********************  ———           o degrees;
 *********************** taut line
 ************************* Colors of the Moon
-
 
 *** Republic of Lebanon
 **** heterogeneous borders
@@ -5019,14 +4978,6 @@ the lowball
 ********** shapes;
 ********** planes;
 ********** axis, ˈak-səs;
-
-
-
-
-
-
-
-
 *** New Zealand
 **** NEWZEALAND
 ****** GOD SAVE THE QUEEN
@@ -5040,150 +4991,6 @@ the lowball
 ********* esteemed
 **** Flag of Silver Ferns
 
-*** KVENLAND
-**** /ˈħɛ.lɔw/
-**** Unit Structures
-***** Unit
-****** VISION
-******** abstractions
-********** shapes;
-*********** articulations
-************ with clarity
-************* points
-************** articulation points
-*************** time points
-**************** yes; no;
-********** points;
-********** constructions;
-*********** strokes
-************ splitting
-************* divisions
-************** degrees
-*************** shapes
-**************** articulations
-***************** with clarity
-****************** points
-******************* articulation points
-******************** time points
-********************* points
-********************** line
-************ layering
-************* Strings
-************** Chord
-*************** illuminations;
-**************** Notes; Shapes
-***************** divide
-****************** divisions
-******************* recognizability
-******************** patterns
-********************* points
-********************** Patterns;Classes;
-******************** recognizabile
-********************* degrees
-********************** Strings
-*********************** DEPTH
-************************ degrees
-********** centers;
-******** articulations
-********* with clarity
-********** points
-*********** articulation points
-************ time points
-************* shapes
-
-***** STEPS
-****** Alternation
-********* shapes
-********* points
-***** Whisps
-****** VISION
-******* • KVENLAND •
-******** kven
-********* effortlessly translates to "woman"
-********** STEP
-                  vision
-*********** Whisps
-************ BLOCKS
-************* STEP
-
-***** Tales
-****** Alternation
-******* |
-********* postionals
-********** Lightly Touching
-************* Whisps
-************** VISION
-
-***** BLOCKS
-****** BLOCK
-******* female
-********* rail
-********** |
-*********** Tales
-************ |
-************* positionals
-************** Lightly Touching
-*************** Whisps
-**************** VISION
-***************** DEPTH
-****************** points
-******************* Tales
-**** gates
-***** points
-****** beginnings
-******* Tales
-******** |
-********** postionals
-*********** Lightly Touching
-************** Whisps
-*************** VISION
-**************** female
-
-**** beginnings
-***** points
-****** gates
-******* beginnings
-******** Tales
-**** cradles
-***** centers
-****** positional colors;
-******* she
-******** VISION
-********* KVENLAND
-********** she
-*********** egg calculus
-************ ----
-*********** female
-************ ----
-********** female
-**** celestial glory
-***** degrees
-****** kven
-***** formations
-****** Tales
-******* gates
-******** Whisps
-********* cradles
-***** traces
-****** Tales
-******* Alternation
-******** |
-********** postionals
-*********** Lightly Touching
-************** Whisps
-*************** VISION
-**************** points
-***************** Whisps
-****************** BLOCKS
-******************* points
-******************** female
-***** deaths
-****** rings
-******* gates
-******** comprehensions;
-********* understandings;
-********* interpretations;
-******** rings;
 *** Czech Republic
 **** Czech cestina;Bohemian
 ***** ono
@@ -5418,7 +5225,6 @@ the lowball
 *************** goals;ideologies;interests;
 ************ Independents
 ************ History shadows
-
 
 ** SPACES                                                     :forces:fronts:
 *** Space
@@ -5857,6 +5663,151 @@ the lowball
 ***** Motto
 ****** general motivation;intention;
 ******* Power, death, light.
+**** KVENLAND
+***** /ˈħɛ.lɔw/
+***** Unit Structures
+****** Unit
+******* VISION
+********* abstractions
+*********** shapes;
+************ articulations
+************* with clarity
+************** points
+*************** articulation points
+**************** time points
+***************** yes; no;
+*********** points;
+*********** constructions;
+************ strokes
+************* splitting
+************** divisions
+*************** degrees
+**************** shapes
+***************** articulations
+****************** with clarity
+******************* points
+******************** articulation points
+********************* time points
+********************** points
+*********************** line
+************* layering
+************** Strings
+*************** Chord
+**************** illuminations;
+***************** Notes; Shapes
+****************** divide
+******************* divisions
+******************** recognizability
+********************* patterns
+********************** points
+*********************** Patterns;Classes;
+********************* recognizabile
+********************** degrees
+*********************** Strings
+************************ DEPTH
+************************* degrees
+*********** centers;
+********* articulations
+********** with clarity
+*********** points
+************ articulation points
+************* time points
+************** shapes
+
+****** STEPS
+******* Alternation
+********** shapes
+********** points
+****** Whisps
+******* VISION
+******** • KVENLAND •
+********* kven
+********** effortlessly translates to "woman"
+*********** STEP
+                   vision
+************ Whisps
+************* BLOCKS
+************** STEP
+
+****** Tales
+******* Alternation
+******** |
+********** postionals
+*********** Lightly Touching
+************** Whisps
+*************** VISION
+
+****** BLOCKS
+******* BLOCK
+******** female
+********** rail
+*********** |
+************ Tales
+************* |
+************** positionals
+*************** Lightly Touching
+**************** Whisps
+***************** VISION
+****************** DEPTH
+******************* points
+******************** Tales
+***** gates
+****** points
+******* beginnings
+******** Tales
+********* |
+*********** postionals
+************ Lightly Touching
+*************** Whisps
+**************** VISION
+***************** female
+
+***** beginnings
+****** points
+******* gates
+******** beginnings
+********* Tales
+***** cradles
+****** centers
+******* positional colors;
+******** she
+********* VISION
+********** KVENLAND
+*********** she
+************ egg calculus
+************* ----
+************ female
+************* ----
+*********** female
+***** celestial glory
+****** degrees
+******* kven
+****** formations
+******* Tales
+******** gates
+********* Whisps
+********** cradles
+****** traces
+******* Tales
+******** Alternation
+********* |
+*********** postionals
+************ Lightly Touching
+*************** Whisps
+**************** VISION
+***************** points
+****************** Whisps
+******************* BLOCKS
+******************** points
+********************* female
+****** deaths
+******* rings
+******** gates
+********* comprehensions;
+********** understandings;
+********** interpretations;
+********* rings;
+
 * the lowball
 ** the lowball
 *** the lowball
