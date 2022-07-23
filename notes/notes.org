@@ -1074,6 +1074,17 @@ Jad
 ** Republic of Lebanon                                                :notes:
    لبنان
    [2022-06-10 Fri 15:20]
+** Crayola                                                        :notes:log:
+  [2022-07-23 Sat 12:51]
+*** message
+   Subject: harmonies
+
+  Color Scales
+     ~*~ palettes ~*~
+       depth ~ reflections ~ signs
+          * elements
+*** Other
+   [[https://shop.crayola.com/on/demandware.store/Sites-Crayola-Site/default/CAContactUs][Contact Crayola]]
 * log
 ** Common Knowledge
 *** Common Knowledge                                                :subcard:
